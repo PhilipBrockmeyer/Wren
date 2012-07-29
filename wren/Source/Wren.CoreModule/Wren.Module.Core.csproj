@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6EF34768-D4F4-4DD9-B3DA-CEB4B77225C9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Wren.Module.Core</RootNamespace>
+    <AssemblyName>Wren.Module.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\Wren.Module.Core.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\Wren.Module.Core.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Antlr3.Runtime">
+      <HintPath>..\..\Lib\Jint\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip">
+      <HintPath>..\..\Lib\DotNetZip\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="Jint">
+      <HintPath>..\..\Lib\Jint\Jint.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Newtonsoft.Json, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b9a188c8922137c6, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Lib\RavenDB\EmbeddedClient\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationFramework" />
+    <Reference Include="Raven.Client">
+      <HintPath>..\..\Lib\RavenDB\EmbeddedClient\Raven.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Raven.Database, Version=1.0.0.0, Culture=neutral, PublicKeyToken=37f41c7f99471593, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Lib\RavenDB\EmbeddedClient\Raven.Database.dll</HintPath>
+    </Reference>
+    <Reference Include="SlimDX">
+      <HintPath>..\..\Lib\SlimDX\SlimDX.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Achievements\Achievement.cs" />
+    <Compile Include="Achievements\AchievementDefinition.cs" />
+    <Compile Include="Achievements\AchievementEvaluator.cs" />
+    <Compile Include="Achievements\AchievementGameInfoProvider.cs" />
+    <Compile Include="Achievements\AchievementEvaluatorHelpers.cs" />
+    <Compile Include="Achievements\AchievementsManager.cs" />
+    <Compile Include="Achievements\AchievementsModule.cs" />
+    <Compile Include="Achievements\AchievementState.cs" />
+    <Compile Include="Achievements\BuiltInFunction.cs" />
+    <Compile Include="Audio\AudioPlayer.cs" />
+    <Compile Include="Audio\Channel.cs" />
+    <Compile Include="Audio\MixedChannel.cs" />
+    <Compile Include="Audio\SineChannel.cs" />
+    <Compile Include="Directory\DirectoryManager.cs" />
+    <Compile Include="Directory\DirectoryModule.cs" />
+    <Compile Include="Directory\IDirectoryManager.cs" />
+    <Compile Include="Directory\PathSettings.cs" />
+    <Compile Include="GameLibrary\GameInfoProviderUpdateMode.cs" />
+    <Compile Include="Achievements\AchievementSettings.cs" />
+    <Compile Include="GameLibrary\GameLibraryModule.cs" />
+    <Compile Include="GameLibrary\GameLibraryManager.cs" />
+    <Compile Include="GameLibrary\IGameInfoProvider.cs" />
+    <Compile Include="GameLibrary\IGameLibraryManager.cs" />
+    <Compile Include="Input\GamepadInputSource.cs" />
+    <Compile Include="Input\InputSettings.cs" />
+    <Compile Include="Persistence\BinaryFilePersistenceProvider.cs" />
+    <Compile Include="Input\InputManager.cs" />
+    <Compile Include="Input\InputModule.cs" />
+    <Compile Include="Input\KeyboardBindingSettings.cs" />
+    <Compile Include="Input\KeyboardInputSource.cs" />
+    <Compile Include="Persistence\ApplicationDataXmlPersistenceProvider.cs" />
+    <Compile Include="Persistence\IPersistenceManager.cs" />
+    <Compile Include="Persistence\IPersistenceProvider.cs" />
+    <Compile Include="Persistence\PersistenceManager.cs" />
+    <Compile Include="Persistence\PersistenceModule.cs" />
+    <Compile Include="Persistence\RavenDbPersistenceProvider.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Replay\PlaybackInputSource.cs" />
+    <Compile Include="Replay\RecordingInputSourceDecorator.cs" />
+    <Compile Include="Replay\ReplayData.cs" />
+    <Compile Include="Replay\ReplayModule.cs" />
+    <Compile Include="Replay\ReplaySettings.cs" />
+    <Compile Include="Settings\ISettings.cs" />
+    <Compile Include="Settings\ISettingsEntryKeyBuilder.cs" />
+    <Compile Include="Settings\ISettingsManager.cs" />
+    <Compile Include="Settings\SettingsEntries.cs" />
+    <Compile Include="Settings\SettingsEntry.cs" />
+    <Compile Include="Settings\SettingsEntryKeyBuilder.cs" />
+    <Compile Include="Settings\SettingsModule.cs" />
+    <Compile Include="Settings\SettingsRegistrationEntry.cs" />
+    <Compile Include="Settings\SettingsManager.cs" />
+    <Compile Include="Settings\SettingsScope.cs" />
+    <Compile Include="Settings\SettingsScopeAttribute.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Wren.Core\Wren.Core.csproj">
+      <Project>{8D5DDFF9-1931-4DEC-9B3A-CA1A2DBC707E}</Project>
+      <Name>Wren.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Wren.Transport\Wren.Transport.csproj">
+      <Project>{69B31657-EB68-432A-98DB-CC09FE5800B8}</Project>
+      <Name>Wren.Transport</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Debugging\DebuggingModule.cs" />
+    <Compile Include="Debugging\MemoryDumpCommand.cs" />
+    <Compile Include="Debugging\SetMemoryWatchCommand.cs" />
+    <Compile Include="GameEvents\GameEventAggregator.cs" />
+    <Compile Include="GameEvents\GameMemoryChangedEvent.cs" />
+    <Compile Include="GameLibrary\GameInfoEntries.cs" />
+    <Compile Include="Input\GamepadBindingSettings.cs" />
+    <Compile Include="Replay\IReplayManager.cs" />
+    <Compile Include="Replay\RecordedReplay.cs" />
+    <Compile Include="Replay\ReplayEntries.cs" />
+    <Compile Include="Replay\ReplayManager.cs" />
+    <Compile Include="Statistics\HighestValueStatistic.cs" />
+    <Compile Include="Statistics\IStatistic.cs" />
+    <Compile Include="Statistics\IStatisticsManager.cs" />
+    <Compile Include="Statistics\IStatisticState.cs" />
+    <Compile Include="Statistics\NumericStatisticState.cs" />
+    <Compile Include="Statistics\Statistic.cs" />
+    <Compile Include="Statistics\StatisticDefinitions.cs" />
+    <Compile Include="Statistics\StatisticsManager.cs" />
+    <Compile Include="Statistics\StatisticsModule.cs" />
+    <Compile Include="Statistics\GameplayTimerStatistic.cs" />
+    <Compile Include="Statistics\TimerStatisticState.cs" />
+    <Compile Include="Statistics\UserStatisticState.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

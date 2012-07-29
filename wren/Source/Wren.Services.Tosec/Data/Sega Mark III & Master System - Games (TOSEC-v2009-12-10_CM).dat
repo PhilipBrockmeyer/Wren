@@ -1,0 +1,5216 @@
+clrmamepro (
+	name "Sega Mark III & Master System - Games"
+	description "Sega Mark III & Master System - Games (TOSEC-v2009-12-10)"
+	category "Sega Mark III & Master System - Games"
+	version 2009-12-10
+	author "Cassiel - SkyBaby"
+)
+
+game (
+	name "20 em 1 (1995)(Sega - TecToy)(BR)"
+	description "20 em 1 (1995)(Sega - TecToy)(BR)"
+	rom ( name "20 em 1 (1995)(Sega - TecToy)(BR).bin" size 262144 crc f0f35c22 md5 91a9dcd4f59c29db72c931be2fe60b51 )
+)
+
+game (
+	name "32 in 1 (19xx)(-)[p][b]"
+	description "32 in 1 (19xx)(-)[p][b]"
+	rom ( name "32 in 1 (19xx)(-)[p][b].bin" size 65536 crc eaef28ea md5 291bcdb05f2b37cdf9452d2bf08e0321 )
+)
+
+game (
+	name "Ace of Aces (1991)(Sega - U.S. Gold)"
+	description "Ace of Aces (1991)(Sega - U.S. Gold)"
+	rom ( name "Ace of Aces (1991)(Sega - U.S. Gold).bin" size 262144 crc 887d9f6b md5 ce26b4372655f35f1b7c9d0c3b700f93 )
+)
+
+game (
+	name "Action Fighter Rev 1 (1986)(Sega)"
+	description "Action Fighter Rev 1 (1986)(Sega)"
+	rom ( name "Action Fighter Rev 1 (1986)(Sega).bin" size 131072 crc 3658f3e0 md5 47d736575f9a22f7490d62c76ed7c933 )
+)
+
+game (
+	name "Action Fighter Rev 2 (1986)(Sega)"
+	description "Action Fighter Rev 2 (1986)(Sega)"
+	rom ( name "Action Fighter Rev 2 (1986)(Sega).bin" size 131072 crc d91b340d md5 7e08a9854d61fece23d3c4a39539f4e9 )
+)
+
+game (
+	name "Addams Family, The (1993)(Ocean)"
+	description "Addams Family, The (1993)(Ocean)"
+	rom ( name "Addams Family, The (1993)(Ocean).bin" size 262144 crc 72420f38 md5 09202bc26fcf19ebd3ffcbd80e23ed9d )
+)
+
+game (
+	name "Aerial Assault (1990)(Sega)"
+	description "Aerial Assault (1990)(Sega)"
+	rom ( name "Aerial Assault (1990)(Sega).bin" size 262144 crc ecf491cf md5 0713f2e55a1eea0d9e2fb7044740261b )
+)
+
+game (
+	name "Aerial Assault (1990)(Sega)(US)"
+	description "Aerial Assault (1990)(Sega)(US)"
+	rom ( name "Aerial Assault (1990)(Sega)(US).bin" size 262144 crc 15576613 md5 8b603c931418a3680b8723861f55a7b5 )
+)
+
+game (
+	name "After Burner (1987)(Sega)"
+	description "After Burner (1987)(Sega)"
+	rom ( name "After Burner (1987)(Sega).bin" size 524288 crc 1c951f8e md5 6271c183513e0be0543e326419ee989e )
+)
+
+game (
+	name "After Burner (1987)(Sega)[b]"
+	description "After Burner (1987)(Sega)[b]"
+	rom ( name "After Burner (1987)(Sega)[b].bin" size 524288 crc fc79b585 md5 6cc98550abdd51ecaf2b25ef1431df10 )
+)
+
+game (
+	name "Air Rescue (1992)(Sega)"
+	description "Air Rescue (1992)(Sega)"
+	rom ( name "Air Rescue (1992)(Sega).bin" size 262144 crc 8b43d21d md5 4f145d617b9191cbc0e005786ca993f6 )
+)
+
+game (
+	name "Air Rescue (1992)(Sega)[b2]"
+	description "Air Rescue (1992)(Sega)[b2]"
+	rom ( name "Air Rescue (1992)(Sega)[b2].bin" size 262144 crc 7337abb7 md5 8a5e99f5a9ad3a8b67657c7526824f8a )
+)
+
+game (
+	name "Air Rescue (1992)(Sega)[b]"
+	description "Air Rescue (1992)(Sega)[b]"
+	rom ( name "Air Rescue (1992)(Sega)[b].bin" size 262144 crc 8b4ca9e4 md5 05b064748367505ba6016cb15b1cd0d2 )
+)
+
+game (
+	name "Air Rescue (1992)(Sega)[tr pt]"
+	description "Air Rescue (1992)(Sega)[tr pt]"
+	rom ( name "Air Rescue (1992)(Sega)[tr pt].bin" size 262144 crc 7338d04e md5 de665402678f7a6247d4c33fba7b9313 )
+)
+
+game (
+	name "Aladdin (1994)(Sega)"
+	description "Aladdin (1994)(Sega)"
+	rom ( name "Aladdin (1994)(Sega).bin" size 524288 crc c8718d40 md5 e3f60072028eb6f02c2b0558804aed83 )
+)
+
+game (
+	name "Aladdin (1994)(Sega)[tr fr]"
+	description "Aladdin (1994)(Sega)[tr fr]"
+	rom ( name "Aladdin (1994)(Sega)[tr fr].bin" size 524288 crc 615d8d35 md5 d3a1f27dff3a7fff120def2f776be894 )
+)
+
+game (
+	name "Aladdin (1994)(Sega)[tr pt]"
+	description "Aladdin (1994)(Sega)[tr pt]"
+	rom ( name "Aladdin (1994)(Sega)[tr pt].bin" size 524288 crc f69c331a md5 c4f138c72f100f6ff721ac05673c6fac )
+)
+
+game (
+	name "Aladdin (1994)(Sega)[tr pt][a]"
+	description "Aladdin (1994)(Sega)[tr pt][a]"
+	rom ( name "Aladdin (1994)(Sega)[tr pt][a].bin" size 524288 crc 5cb24c41 md5 3e3496e11e1dedfb0bc9374191d52cb3 )
+)
+
+game (
+	name "Aladdin Rev 19940123 (1994)(Sega)(beta)"
+	description "Aladdin Rev 19940123 (1994)(Sega)(beta)"
+	rom ( name "Aladdin Rev 19940123 (1994)(Sega)(beta).bin" size 524288 crc 9c3d96b9 md5 88ea3eb732682e1031401350291c85a2 )
+)
+
+game (
+	name "Aladdin Rev 19940123 (1994)(Sega)(beta)[a]"
+	description "Aladdin Rev 19940123 (1994)(Sega)(beta)[a]"
+	rom ( name "Aladdin Rev 19940123 (1994)(Sega)(beta)[a].bin" size 524288 crc d06e0071 md5 ef81ffd2ee55bc27d68967606a969163 )
+)
+
+game (
+	name "Aleste (1988)(Compile - Sega)(JP)"
+	description "Aleste (1988)(Compile - Sega)(JP)"
+	rom ( name "Aleste (1988)(Compile - Sega)(JP).bin" size 131072 crc d8c4165b md5 810f65d7a7a8462c40c01bea3d5d7d01 )
+)
+
+game (
+	name "Alex Kidd - High Tech World (1989)(Sega)"
+	description "Alex Kidd - High Tech World (1989)(Sega)"
+	rom ( name "Alex Kidd - High Tech World (1989)(Sega).bin" size 131072 crc 013c0a94 md5 0f6ebfa2b24bb99dbea1142312fd33c9 )
+)
+
+game (
+	name "Alex Kidd - High Tech World (1989)(Sega)[tr de]"
+	description "Alex Kidd - High Tech World (1989)(Sega)[tr de]"
+	rom ( name "Alex Kidd - High Tech World (1989)(Sega)[tr de].bin" size 131072 crc 29220201 md5 512ca1f9e7022c4baca72ffd61f97b4a )
+)
+
+game (
+	name "Alex Kidd - High Tech World (1989)(Sega)[tr pt]"
+	description "Alex Kidd - High Tech World (1989)(Sega)[tr pt]"
+	rom ( name "Alex Kidd - High Tech World (1989)(Sega)[tr pt].bin" size 131072 crc dd6277fb md5 e13d99ead4c982eae3715d42e7845cda )
+)
+
+game (
+	name "Alex Kidd - The Lost Stars (1988)(Sega)"
+	description "Alex Kidd - The Lost Stars (1988)(Sega)"
+	rom ( name "Alex Kidd - The Lost Stars (1988)(Sega).bin" size 262144 crc c13896d5 md5 ea50dcdd1241667f32d39d606a9f7083 )
+)
+
+game (
+	name "Alex Kidd - The Lost Stars (1988)(Sega)[b]"
+	description "Alex Kidd - The Lost Stars (1988)(Sega)[b]"
+	rom ( name "Alex Kidd - The Lost Stars (1988)(Sega)[b].bin" size 262144 crc 2210f389 md5 b1e179f927f806a7bac376a904bcd747 )
+)
+
+game (
+	name "Alex Kidd in Miracle World (1986)(Sega)(JP)"
+	description "Alex Kidd in Miracle World (1986)(Sega)(JP)"
+	rom ( name "Alex Kidd in Miracle World (1986)(Sega)(JP).bin" size 131072 crc 08c9ec91 md5 6e8e702e1d8a893ee698b93f5807972a )
+)
+
+game (
+	name "Alex Kidd in Miracle World (1986)(Sega)(JP)[tr fr]"
+	description "Alex Kidd in Miracle World (1986)(Sega)(JP)[tr fr]"
+	rom ( name "Alex Kidd in Miracle World (1986)(Sega)(JP)[tr fr].bin" size 131072 crc 9c99ed7b md5 993463a00284da74b7401af3e8da3b82 )
+)
+
+game (
+	name "Alex Kidd in Miracle World (1986)(Sega)(US)"
+	description "Alex Kidd in Miracle World (1986)(Sega)(US)"
+	rom ( name "Alex Kidd in Miracle World (1986)(Sega)(US).bin" size 131072 crc 17a40e29 md5 3d9a8d5c2d6d3f8ff63a8f7c77ffa983 )
+)
+
+game (
+	name "Alex Kidd in Miracle World Rev 0 (1986)(Sega)[tr it]"
+	description "Alex Kidd in Miracle World Rev 0 (1986)(Sega)[tr it]"
+	rom ( name "Alex Kidd in Miracle World Rev 0 (1986)(Sega)[tr it].bin" size 258486 crc 4213fa16 md5 d793ae08d33c99a0e2f14bcdeabf9eb5 )
+)
+
+game (
+	name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)"
+	description "Alex Kidd in Miracle World Rev 1 (1986)(Sega)"
+	rom ( name "Alex Kidd in Miracle World Rev 1 (1986)(Sega).bin" size 131072 crc aed9aac4 md5 f43e74ffec58ddf62f0b8667d31f22c0 )
+)
+
+game (
+	name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[b2]"
+	description "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[b2]"
+	rom ( name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[b2].bin" size 262208 crc f8144914 md5 83b54218580911f8849fff1cd2a37285 )
+)
+
+game (
+	name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[b3]"
+	description "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[b3]"
+	rom ( name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[b3].bin" size 262144 crc 84286131 md5 bc6441f06bbaddbca003ba471966fab3 )
+)
+
+game (
+	name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[b4]"
+	description "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[b4]"
+	rom ( name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[b4].bin" size 64604 crc 9f10e7f8 md5 9cc8e349c28a46559f6c592d23dbb24d )
+)
+
+game (
+	name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[b]"
+	description "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[b]"
+	rom ( name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[b].bin" size 262144 crc 31e00b51 md5 4ee729b459d0b0b90282391b734b44e9 )
+)
+
+game (
+	name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr fr]"
+	description "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr fr]"
+	rom ( name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr fr].bin" size 195674 crc 944bed08 md5 f69a7b54835381e7a91333c4d78a51f2 )
+)
+
+game (
+	name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr fr][a]"
+	description "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr fr][a]"
+	rom ( name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr fr][a].bin" size 131072 crc b33817ae md5 e8988a564b1d0346fe735d3ec3d84c77 )
+)
+
+game (
+	name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr it]"
+	description "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr it]"
+	rom ( name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr it].bin" size 258486 crc 5bcd77ed md5 e53f30ba87d1efeb8c5652e2d29737cb )
+)
+
+game (
+	name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr pt][a2]"
+	description "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr pt][a2]"
+	rom ( name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr pt][a2].bin" size 131072 crc d7d01766 md5 a3d2c1d3da71b1e07e4026bb74269c07 )
+)
+
+game (
+	name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr pt][a3]"
+	description "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr pt][a3]"
+	rom ( name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr pt][a3].bin" size 131072 crc 7545d7c2 md5 50a29e43423cc77564d6f49b289eef1d )
+)
+
+game (
+	name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr pt][a4]"
+	description "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr pt][a4]"
+	rom ( name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr pt][a4].bin" size 131072 crc 61273f35 md5 7f542fb090681e3bb3135dbabb03f922 )
+)
+
+game (
+	name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr pt][a]"
+	description "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr pt][a]"
+	rom ( name "Alex Kidd in Miracle World Rev 1 (1986)(Sega)[tr pt][a].bin" size 131072 crc 8938b5c8 md5 ba4e6991da1b864b24089e2ea642cce6 )
+)
+
+game (
+	name "Alex Kidd in Shinobi World (1990)(Sega)"
+	description "Alex Kidd in Shinobi World (1990)(Sega)"
+	rom ( name "Alex Kidd in Shinobi World (1990)(Sega).bin" size 262144 crc d2417ed7 md5 d62b631506913712a2103f54912458a5 )
+)
+
+game (
+	name "Alex Kidd in Shinobi World (1990)(Sega)[b2]"
+	description "Alex Kidd in Shinobi World (1990)(Sega)[b2]"
+	rom ( name "Alex Kidd in Shinobi World (1990)(Sega)[b2].bin" size 262144 crc 99b590d5 md5 67512e11316d7af9dfa75e8cf0b95e4d )
+)
+
+game (
+	name "Alex Kidd in Shinobi World (1990)(Sega)[b]"
+	description "Alex Kidd in Shinobi World (1990)(Sega)[b]"
+	rom ( name "Alex Kidd in Shinobi World (1990)(Sega)[b].bin" size 262144 crc 2cd7dec7 md5 2bfb7d2e470204390779cd8a2e14d4d2 )
+)
+
+game (
+	name "Alex Kidd in Shinobi World (1990)(Sega)[tr fr]"
+	description "Alex Kidd in Shinobi World (1990)(Sega)[tr fr]"
+	rom ( name "Alex Kidd in Shinobi World (1990)(Sega)[tr fr].bin" size 262144 crc 587e41d5 md5 295320f6e9f4b98b57ae65b5ff820b96 )
+)
+
+game (
+	name "Alf (1989)(Sega)(BR-US)"
+	description "Alf (1989)(Sega)(BR-US)"
+	rom ( name "Alf (1989)(Sega)(BR-US).bin" size 131072 crc 82038ad4 md5 bc1360afa99cd89fbab4ea55bef08aae )
+)
+
+game (
+	name "Alf (1989)(Sega)(BR-US)[tr fr]"
+	description "Alf (1989)(Sega)(BR-US)[tr fr]"
+	rom ( name "Alf (1989)(Sega)(BR-US)[tr fr].bin" size 131072 crc 8faa486c md5 ae4dd2f2969fe261c8a7866ecc539f47 )
+)
+
+game (
+	name "Alien 3 (1992)(Acclaim)"
+	description "Alien 3 (1992)(Acclaim)"
+	rom ( name "Alien 3 (1992)(Acclaim).bin" size 262144 crc b618b144 md5 7d6b3351e820b6afa7cf80713dc139e3 )
+)
+
+game (
+	name "Alien Storm (1991)(Sega)"
+	description "Alien Storm (1991)(Sega)"
+	rom ( name "Alien Storm (1991)(Sega).bin" size 262144 crc 7f30f793 md5 c60380642a89805f569124a875248d71 )
+)
+
+game (
+	name "Alien Syndrome (1987)(Sega)"
+	description "Alien Syndrome (1987)(Sega)"
+	rom ( name "Alien Syndrome (1987)(Sega).bin" size 262144 crc 5cbfe997 md5 732808a44a90b780454a1eb6adbf3957 )
+)
+
+game (
+	name "Alien Syndrome (1987)(Sega)(JP)"
+	description "Alien Syndrome (1987)(Sega)(JP)"
+	rom ( name "Alien Syndrome (1987)(Sega)(JP).bin" size 262144 crc 4cc11df9 md5 c352bd773dc9cd909a8c1707ccb54d40 )
+)
+
+game (
+	name "Altered Beast (1988)(Sega)"
+	description "Altered Beast (1988)(Sega)"
+	rom ( name "Altered Beast (1988)(Sega).bin" size 262144 crc bba2fe98 md5 24618ca4a223a36d2bfda10f42454687 )
+)
+
+game (
+	name "American Baseball (1989)(Sega)"
+	description "American Baseball (1989)(Sega)"
+	rom ( name "American Baseball (1989)(Sega).bin" size 262144 crc 7b27202f md5 670f409af2403c8256b6c04d026e33c5 )
+)
+
+game (
+	name "American Pro Football (1989)(Sega)"
+	description "American Pro Football (1989)(Sega)"
+	rom ( name "American Pro Football (1989)(Sega).bin" size 262144 crc 3727d8b2 md5 ab173835fc5934cfdc6e378be75c12ea )
+)
+
+game (
+	name "Andre Agassi Tennis (1993)(TecMagik)"
+	description "Andre Agassi Tennis (1993)(TecMagik)"
+	rom ( name "Andre Agassi Tennis (1993)(TecMagik).bin" size 262144 crc f499034d md5 b60c4f89e95585a0a01b4ff99a962d8b )
+)
+
+game (
+	name "Andre Agassi Tennis (1993)(TecMagik)[tr pt]"
+	description "Andre Agassi Tennis (1993)(TecMagik)[tr pt]"
+	rom ( name "Andre Agassi Tennis (1993)(TecMagik)[tr pt].bin" size 262144 crc 009f8630 md5 bf4b6f3c265e20d0cd17f0fc830a20a9 )
+)
+
+game (
+	name "Anmitsu Hime (1987)(Sega)(JP)"
+	description "Anmitsu Hime (1987)(Sega)(JP)"
+	rom ( name "Anmitsu Hime (1987)(Sega)(JP).bin" size 131072 crc fff63b0b md5 c6e271132566b4dd03981dcf2f8a6477 )
+)
+
+game (
+	name "AntiISDA Warrior v1.00 (2004)(Tzvetkov, Ventzislav)(PD)"
+	description "AntiISDA Warrior v1.00 (2004)(Tzvetkov, Ventzislav)(PD)"
+	rom ( name "AntiISDA Warrior v1.00 (2004)(Tzvetkov, Ventzislav)(PD).bin" size 32768 crc ca270f40 md5 9d990548a63c4825a37f14ec33b1b9e1 )
+)
+
+game (
+	name "AntiISDA Warrior v1.01 (2004)(Tzvetkov, Ventzislav)(PD)"
+	description "AntiISDA Warrior v1.01 (2004)(Tzvetkov, Ventzislav)(PD)"
+	rom ( name "AntiISDA Warrior v1.01 (2004)(Tzvetkov, Ventzislav)(PD).bin" size 32768 crc 7408ef2f md5 0bcbde000c305bb0ad1312a617876306 )
+)
+
+game (
+	name "AntiISDA Warrior v1.02 (2004)(Tzvetkov, Ventzislav)(PD)"
+	description "AntiISDA Warrior v1.02 (2004)(Tzvetkov, Ventzislav)(PD)"
+	rom ( name "AntiISDA Warrior v1.02 (2004)(Tzvetkov, Ventzislav)(PD).bin" size 32768 crc b3e5986e md5 0cf1c37b676cea11e61456e51ed790ac )
+)
+
+game (
+	name "Arcade Smash Hits (1992)(Virgin)"
+	description "Arcade Smash Hits (1992)(Virgin)"
+	rom ( name "Arcade Smash Hits (1992)(Virgin).bin" size 262144 crc e4163163 md5 c74e0be13dc3fbd085fb9a1ebd6e6afc )
+)
+
+game (
+	name "Argos no Juujiken (1988)(Salio)(JP)"
+	description "Argos no Juujiken (1988)(Salio)(JP)"
+	rom ( name "Argos no Juujiken (1988)(Salio)(JP).bin" size 131072 crc bae75805 md5 8e8b04b5a9fe7b6cdb25b6550e7a831e )
+)
+
+game (
+	name "Argos no Juujiken (1988)(Salio)(JP)[a]"
+	description "Argos no Juujiken (1988)(Salio)(JP)[a]"
+	rom ( name "Argos no Juujiken (1988)(Salio)(JP)[a].bin" size 131072 crc 32da4b0d md5 e2984ffd06ff10a9425a410a59cc83cf )
+)
+
+game (
+	name "Ariel - The Little Mermaid (1992)(Sega)(BR)"
+	description "Ariel - The Little Mermaid (1992)(Sega)(BR)"
+	rom ( name "Ariel - The Little Mermaid (1992)(Sega)(BR).bin" size 262144 crc f4b3a7bd md5 9efdf5a7123f5a52967199381e93759d )
+)
+
+game (
+	name "Artillery Master 8k v0.9 (19xx)(Pinheiro, Haroldo)(PD)"
+	description "Artillery Master 8k v0.9 (19xx)(Pinheiro, Haroldo)(PD)"
+	rom ( name "Artillery Master 8k v0.9 (19xx)(Pinheiro, Haroldo)(PD).bin" size 32768 crc 66c125f1 md5 e8308729143d83c867a797a81aa4265b )
+)
+
+game (
+	name "Ashura (1986)(Sega)(JP)"
+	description "Ashura (1986)(Sega)(JP)"
+	rom ( name "Ashura (1986)(Sega)(JP).bin" size 131072 crc ae705699 md5 e5693a4806de29ea9b1e1b5fea1a9566 )
+)
+
+game (
+	name "Assault City (1990)(Sega)[Control Pad]"
+	description "Assault City (1990)(Sega)[Control Pad]"
+	rom ( name "Assault City (1990)(Sega)[Control Pad].bin" size 262144 crc 0bd8da96 md5 b13632f6e0e0b495aae726aec9ba66d0 )
+)
+
+game (
+	name "Assault City (1990)(Sega)[Light Phaser]"
+	description "Assault City (1990)(Sega)[Light Phaser]"
+	rom ( name "Assault City (1990)(Sega)[Light Phaser].bin" size 262144 crc 861b6e79 md5 4354119b151d9129d31918865db9b1c9 )
+)
+
+game (
+	name "Asterix and the Great Rescue (1994)(Sega)"
+	description "Asterix and the Great Rescue (1994)(Sega)"
+	rom ( name "Asterix and the Great Rescue (1994)(Sega).bin" size 524288 crc f9b7d26b md5 36bd5fe2e4d1620f5a43ea610c458c86 )
+)
+
+game (
+	name "Asterix and the Secret Mission (1993)(Sega)"
+	description "Asterix and the Secret Mission (1993)(Sega)"
+	rom ( name "Asterix and the Secret Mission (1993)(Sega).bin" size 524288 crc def9b14e md5 7cc8be20b0a2ee3941c9846026c287ae )
+)
+
+game (
+	name "Asterix Rev 0 (1991)(Sega)"
+	description "Asterix Rev 0 (1991)(Sega)"
+	rom ( name "Asterix Rev 0 (1991)(Sega).bin" size 524288 crc 147e02fa md5 0feb52e9b0a8cd378fb38902eb4b4100 )
+)
+
+game (
+	name "Asterix Rev 1 (1991)(Sega)"
+	description "Asterix Rev 1 (1991)(Sega)"
+	rom ( name "Asterix Rev 1 (1991)(Sega).bin" size 524288 crc 8c9d5be8 md5 6831e9afe139fedb13c81a54926b3c0d )
+)
+
+game (
+	name "Astro Flash (1985)(Sega)(JP)"
+	description "Astro Flash (1985)(Sega)(JP)"
+	rom ( name "Astro Flash (1985)(Sega)(JP).bin" size 32768 crc c795182d md5 a7462d79844a12a92941174252c9ca6e )
+)
+
+game (
+	name "Astro Flash (1985)(Sega)(JP)[h]"
+	description "Astro Flash (1985)(Sega)(JP)[h]"
+	rom ( name "Astro Flash (1985)(Sega)(JP)[h].bin" size 32768 crc 0e21e6cf md5 2a6b0744637ba7adcc17bf072638efd2 )
+)
+
+game (
+	name "Astro Warrior (1986)(Sega)"
+	description "Astro Warrior (1986)(Sega)"
+	rom ( name "Astro Warrior (1986)(Sega).bin" size 131072 crc 299cbb74 md5 e645faa5628caab5129383fdbf4df090 )
+)
+
+game (
+	name "Astro Warrior (1986)(Sega)[b2]"
+	description "Astro Warrior (1986)(Sega)[b2]"
+	rom ( name "Astro Warrior (1986)(Sega)[b2].bin" size 131072 crc bbe02270 md5 938e2c82c73e80ad7c6ff705d7af82ec )
+)
+
+game (
+	name "Astro Warrior (1986)(Sega)[b3]"
+	description "Astro Warrior (1986)(Sega)[b3]"
+	rom ( name "Astro Warrior (1986)(Sega)[b3].bin" size 262144 crc 4184e4c4 md5 4f60679ac1a267ec80d067b94c653b2b )
+)
+
+game (
+	name "Astro Warrior (1986)(Sega)[b]"
+	description "Astro Warrior (1986)(Sega)[b]"
+	rom ( name "Astro Warrior (1986)(Sega)[b].bin" size 262144 crc fe8e978b md5 59e507f41e0caa6bdf3df3be0d1cfd52 )
+)
+
+game (
+	name "Aventuras da TV Colosso, As (1996)(Sega)(BR)"
+	description "Aventuras da TV Colosso, As (1996)(Sega)(BR)"
+	rom ( name "Aventuras da TV Colosso, As (1996)(Sega)(BR).bin" size 524288 crc e1714a88 md5 8020584caadb664a5924e940b6a9c5bc )
+)
+
+game (
+	name "Aztec Adventure - The Golden Road to Paradise (1987)(Sega)"
+	description "Aztec Adventure - The Golden Road to Paradise (1987)(Sega)"
+	rom ( name "Aztec Adventure - The Golden Road to Paradise (1987)(Sega).bin" size 131072 crc ff614eb3 md5 12ce04ff557a96add46f04b12b0d47cc )
+)
+
+game (
+	name "Aztec Adventure - The Golden Road to Paradise (1987)(Sega)[b]"
+	description "Aztec Adventure - The Golden Road to Paradise (1987)(Sega)[b]"
+	rom ( name "Aztec Adventure - The Golden Road to Paradise (1987)(Sega)[b].bin" size 262144 crc 884a18b9 md5 4c29b00f09e962739a50944891b34c4d )
+)
+
+game (
+	name "Back to the Future Part II (1990)(Mirrorsoft)"
+	description "Back to the Future Part II (1990)(Mirrorsoft)"
+	rom ( name "Back to the Future Part II (1990)(Mirrorsoft).bin" size 262144 crc e5ff50d8 md5 f2535df9bdc3a84221303fa62d61ad6e )
+)
+
+game (
+	name "Back to the Future Part III (1991)(Mirrorsoft)"
+	description "Back to the Future Part III (1991)(Mirrorsoft)"
+	rom ( name "Back to the Future Part III (1991)(Mirrorsoft).bin" size 262144 crc 2d48c1d3 md5 3d24a52e98e6c85d7c059386451ce749 )
+)
+
+game (
+	name "Baku Baku Animal (1996)(Sega)(BR)"
+	description "Baku Baku Animal (1996)(Sega)(BR)"
+	rom ( name "Baku Baku Animal (1996)(Sega)(BR).bin" size 262144 crc 35d84dc2 md5 8a94ded3d95aa46dae8800b92e66d3ee )
+)
+
+game (
+	name "Bank Panic (1987)(Sega)"
+	description "Bank Panic (1987)(Sega)"
+	rom ( name "Bank Panic (1987)(Sega).bin" size 32768 crc 655fb1f4 md5 7a5d3b9963e316cb7f73bbdc2a7311c6 )
+)
+
+game (
+	name "Bank Panic (1987)(Sega)[b]"
+	description "Bank Panic (1987)(Sega)[b]"
+	rom ( name "Bank Panic (1987)(Sega)[b].bin" size 32768 crc b4dfb825 md5 9d39c9fb0547d1411750b15f8220810f )
+)
+
+game (
+	name "Basket Ball Nightmare (1989)(Sega)"
+	description "Basket Ball Nightmare (1989)(Sega)"
+	rom ( name "Basket Ball Nightmare (1989)(Sega).bin" size 262144 crc 0df8597f md5 0069b1bd9c5b6b88ace6324d7e61539f )
+)
+
+game (
+	name "Basket Ball Nightmare (1989)(Sega)[b2]"
+	description "Basket Ball Nightmare (1989)(Sega)[b2]"
+	rom ( name "Basket Ball Nightmare (1989)(Sega)[b2].bin" size 262656 crc cf97932d md5 13b2d45bf88762ed32ffc6ce16c81b20 )
+)
+
+game (
+	name "Basket Ball Nightmare (1989)(Sega)[b]"
+	description "Basket Ball Nightmare (1989)(Sega)[b]"
+	rom ( name "Basket Ball Nightmare (1989)(Sega)[b].bin" size 262144 crc 7163231c md5 cb3d26034beccd74881318da833bb9ca )
+)
+
+game (
+	name "Batman Returns (1992)(Sega)"
+	description "Batman Returns (1992)(Sega)"
+	rom ( name "Batman Returns (1992)(Sega).bin" size 262144 crc b154ec38 md5 215876a62d3ca48d28e98cd8a2c70a15 )
+)
+
+game (
+	name "Battle Out Run (1989)(Sega)"
+	description "Battle Out Run (1989)(Sega)"
+	rom ( name "Battle Out Run (1989)(Sega).bin" size 262144 crc c19430ce md5 83609eb760c3af64915fd6e73ee7d99e )
+)
+
+game (
+	name "Battlemaniacs (1994)(Virgin)(BR)"
+	description "Battlemaniacs (1994)(Virgin)(BR)"
+	rom ( name "Battlemaniacs (1994)(Virgin)(BR).bin" size 262144 crc 1cbb7bf1 md5 5401ddcc788c0f1a5dfe26e56f239fbf )
+)
+
+game (
+	name "Berlin no Kabe v1.0 (2004)(Covell, Chris)[p]"
+	description "Berlin no Kabe v1.0 (2004)(Covell, Chris)[p]"
+	rom ( name "Berlin no Kabe v1.0 (2004)(Covell, Chris)[p].bin" size 262144 crc b672ae7a md5 f5d708218281db8639845335a9d14a16 )
+)
+
+game (
+	name "Berlin no Kabe v1.1 (2004)(Covell, Chris)[p]"
+	description "Berlin no Kabe v1.1 (2004)(Covell, Chris)[p]"
+	rom ( name "Berlin no Kabe v1.1 (2004)(Covell, Chris)[p].bin" size 262144 crc dc477a0d md5 ce39f5abee5368bc8a7636d793bdbf46 )
+)
+
+game (
+	name "Black Belt (1996)(Sega)"
+	description "Black Belt (1996)(Sega)"
+	rom ( name "Black Belt (1996)(Sega).bin" size 131072 crc da3a2f57 md5 16e6b4a1d71960d64bd20aaf7024e8ac )
+)
+
+game (
+	name "Black Belt (1996)(Sega)[b]"
+	description "Black Belt (1996)(Sega)[b]"
+	rom ( name "Black Belt (1996)(Sega)[b].bin" size 262144 crc 9fa3b61a md5 dc8dd2e53ab54b88683c9cbad8701dfb )
+)
+
+game (
+	name "Blade Eagle (1988)(Sega)"
+	description "Blade Eagle (1988)(Sega)"
+	rom ( name "Blade Eagle (1988)(Sega).bin" size 262144 crc 8ecd201c md5 a20798b12481284f77cee67ce5e25f2b )
+)
+
+game (
+	name "Blade Eagle (1988)(Sega)(beta)"
+	description "Blade Eagle (1988)(Sega)(beta)"
+	rom ( name "Blade Eagle (1988)(Sega)(beta).bin" size 262144 crc 58d5fc48 md5 f83a306d39c35b6f127a531cd62036ae )
+)
+
+game (
+	name "Blade Eagle (1988)(Sega)[tr pt]"
+	description "Blade Eagle (1988)(Sega)[tr pt]"
+	rom ( name "Blade Eagle (1988)(Sega)[tr pt].bin" size 262144 crc fbf96c81 md5 7f33fa925c9ede3f5be2c7ba186a917c )
+)
+
+game (
+	name "Blade Eagle (1988)(Sega)[tr pt][a]"
+	description "Blade Eagle (1988)(Sega)[tr pt][a]"
+	rom ( name "Blade Eagle (1988)(Sega)[tr pt][a].bin" size 262144 crc fc259738 md5 75f3df352aa887baf8df455188ac853a )
+)
+
+game (
+	name "Blockhead (2004)(Proppy - Tet)(PD)"
+	description "Blockhead (2004)(Proppy - Tet)(PD)"
+	rom ( name "Blockhead (2004)(Proppy - Tet)(PD).bin" size 32768 crc a11b791c md5 64c1da88ca68ffe333fe674f241b694d )
+)
+
+game (
+	name "Blockhead v0.1 (2004)(Proppy - Tet)(PD)"
+	description "Blockhead v0.1 (2004)(Proppy - Tet)(PD)"
+	rom ( name "Blockhead v0.1 (2004)(Proppy - Tet)(PD).bin" size 32768 crc 6994770d md5 2f5a8035c6a69ff4ce920f7652c84ef5 )
+)
+
+game (
+	name "Blockhead v0.1.1 (2004)(Proppy - Tet)(PD)"
+	description "Blockhead v0.1.1 (2004)(Proppy - Tet)(PD)"
+	rom ( name "Blockhead v0.1.1 (2004)(Proppy - Tet)(PD).bin" size 32768 crc aed594a2 md5 306d25d2b29c03aede6589015e5e9f59 )
+)
+
+game (
+	name "Blockhead v0.2 (2004)(Proppy - Tet)(PD)"
+	description "Blockhead v0.2 (2004)(Proppy - Tet)(PD)"
+	rom ( name "Blockhead v0.2 (2004)(Proppy - Tet)(PD).bin" size 32768 crc 79a1d911 md5 651399ac8892ad2c202487e6dcaa0125 )
+)
+
+game (
+	name "Blockhead v1.0 (2004)(Proppy - Tet)(PD)"
+	description "Blockhead v1.0 (2004)(Proppy - Tet)(PD)"
+	rom ( name "Blockhead v1.0 (2004)(Proppy - Tet)(PD).bin" size 32768 crc 2734a9b4 md5 ef8fe5c2cc018a02326eba360ffa1adb )
+)
+
+game (
+	name "BMX Trial - Alex Kidd (1987)(Sega)(JP)"
+	description "BMX Trial - Alex Kidd (1987)(Sega)(JP)"
+	rom ( name "BMX Trial - Alex Kidd (1987)(Sega)(JP).bin" size 131072 crc f9dbb533 md5 571f18f49e679a128b4a237001760d6c )
+)
+
+game (
+	name "Bomber Raid (1988)(Sega)"
+	description "Bomber Raid (1988)(Sega)"
+	rom ( name "Bomber Raid (1988)(Sega).bin" size 262144 crc 3084cf11 md5 d1151de6ea0a2547f047ce31b22fe18f )
+)
+
+game (
+	name "Bomber Raid (1988)(Sega)[b]"
+	description "Bomber Raid (1988)(Sega)[b]"
+	rom ( name "Bomber Raid (1988)(Sega)[b].bin" size 262144 crc 8a3ed944 md5 7254d4439f5be43ce346d74c29da464f )
+)
+
+game (
+	name "Bomber Raid (1988)(Sega)[tr pt]"
+	description "Bomber Raid (1988)(Sega)[tr pt]"
+	rom ( name "Bomber Raid (1988)(Sega)[tr pt].bin" size 262144 crc e5fa2fab md5 13aa9afa1a4a1759eab629a3c9f6ea57 )
+)
+
+game (
+	name "Bonanza Bros. (1991)(Sega)"
+	description "Bonanza Bros. (1991)(Sega)"
+	rom ( name "Bonanza Bros. (1991)(Sega).bin" size 262144 crc caea8002 md5 e58f6f374b3405fd2a5e5b80e639a980 )
+)
+
+game (
+	name "Bonkers Wax Up! (1994)(Sega)(BR)"
+	description "Bonkers Wax Up! (1994)(Sega)(BR)"
+	rom ( name "Bonkers Wax Up! (1994)(Sega)(BR).bin" size 524288 crc b3768a7a md5 044b79a5e4cf58fb92b60fc09cf4f316 )
+)
+
+game (
+	name "Borgman (1988)(Sega)(JP)"
+	description "Borgman (1988)(Sega)(JP)"
+	rom ( name "Borgman (1988)(Sega)(JP).bin" size 131072 crc e421e466 md5 b106995de2f5f9dba99131f0286756ec )
+)
+
+game (
+	name "Borgman (1988)(Sega)(JP)(beta)"
+	description "Borgman (1988)(Sega)(JP)(beta)"
+	rom ( name "Borgman (1988)(Sega)(JP)(beta).bin" size 131072 crc 86f49ae9 md5 d89cd6506b9c6c865607638350346976 )
+)
+
+game (
+	name "Bubble Bobble (1991)(Taito)"
+	description "Bubble Bobble (1991)(Taito)"
+	rom ( name "Bubble Bobble (1991)(Taito).bin" size 262144 crc e843ba7e md5 d79c186a74550876691e97ca830c66c7 )
+)
+
+game (
+	name "Bubble Bobble (1991)(Taito)[tr fr]"
+	description "Bubble Bobble (1991)(Taito)[tr fr]"
+	rom ( name "Bubble Bobble (1991)(Taito)[tr fr].bin" size 262144 crc f7294ee1 md5 09ba1c15119bc326379355ca1ff2fca1 )
+)
+
+game (
+	name "Buggy Run (1993)(Sega)"
+	description "Buggy Run (1993)(Sega)"
+	rom ( name "Buggy Run (1993)(Sega).bin" size 524288 crc b0fc4577 md5 db41b17f3268d9076e0928911a2791e0 )
+)
+
+game (
+	name "California Games (1989)(Sega)"
+	description "California Games (1989)(Sega)"
+	rom ( name "California Games (1989)(Sega).bin" size 262144 crc ac6009a7 md5 182b179a1226fb5b1e1cf6bb2f351c50 )
+)
+
+game (
+	name "California Games (1989)(Sega)[b2]"
+	description "California Games (1989)(Sega)[b2]"
+	rom ( name "California Games (1989)(Sega)[b2].bin" size 524288 crc 9f28e5f4 md5 ecbd5f556e139ea83927c708880241d7 )
+)
+
+game (
+	name "California Games (1989)(Sega)[b]"
+	description "California Games (1989)(Sega)[b]"
+	rom ( name "California Games (1989)(Sega)[b].bin" size 262144 crc 13d49d42 md5 625fee18029d27d12cc2dad2333bb0de )
+)
+
+game (
+	name "California Games (1989)(Sega)[tr pt]"
+	description "California Games (1989)(Sega)[tr pt]"
+	rom ( name "California Games (1989)(Sega)[tr pt].bin" size 262144 crc b3b5d047 md5 eb081487db20dca1eebca148ebba0c06 )
+)
+
+game (
+	name "California Games (1989)(Sega)[tr pt][a]"
+	description "California Games (1989)(Sega)[tr pt][a]"
+	rom ( name "California Games (1989)(Sega)[tr pt][a].bin" size 262144 crc 86c1320a md5 f90e2f4a29838d22ec8aec48b7c9ab48 )
+)
+
+game (
+	name "California Games II (1993)(Sega)"
+	description "California Games II (1993)(Sega)"
+	rom ( name "California Games II (1993)(Sega).bin" size 262144 crc c0e25d62 md5 5ac58b3a7fda23161ab1185b3ee797ac )
+)
+
+game (
+	name "California Games II (1993)(Sega)(BR)"
+	description "California Games II (1993)(Sega)(BR)"
+	rom ( name "California Games II (1993)(Sega)(BR).bin" size 262144 crc 45c50294 md5 9eda961b0771b902f35d32188a9eb4df )
+)
+
+game (
+	name "California Games II (1993)(Sega)[b]"
+	description "California Games II (1993)(Sega)[b]"
+	rom ( name "California Games II (1993)(Sega)[b].bin" size 262144 crc 5f5d13af md5 5ea2d1c22ef243dba3125e65fab67876 )
+)
+
+game (
+	name "Canyon Racer v0.01 (19xx)(Pinheiro, Haroldo)(PD)"
+	description "Canyon Racer v0.01 (19xx)(Pinheiro, Haroldo)(PD)"
+	rom ( name "Canyon Racer v0.01 (19xx)(Pinheiro, Haroldo)(PD).bin" size 7626 crc eead16c7 md5 cbfcf7cd0c2905c66a99f557ca99e195 )
+)
+
+game (
+	name "Captain Silver (1988)(Sega)"
+	description "Captain Silver (1988)(Sega)"
+	rom ( name "Captain Silver (1988)(Sega).bin" size 262144 crc a4852757 md5 ccb76c009e52e32e2dcc528481f0e039 )
+)
+
+game (
+	name "Captain Silver (1988)(Sega)(US)"
+	description "Captain Silver (1988)(Sega)(US)"
+	rom ( name "Captain Silver (1988)(Sega)(US).bin" size 131072 crc b81f6fa5 md5 1dfaadbfe7d8019e73bd980fd4b819ea )
+)
+
+game (
+	name "Captain Silver (1988)(Sega)[b]"
+	description "Captain Silver (1988)(Sega)[b]"
+	rom ( name "Captain Silver (1988)(Sega)[b].bin" size 262144 crc 87bf8a47 md5 2394dde7d5e66f7060a59ed97b2765f6 )
+)
+
+game (
+	name "Casino Games (1989)(Sega)"
+	description "Casino Games (1989)(Sega)"
+	rom ( name "Casino Games (1989)(Sega).bin" size 262144 crc 3cff6e80 md5 ec16428b908a2c0036b799e55614be3d )
+)
+
+game (
+	name "Casino Games (1989)(Sega)[b2]"
+	description "Casino Games (1989)(Sega)[b2]"
+	rom ( name "Casino Games (1989)(Sega)[b2].bin" size 262144 crc f964f356 md5 1a7cff6128989da608a6f79aaad8fc67 )
+)
+
+game (
+	name "Casino Games (1989)(Sega)[b]"
+	description "Casino Games (1989)(Sega)[b]"
+	rom ( name "Casino Games (1989)(Sega)[b].bin" size 262144 crc e239ed95 md5 f6b5929438d595e762d3121d165551f8 )
+)
+
+game (
+	name "Castelo Ra-Tim-Bum (1997)(Sega - TecToy)(BR)"
+	description "Castelo Ra-Tim-Bum (1997)(Sega - TecToy)(BR)"
+	rom ( name "Castelo Ra-Tim-Bum (1997)(Sega - TecToy)(BR).bin" size 524288 crc 31ffd7c3 md5 47f513d0f9d2896bf1a87254337d5b29 )
+)
+
+game (
+	name "Castelo Ra-Tim-Bum (1997)(Sega - TecToy)(BR)[b]"
+	description "Castelo Ra-Tim-Bum (1997)(Sega - TecToy)(BR)[b]"
+	rom ( name "Castelo Ra-Tim-Bum (1997)(Sega - TecToy)(BR)[b].bin" size 524288 crc dcd38617 md5 383497ec2d526bfdfcdc7c4eeb432dff )
+)
+
+game (
+	name "Castle of Illusion starring Mickey Mouse (1990)(Sega)(US)"
+	description "Castle of Illusion starring Mickey Mouse (1990)(Sega)(US)"
+	rom ( name "Castle of Illusion starring Mickey Mouse (1990)(Sega)(US).bin" size 262144 crc b9db4282 md5 e9b4b92bc29ca8fbe9978da6720bd1eb )
+)
+
+game (
+	name "Castle of Illusion starring Mickey Mouse (1990)(Sega)(US)[tr fr]"
+	description "Castle of Illusion starring Mickey Mouse (1990)(Sega)(US)[tr fr]"
+	rom ( name "Castle of Illusion starring Mickey Mouse (1990)(Sega)(US)[tr fr].bin" size 262144 crc 21a5434f md5 40fe5609f771ed41d2a1a20161ef920c )
+)
+
+game (
+	name "Castle of Illusion starring Mickey Mouse (1990)(Sega)(US)[tr it]"
+	description "Castle of Illusion starring Mickey Mouse (1990)(Sega)(US)[tr it]"
+	rom ( name "Castle of Illusion starring Mickey Mouse (1990)(Sega)(US)[tr it].bin" size 262144 crc 7a47ae9f md5 166b6ed89ed6af6fa5e11a15c846f511 )
+)
+
+game (
+	name "Castle of Illusion starring Mickey Mouse Rev 1 (1990)(Sega)"
+	description "Castle of Illusion starring Mickey Mouse Rev 1 (1990)(Sega)"
+	rom ( name "Castle of Illusion starring Mickey Mouse Rev 1 (1990)(Sega).bin" size 262144 crc 953f42e1 md5 e7e1ef0a9e20585e2266e8adbaf4b8c9 )
+)
+
+game (
+	name "Castle of Illusion starring Mickey Mouse Rev 1 (1990)(Sega)[b]"
+	description "Castle of Illusion starring Mickey Mouse Rev 1 (1990)(Sega)[b]"
+	rom ( name "Castle of Illusion starring Mickey Mouse Rev 1 (1990)(Sega)[b].bin" size 262144 crc 6203efbb md5 482caf9e7d7d2ca3dee552e4b7e80f10 )
+)
+
+game (
+	name "Castle of Illusion starring Mickey Mouse Rev 1 (1990)(Sega)[tr it]"
+	description "Castle of Illusion starring Mickey Mouse Rev 1 (1990)(Sega)[tr it]"
+	rom ( name "Castle of Illusion starring Mickey Mouse Rev 1 (1990)(Sega)[tr it].bin" size 262144 crc 56a3aefc md5 55afe1c9e2ed6ca204135c1a9e0bbe69 )
+)
+
+game (
+	name "Champions of Europe (1992)(TecMagik)"
+	description "Champions of Europe (1992)(TecMagik)"
+	rom ( name "Champions of Europe (1992)(TecMagik).bin" size 262144 crc 23163a12 md5 c28aa80489a467bf54fc1403029a83d3 )
+)
+
+game (
+	name "Championship Hockey (1992)(Electronic Arts)"
+	description "Championship Hockey (1992)(Electronic Arts)"
+	rom ( name "Championship Hockey (1992)(Electronic Arts).bin" size 262144 crc 7e5839a0 md5 1f706162f833f1dce9513988601d314b )
+)
+
+game (
+	name "Chapolim x Dracula - Um Duelo Assustador (1993)(TecToy)(BR)"
+	description "Chapolim x Dracula - Um Duelo Assustador (1993)(TecToy)(BR)"
+	rom ( name "Chapolim x Dracula - Um Duelo Assustador (1993)(TecToy)(BR).bin" size 131072 crc 492c7c6e md5 2c709ba8cdc3a1b7adc5bc838eabf6f3 )
+)
+
+game (
+	name "Chase H.Q. (1990)(Taito)"
+	description "Chase H.Q. (1990)(Taito)"
+	rom ( name "Chase H.Q. (1990)(Taito).bin" size 262144 crc 85cfc9c9 md5 08511c5cf0df0941b10ebf28050afe51 )
+)
+
+game (
+	name "Chase H.Q. (1990)(Taito)[b]"
+	description "Chase H.Q. (1990)(Taito)[b]"
+	rom ( name "Chase H.Q. (1990)(Taito)[b].bin" size 524288 crc eeeaaee5 md5 6d301c44ca739231d72ac8ddce8a1b2b )
+)
+
+game (
+	name "Cheese Cat-astrophe starring Speedy Gonzales (1995)(Sega)"
+	description "Cheese Cat-astrophe starring Speedy Gonzales (1995)(Sega)"
+	rom ( name "Cheese Cat-astrophe starring Speedy Gonzales (1995)(Sega).bin" size 524288 crc 46340c41 md5 f90b86478445d220d386460e55f3b74f )
+)
+
+game (
+	name "Cheese Cat-astrophe starring Speedy Gonzales (1995)(Sega)[b]"
+	description "Cheese Cat-astrophe starring Speedy Gonzales (1995)(Sega)[b]"
+	rom ( name "Cheese Cat-astrophe starring Speedy Gonzales (1995)(Sega)[b].bin" size 440264 crc 4bf77ec9 md5 f1837474d824b90661565292215b4ff4 )
+)
+
+game (
+	name "Choplifter (1985)(Sega)"
+	description "Choplifter (1985)(Sega)"
+	rom ( name "Choplifter (1985)(Sega).bin" size 131072 crc 4a21c15f md5 747a206eaaadf48714695e8b4ccead7e )
+)
+
+game (
+	name "Choplifter (1985)(Sega)(JP)(proto)"
+	description "Choplifter (1985)(Sega)(JP)(proto)"
+	rom ( name "Choplifter (1985)(Sega)(JP)(proto).bin" size 131072 crc 16ec3575 md5 ba1b60b6d1fecf87e00cf0f4a2f19f54 )
+)
+
+game (
+	name "Choplifter (1985)(Sega)[b2]"
+	description "Choplifter (1985)(Sega)[b2]"
+	rom ( name "Choplifter (1985)(Sega)[b2].bin" size 262144 crc 75eb037d md5 9e78112f992fc811cee4d6789872d67e )
+)
+
+game (
+	name "Choplifter (1985)(Sega)[b3]"
+	description "Choplifter (1985)(Sega)[b3]"
+	rom ( name "Choplifter (1985)(Sega)[b3].bin" size 131072 crc c96fcd19 md5 df84834ee71017980b00fd15e11db379 )
+)
+
+game (
+	name "Choplifter (1985)(Sega)[b4]"
+	description "Choplifter (1985)(Sega)[b4]"
+	rom ( name "Choplifter (1985)(Sega)[b4].bin" size 262144 crc debb2e3a md5 ab092334c3124b31dcee4431f09fe18f )
+)
+
+game (
+	name "Choplifter (1985)(Sega)[b5]"
+	description "Choplifter (1985)(Sega)[b5]"
+	rom ( name "Choplifter (1985)(Sega)[b5].bin" size 262144 crc fd6fcfce md5 0c6289d856cf1c5a0e45e39b7884efe3 )
+)
+
+game (
+	name "Choplifter (1985)(Sega)[b]"
+	description "Choplifter (1985)(Sega)[b]"
+	rom ( name "Choplifter (1985)(Sega)[b].bin" size 262144 crc 8c02d693 md5 d99dcb184a6a2059f18c3b5f73d98dce )
+)
+
+game (
+	name "Chuck Rock (1992)(Virgin)"
+	description "Chuck Rock (1992)(Virgin)"
+	rom ( name "Chuck Rock (1992)(Virgin).bin" size 524288 crc dd0e2927 md5 2594f33f210ee4cf6356ac7b2ab8c4e7 )
+)
+
+game (
+	name "Chuck Rock II - Son of Chuck (1993)(Core Design)"
+	description "Chuck Rock II - Son of Chuck (1993)(Core Design)"
+	rom ( name "Chuck Rock II - Son of Chuck (1993)(Core Design).bin" size 524288 crc c30e690a md5 ad6c6ffe26d93298ae56bdea8eafc879 )
+)
+
+game (
+	name "Chuck Rock II - Son of Chuck (1993)(Core Design)(BR)"
+	description "Chuck Rock II - Son of Chuck (1993)(Core Design)(BR)"
+	rom ( name "Chuck Rock II - Son of Chuck (1993)(Core Design)(BR).bin" size 524288 crc 87783c04 md5 aa5248dbf08f5ee7944df679966b2d70 )
+)
+
+game (
+	name "Circuit, The (1986)(Sega)(JP)"
+	description "Circuit, The (1986)(Sega)(JP)"
+	rom ( name "Circuit, The (1986)(Sega)(JP).bin" size 131072 crc 8fb75994 md5 89d22e72bd0379495a2db456eda6ac4c )
+)
+
+game (
+	name "Cloud Master (1989)(Hot-B)"
+	description "Cloud Master (1989)(Hot-B)"
+	rom ( name "Cloud Master (1989)(Hot-B).bin" size 262144 crc e7f62e6d md5 4498afc1fce51ebd461798fbe61aa6f8 )
+)
+
+game (
+	name "Cloud Master (1989)(Hot-B)[b2]"
+	description "Cloud Master (1989)(Hot-B)[b2]"
+	rom ( name "Cloud Master (1989)(Hot-B)[b2].bin" size 524288 crc aa21bdf1 md5 6a27e5284055c6577cd9969cf78f0af9 )
+)
+
+game (
+	name "Cloud Master (1989)(Hot-B)[b]"
+	description "Cloud Master (1989)(Hot-B)[b]"
+	rom ( name "Cloud Master (1989)(Hot-B)[b].bin" size 262144 crc 13d762eb md5 01639073251c7773b23450064c8d0ad8 )
+)
+
+game (
+	name "Cloud Master (1989)(Hot-B)[tr fr]"
+	description "Cloud Master (1989)(Hot-B)[tr fr]"
+	rom ( name "Cloud Master (1989)(Hot-B)[tr fr].bin" size 262144 crc 84e45c25 md5 babce6b56b77fccdecb08e7124ce453e )
+)
+
+game (
+	name "Columns (1990)(Sega)"
+	description "Columns (1990)(Sega)"
+	rom ( name "Columns (1990)(Sega).bin" size 131072 crc 665fda92 md5 d443d521036d527d35926809f230106c )
+)
+
+game (
+	name "Columns (1990)(Sega)(beta)"
+	description "Columns (1990)(Sega)(beta)"
+	rom ( name "Columns (1990)(Sega)(beta).bin" size 131072 crc 3fb40043 md5 22619be5f41cf6f76c4ccefbc82d0967 )
+)
+
+game (
+	name "Cool Spot (1993)(Virgin)"
+	description "Cool Spot (1993)(Virgin)"
+	rom ( name "Cool Spot (1993)(Virgin).bin" size 262144 crc 13ac9023 md5 b4c33bdba2472003f87ed193e51b2c9b )
+)
+
+game (
+	name "Cool Spot (1993)(Virgin)[b]"
+	description "Cool Spot (1993)(Virgin)[b]"
+	rom ( name "Cool Spot (1993)(Virgin)[b].bin" size 262144 crc cc92058a md5 59707df2c07cd61a14c920d225ba81de )
+)
+
+game (
+	name "Cosmic Spacehead (1993)(Codemasters)"
+	description "Cosmic Spacehead (1993)(Codemasters)"
+	rom ( name "Cosmic Spacehead (1993)(Codemasters).bin" size 262144 crc 29822980 md5 7debf96f69c896d8571a6ad6cfacf502 )
+)
+
+game (
+	name "Cyber Shinobi, The - Shinobi Part 2 (1990)(Sega)"
+	description "Cyber Shinobi, The - Shinobi Part 2 (1990)(Sega)"
+	rom ( name "Cyber Shinobi, The - Shinobi Part 2 (1990)(Sega).bin" size 262144 crc 1350e4f8 md5 9878c298077be78b765ac2264815100b )
+)
+
+game (
+	name "Cyber Shinobi, The - Shinobi Part 2 (1990)(Sega)[tr fr]"
+	description "Cyber Shinobi, The - Shinobi Part 2 (1990)(Sega)[tr fr]"
+	rom ( name "Cyber Shinobi, The - Shinobi Part 2 (1990)(Sega)[tr fr].bin" size 262144 crc c576c058 md5 a30e22bc6ddda7bf1df37bd291011237 )
+)
+
+game (
+	name "Cyborg Hunter (1988)(Sega)"
+	description "Cyborg Hunter (1988)(Sega)"
+	rom ( name "Cyborg Hunter (1988)(Sega).bin" size 131072 crc 908e7524 md5 ac90d79743cac1afcd7049f7b4e73bc4 )
+)
+
+game (
+	name "Cyborg Hunter (1988)(Sega)[tr fr]"
+	description "Cyborg Hunter (1988)(Sega)[tr fr]"
+	rom ( name "Cyborg Hunter (1988)(Sega)[tr fr].bin" size 131072 crc 0f2e4f1e md5 d104f53494a3d5847a1320faf38e8bc5 )
+)
+
+game (
+	name "Cyborg Hunter (1988)(Sega)[tr it]"
+	description "Cyborg Hunter (1988)(Sega)[tr it]"
+	rom ( name "Cyborg Hunter (1988)(Sega)[tr it].bin" size 131072 crc bdd034ee md5 1e873f254d70a19cc0f68398d25266c7 )
+)
+
+game (
+	name "Cyborg Hunter (1988)(Sega)[tr pt]"
+	description "Cyborg Hunter (1988)(Sega)[tr pt]"
+	rom ( name "Cyborg Hunter (1988)(Sega)[tr pt].bin" size 131072 crc 903aad36 md5 4c6ee493bc201695303cf7954388723b )
+)
+
+game (
+	name "Daffy Duck in Hollywood (1994)(Sega)"
+	description "Daffy Duck in Hollywood (1994)(Sega)"
+	rom ( name "Daffy Duck in Hollywood (1994)(Sega).bin" size 524288 crc 71abef27 md5 75955b8a2d2a2256523fb26dac62a5e2 )
+)
+
+game (
+	name "Dallyeora Pigu-Wang (1995)(Game Line)(KR)"
+	description "Dallyeora Pigu-Wang (1995)(Game Line)(KR)"
+	rom ( name "Dallyeora Pigu-Wang (1995)(Game Line)(KR).bin" size 442368 crc 89b79e77 md5 3ad7b3e23400ee10b7239e22d45aca4e )
+)
+
+game (
+	name "Damiana v2.0 (2000)(-)(PD)"
+	description "Damiana v2.0 (2000)(-)(PD)"
+	rom ( name "Damiana v2.0 (2000)(-)(PD).bin" size 32768 crc 97f8dcc8 md5 d6dacc20936dc4c487e7d2ec10c2f670 )
+)
+
+game (
+	name "Danan - The Jungle Fighter (1990)(Sega)"
+	description "Danan - The Jungle Fighter (1990)(Sega)"
+	rom ( name "Danan - The Jungle Fighter (1990)(Sega).bin" size 262144 crc ae4a28d7 md5 6b0fc60aa886c060bf1a16ea97b4f441 )
+)
+
+game (
+	name "Dead Angle (1989)(Sega)"
+	description "Dead Angle (1989)(Sega)"
+	rom ( name "Dead Angle (1989)(Sega).bin" size 262144 crc e2f7193e md5 8d5e93715bad32ba8bbcac9d21e87d89 )
+)
+
+game (
+	name "Dead Angle (1989)(Sega)[b]"
+	description "Dead Angle (1989)(Sega)[b]"
+	rom ( name "Dead Angle (1989)(Sega)[b].bin" size 262144 crc 5ef8dbda md5 be3b8410bf9d1dd462966fd699b79327 )
+)
+
+game (
+	name "Deep Duck Trouble starring Donald Duck (1993)(Sega)"
+	description "Deep Duck Trouble starring Donald Duck (1993)(Sega)"
+	rom ( name "Deep Duck Trouble starring Donald Duck (1993)(Sega).bin" size 524288 crc 42fc3a6e md5 05e3071aad9c36b6e18f1656592eeb3d )
+)
+
+game (
+	name "Desert Speedtrap starring Road Runner and Wile E. Coyote (1993)(Sega)"
+	description "Desert Speedtrap starring Road Runner and Wile E. Coyote (1993)(Sega)"
+	rom ( name "Desert Speedtrap starring Road Runner and Wile E. Coyote (1993)(Sega).bin" size 262144 crc b137007a md5 8fe55ade7b34aa4e42c5f63f4368497f )
+)
+
+game (
+	name "Desert Strike (1992)(Domark)"
+	description "Desert Strike (1992)(Domark)"
+	rom ( name "Desert Strike (1992)(Domark).bin" size 524288 crc 6c1433f9 md5 df89aa1ebc5f42db21fb8d12d9e78511 )
+)
+
+game (
+	name "Desert Strike (1992)(Domark)[b2]"
+	description "Desert Strike (1992)(Domark)[b2]"
+	rom ( name "Desert Strike (1992)(Domark)[b2].bin" size 524288 crc 82efda3c md5 7ca6753f8229fd5f6c6ad29768913a09 )
+)
+
+game (
+	name "Desert Strike (1992)(Domark)[b]"
+	description "Desert Strike (1992)(Domark)[b]"
+	rom ( name "Desert Strike (1992)(Domark)[b].bin" size 524288 crc df8c8f76 md5 7aef58645e419bb24bfa63239d2f36c7 )
+)
+
+game (
+	name "Dick Tracy (1990)(Sega)"
+	description "Dick Tracy (1990)(Sega)"
+	rom ( name "Dick Tracy (1990)(Sega).bin" size 262144 crc f6fab48d md5 1dcaf7d1ea7caaaa716f0ec43c3f828a )
+)
+
+game (
+	name "Digger Ball v0.01 (2007)(Aypok)(PD)"
+	description "Digger Ball v0.01 (2007)(Aypok)(PD)"
+	rom ( name "Digger Ball v0.01 (2007)(Aypok)(PD).bin" size 81920 crc d1341667 md5 6cc93442b73df604bc27483686436301 )
+)
+
+game (
+	name "Digger Ball v0.01 (2007)(Aypok)(PD)[a]"
+	description "Digger Ball v0.01 (2007)(Aypok)(PD)[a]"
+	rom ( name "Digger Ball v0.01 (2007)(Aypok)(PD)[a].bin" size 81920 crc 8f03b610 md5 2bb3a21396923ff33e7b88fa11bf6645 )
+)
+
+game (
+	name "Digger Chan (2006)(Aypok)"
+	description "Digger Chan (2006)(Aypok)"
+	rom ( name "Digger Chan (2006)(Aypok).bin" size 49152 crc c4ca6878 md5 9de7eceb46b0e4524fc3b6f09eb0cbf3 )
+)
+
+game (
+	name "Dinobasher starring Bignose the Caveman (1993)(Codemasters)(proto)"
+	description "Dinobasher starring Bignose the Caveman (1993)(Codemasters)(proto)"
+	rom ( name "Dinobasher starring Bignose the Caveman (1993)(Codemasters)(proto).bin" size 262144 crc ea5c3a6f md5 bb448ca5ce1ec7d86636c6571d6e94cb )
+)
+
+game (
+	name "Dinosaur Dooley, The (1993)(Daou Infosys - Innovation Technologies)(KR)"
+	description "Dinosaur Dooley, The (1993)(Daou Infosys - Innovation Technologies)(KR)"
+	rom ( name "Dinosaur Dooley, The (1993)(Daou Infosys - Innovation Technologies)(KR).bin" size 131072 crc 32f4b791 md5 e5c7ba1a2a6e1e9de597479add641d1d )
+)
+
+game (
+	name "Double Dragon (1988)(Sega)"
+	description "Double Dragon (1988)(Sega)"
+	rom ( name "Double Dragon (1988)(Sega).bin" size 262144 crc a55d89f3 md5 fe9aa8044951b10f876b15f4456161a9 )
+)
+
+game (
+	name "Double Dragon (1988)(Sega)[b2]"
+	description "Double Dragon (1988)(Sega)[b2]"
+	rom ( name "Double Dragon (1988)(Sega)[b2].bin" size 262144 crc 3b79d63e md5 bc7cbf6acae865b2bb01e44791d2c4da )
+)
+
+game (
+	name "Double Dragon (1988)(Sega)[b3]"
+	description "Double Dragon (1988)(Sega)[b3]"
+	rom ( name "Double Dragon (1988)(Sega)[b3].bin" size 263168 crc 6cc2e967 md5 3705082619ce25b24b102879f42ff465 )
+)
+
+game (
+	name "Double Dragon (1988)(Sega)[b]"
+	description "Double Dragon (1988)(Sega)[b]"
+	rom ( name "Double Dragon (1988)(Sega)[b].bin" size 262144 crc e730bb27 md5 4451984c92c137b5756d82cdc4e87c90 )
+)
+
+game (
+	name "Double Hawk (1990)(Sega)"
+	description "Double Hawk (1990)(Sega)"
+	rom ( name "Double Hawk (1990)(Sega).bin" size 262144 crc 8370f6cd md5 3e6e6cb8729965fdfdbb422f066ad706 )
+)
+
+game (
+	name "Double Hawk (1990)(Sega)(beta)"
+	description "Double Hawk (1990)(Sega)(beta)"
+	rom ( name "Double Hawk (1990)(Sega)(beta).bin" size 262144 crc f76d5cee md5 b807d8fea29860cec610eeaf3a921358 )
+)
+
+game (
+	name "Double Hawk (1990)(Sega)[b]"
+	description "Double Hawk (1990)(Sega)[b]"
+	rom ( name "Double Hawk (1990)(Sega)[b].bin" size 262144 crc 52d9eaf1 md5 788c6853772933391c43292988a963d1 )
+)
+
+game (
+	name "Double Target (1987)(Sega)(JP)"
+	description "Double Target (1987)(Sega)(JP)"
+	rom ( name "Double Target (1987)(Sega)(JP).bin" size 131072 crc 52b83072 md5 ba66d377ad3a2eaa13bbc00f63f8e4e7 )
+)
+
+game (
+	name "Dr. Hello (1991)(Genius - SIS)(KR)"
+	description "Dr. Hello (1991)(Genius - SIS)(KR)"
+	rom ( name "Dr. Hello (1991)(Genius - SIS)(KR).bin" size 32768 crc 16537865 md5 9f95eb534dd8a2bd57e9fc6a445e2f4c )
+)
+
+game (
+	name "Dr. Robotnik's Mean Bean Machine (1993)(Compile - Sega)"
+	description "Dr. Robotnik's Mean Bean Machine (1993)(Compile - Sega)"
+	rom ( name "Dr. Robotnik's Mean Bean Machine (1993)(Compile - Sega).bin" size 262144 crc 6c696221 md5 03d03f1e816d137fe6a1f5fe45fee82d )
+)
+
+game (
+	name "Dracula (1992)(Sony)"
+	description "Dracula (1992)(Sony)"
+	rom ( name "Dracula (1992)(Sony).bin" size 262144 crc 1b10a951 md5 4b3c934b3daa99a6b341da57388a7543 )
+)
+
+game (
+	name "Dracula (1992)(Sony)[tr pt]"
+	description "Dracula (1992)(Sony)[tr pt]"
+	rom ( name "Dracula (1992)(Sony)[tr pt].bin" size 262144 crc 47c05b0c md5 672ee23f7d4c373f1e537583865753fe )
+)
+
+game (
+	name "Dragon (1993)(Virgin)"
+	description "Dragon (1993)(Virgin)"
+	rom ( name "Dragon (1993)(Virgin).bin" size 262144 crc c88a5064 md5 f86e099ca8e407a65a7751d84c2ee519 )
+)
+
+game (
+	name "Dragon (1993)(Virgin)[tr pt]"
+	description "Dragon (1993)(Virgin)[tr pt]"
+	rom ( name "Dragon (1993)(Virgin)[tr pt].bin" size 262144 crc c81c3061 md5 2f75611b233c574c10eeadd5e07661bb )
+)
+
+game (
+	name "Dragon Crystal (1991)(Sega)"
+	description "Dragon Crystal (1991)(Sega)"
+	rom ( name "Dragon Crystal (1991)(Sega).bin" size 131072 crc 9549fce4 md5 e05484f93011055c5b76ffabfea84367 )
+)
+
+game (
+	name "Draw Poker (2006)(Beaver, Mike)"
+	description "Draw Poker (2006)(Beaver, Mike)"
+	rom ( name "Draw Poker (2006)(Beaver, Mike).bin" size 32768 crc dddb3dd8 md5 e8ef8711e54b0acabd94f7e259d54b5b )
+)
+
+game (
+	name "Driar v0.05 (2003)(ejdolf - fx)(PD)"
+	description "Driar v0.05 (2003)(ejdolf - fx)(PD)"
+	rom ( name "Driar v0.05 (2003)(ejdolf - fx)(PD).bin" size 524288 crc 2e31acd2 md5 d983977c009752fc6f5e02e71515b620 )
+)
+
+game (
+	name "Dynamite Duke (1991)(Sega)"
+	description "Dynamite Duke (1991)(Sega)"
+	rom ( name "Dynamite Duke (1991)(Sega).bin" size 262144 crc 07306947 md5 31a7be585288a8b77b7923a202752ab7 )
+)
+
+game (
+	name "Dynamite Duke (1991)(Sega)[b]"
+	description "Dynamite Duke (1991)(Sega)[b]"
+	rom ( name "Dynamite Duke (1991)(Sega)[b].bin" size 262144 crc 2bb5f2cd md5 871574f405d55b16183bd48539bbc653 )
+)
+
+game (
+	name "Dynamite Dux (1989)(Sega)"
+	description "Dynamite Dux (1989)(Sega)"
+	rom ( name "Dynamite Dux (1989)(Sega).bin" size 262144 crc 0e1cc1e0 md5 5cb7ebaee5952ebfcdc42e7093072063 )
+)
+
+game (
+	name "Dynamite Headdy (1995)(Sega)(BR)"
+	description "Dynamite Headdy (1995)(Sega)(BR)"
+	rom ( name "Dynamite Headdy (1995)(Sega)(BR).bin" size 524288 crc 7db5b0fa md5 7f57481d870465fc3a6412d87f0a8e38 )
+)
+
+game (
+	name "E-Swat - City Under Siege (1990)(Sega)"
+	description "E-Swat - City Under Siege (1990)(Sega)"
+	rom ( name "E-Swat - City Under Siege (1990)(Sega).bin" size 262144 crc c4bb1676 md5 de328cde27324c8d591f740db0cb2866 )
+)
+
+game (
+	name "E-Swat - City Under Siege (1990)(Sega)[a]"
+	description "E-Swat - City Under Siege (1990)(Sega)[a]"
+	rom ( name "E-Swat - City Under Siege (1990)(Sega)[a].bin" size 262144 crc c10fce39 md5 36a5339cef97d0a5757db4fd81b4abf3 )
+)
+
+game (
+	name "Earthworm Jim (1995)(Playmates)(BR)"
+	description "Earthworm Jim (1995)(Playmates)(BR)"
+	rom ( name "Earthworm Jim (1995)(Playmates)(BR).bin" size 524288 crc c4d5efc5 md5 f26bf8d41e0b6159fc436567b447363f )
+)
+
+game (
+	name "Ecco (1993)(Sega)"
+	description "Ecco (1993)(Sega)"
+	rom ( name "Ecco (1993)(Sega).bin" size 524288 crc 6687fab9 md5 bea00f9b73ac248bafa7e406a5489b32 )
+)
+
+game (
+	name "Ecco - The Tides of Time (1994)(Sega)(BR)"
+	description "Ecco - The Tides of Time (1994)(Sega)(BR)"
+	rom ( name "Ecco - The Tides of Time (1994)(Sega)(BR).bin" size 524288 crc 7c28703a md5 fe58b4b23d58386cad7111fd522cbf75 )
+)
+
+game (
+	name "Enduro Racer (1987)(Sega)"
+	description "Enduro Racer (1987)(Sega)"
+	rom ( name "Enduro Racer (1987)(Sega).bin" size 131072 crc 00e73541 md5 06779a1a9dbada60efb1f37e37040a5b )
+)
+
+game (
+	name "Enduro Racer (1987)(Sega)(JP)"
+	description "Enduro Racer (1987)(Sega)(JP)"
+	rom ( name "Enduro Racer (1987)(Sega)(JP).bin" size 262144 crc 5d5c50b3 md5 a94de92b078911e71c246679c8992da1 )
+)
+
+game (
+	name "Enduro Racer (1987)(Sega)[b]"
+	description "Enduro Racer (1987)(Sega)[b]"
+	rom ( name "Enduro Racer (1987)(Sega)[b].bin" size 131071 crc dfa2ae07 md5 f0bc09c620159ecf28fc259225b0e375 )
+)
+
+game (
+	name "Enduro Racer (1987)(Sega)[tr pt]"
+	description "Enduro Racer (1987)(Sega)[tr pt]"
+	rom ( name "Enduro Racer (1987)(Sega)[tr pt].bin" size 131072 crc 1fe4e74d md5 572ef2497896e144a243d740fbe847c7 )
+)
+
+game (
+	name "F-16 Fighter (1985)(Sega)"
+	description "F-16 Fighter (1985)(Sega)"
+	rom ( name "F-16 Fighter (1985)(Sega).bin" size 32768 crc eaebf323 md5 b88767b3386073fa775a8391b8912010 )
+)
+
+game (
+	name "F-16 Fighting Falcon (1985)(Sega)(JP)"
+	description "F-16 Fighting Falcon (1985)(Sega)(JP)"
+	rom ( name "F-16 Fighting Falcon (1985)(Sega)(JP).bin" size 32768 crc 7ce06fce md5 60e4b9cf6c000eb3af97e758413ce99f )
+)
+
+game (
+	name "F-16 Fighting Falcon (1985)(Sega)(US)"
+	description "F-16 Fighting Falcon (1985)(Sega)(US)"
+	rom ( name "F-16 Fighting Falcon (1985)(Sega)(US).bin" size 32768 crc 184c23b7 md5 9d10a4032eb53337b08c9a709144799e )
+)
+
+game (
+	name "F1 (1993)(Domark)"
+	description "F1 (1993)(Domark)"
+	rom ( name "F1 (1993)(Domark).bin" size 262144 crc ec788661 md5 5d67504b8334a0e36f6119515928717c )
+)
+
+game (
+	name "Family Games (1987)(Sega)(JP)"
+	description "Family Games (1987)(Sega)(JP)"
+	rom ( name "Family Games (1987)(Sega)(JP).bin" size 131072 crc 7abc70e9 md5 03552187d613c1b2a22a8e32476c5254 )
+)
+
+game (
+	name "Fantastic Dizzy (1993)(Codemasters)"
+	description "Fantastic Dizzy (1993)(Codemasters)"
+	rom ( name "Fantastic Dizzy (1993)(Codemasters).bin" size 262144 crc b9664ae1 md5 b8eb0cb6a9d16cfd08d9c03297fcd445 )
+)
+
+game (
+	name "Fantasy Zone - The Maze (1987)(Sega)"
+	description "Fantasy Zone - The Maze (1987)(Sega)"
+	rom ( name "Fantasy Zone - The Maze (1987)(Sega).bin" size 131072 crc d29889ad md5 d37f86c678b2ad0018518ea7278db24b )
+)
+
+game (
+	name "Fantasy Zone - The Maze (1987)(Sega)[b]"
+	description "Fantasy Zone - The Maze (1987)(Sega)[b]"
+	rom ( name "Fantasy Zone - The Maze (1987)(Sega)[b].bin" size 262144 crc 483394f9 md5 354b9b8e457cf7e81109989e11daca3b )
+)
+
+game (
+	name "Fantasy Zone - The Tears of Opa-Opa (1987)(Sega)"
+	description "Fantasy Zone - The Tears of Opa-Opa (1987)(Sega)"
+	rom ( name "Fantasy Zone - The Tears of Opa-Opa (1987)(Sega).bin" size 262144 crc b8b141f9 md5 481a01c4e768c535ee18d6d78815fc89 )
+)
+
+game (
+	name "Fantasy Zone - The Tears of Opa-Opa (1987)(Sega)(JP)"
+	description "Fantasy Zone - The Tears of Opa-Opa (1987)(Sega)(JP)"
+	rom ( name "Fantasy Zone - The Tears of Opa-Opa (1987)(Sega)(JP).bin" size 262144 crc c722fb42 md5 f898539f72db2271fc3385a5eb51a06f )
+)
+
+game (
+	name "Fantasy Zone - The Tears of Opa-Opa (1987)(Sega)[b]"
+	description "Fantasy Zone - The Tears of Opa-Opa (1987)(Sega)[b]"
+	rom ( name "Fantasy Zone - The Tears of Opa-Opa (1987)(Sega)[b].bin" size 262144 crc f7eaf75a md5 26c9247fd8321a2d0b12f61ae7457534 )
+)
+
+game (
+	name "Fantasy Zone Rev 0 (1986)(Sega)(JP)"
+	description "Fantasy Zone Rev 0 (1986)(Sega)(JP)"
+	rom ( name "Fantasy Zone Rev 0 (1986)(Sega)(JP).bin" size 131072 crc 0ffbcaa3 md5 3a1dfad2cea111d0dbfb4a545bf3f87e )
+)
+
+game (
+	name "Fantasy Zone Rev 1 (1986)(Sega)(beta)"
+	description "Fantasy Zone Rev 1 (1986)(Sega)(beta)"
+	rom ( name "Fantasy Zone Rev 1 (1986)(Sega)(beta).bin" size 131072 crc f46264fe md5 59a7ce6a0fabc2e4182bc9313f12367a )
+)
+
+game (
+	name "Fantasy Zone Rev 2 (1986)(Sega)"
+	description "Fantasy Zone Rev 2 (1986)(Sega)"
+	rom ( name "Fantasy Zone Rev 2 (1986)(Sega).bin" size 131072 crc 65d7e4e0 md5 fed8690ee5fb895c09caa8e2b879ebd6 )
+)
+
+game (
+	name "Fantasy Zone Rev 2 (1986)(Sega)[b]"
+	description "Fantasy Zone Rev 2 (1986)(Sega)[b]"
+	rom ( name "Fantasy Zone Rev 2 (1986)(Sega)[b].bin" size 262144 crc 82a38ef8 md5 d7d8d2ac9d92e68631e2edc0bf951c98 )
+)
+
+game (
+	name "Fantasy Zone Rev 2 (1986)(Sega)[tr fr]"
+	description "Fantasy Zone Rev 2 (1986)(Sega)[tr fr]"
+	rom ( name "Fantasy Zone Rev 2 (1986)(Sega)[tr fr].bin" size 131072 crc 0df8d42e md5 7549459b9a5fc11cb2f0cb41c9866e33 )
+)
+
+game (
+	name "Ferias Frustradas do Pica-Pau (1996)(Sega - TecToy)(BR)"
+	description "Ferias Frustradas do Pica-Pau (1996)(Sega - TecToy)(BR)"
+	rom ( name "Ferias Frustradas do Pica-Pau (1996)(Sega - TecToy)(BR).bin" size 524288 crc bf6c2e37 md5 3706d53f47e3e0294a778bc9b732f414 )
+)
+
+game (
+	name "FIFA International Soccer (1994)(Electronic Arts)(BR)"
+	description "FIFA International Soccer (1994)(Electronic Arts)(BR)"
+	rom ( name "FIFA International Soccer (1994)(Electronic Arts)(BR).bin" size 524288 crc 9bb3b5f9 md5 907bc842dece97cef44afff0c9ada770 )
+)
+
+game (
+	name "Final Bubble Bobble (1988)(Taito)(JP)"
+	description "Final Bubble Bobble (1988)(Taito)(JP)"
+	rom ( name "Final Bubble Bobble (1988)(Taito)(JP).bin" size 262144 crc 3ebb7457 md5 3573a65921b0506f7124f1f9ffb30974 )
+)
+
+game (
+	name "Final Bubble Bobble (1988)(Taito)(JP)[tr es]"
+	description "Final Bubble Bobble (1988)(Taito)(JP)[tr es]"
+	rom ( name "Final Bubble Bobble (1988)(Taito)(JP)[tr es].bin" size 262144 crc 86d6384e md5 7fecf9bf9b71309aa64b4caec20fa6bd )
+)
+
+game (
+	name "Fire & Forget II (1990)(Titus)"
+	description "Fire & Forget II (1990)(Titus)"
+	rom ( name "Fire & Forget II (1990)(Titus).bin" size 262144 crc f6ad7b1d md5 d27d8fee8f711db361a71817864bd139 )
+)
+
+game (
+	name "Fire & Ice (1993)(Graftgold)(BR)"
+	description "Fire & Ice (1993)(Graftgold)(BR)"
+	rom ( name "Fire & Ice (1993)(Graftgold)(BR).bin" size 262144 crc 8b24a640 md5 85acf93edba54485466aeb840966082b )
+)
+
+game (
+	name "Fire Track v1.00 (2006)(Ryves, Ben)[p]"
+	description "Fire Track v1.00 (2006)(Ryves, Ben)[p]"
+	rom ( name "Fire Track v1.00 (2006)(Ryves, Ben)[p].bin" size 65536 crc d6d0a92b md5 17fa28fea6102a81aafe7961aff200da )
+)
+
+game (
+	name "Flash, The (1993)(Sega)"
+	description "Flash, The (1993)(Sega)"
+	rom ( name "Flash, The (1993)(Sega).bin" size 262144 crc be31d63f md5 a96908fab5f599b11fe8107c3f93b6b1 )
+)
+
+game (
+	name "Flintstones, The (1990)(Grandslam)"
+	description "Flintstones, The (1990)(Grandslam)"
+	rom ( name "Flintstones, The (1990)(Grandslam).bin" size 262144 crc ca5c78a5 md5 23a5a42c0a4a4bceffbd1869192f329d )
+)
+
+game (
+	name "Forgotten Worlds (1990)(Sega)"
+	description "Forgotten Worlds (1990)(Sega)"
+	rom ( name "Forgotten Worlds (1990)(Sega).bin" size 262144 crc 38c53916 md5 68cc1711bb89921da1f215f323f3bb2d )
+)
+
+game (
+	name "Frogger (2005)(Covell, Chris)[p][b2]"
+	description "Frogger (2005)(Covell, Chris)[p][b2]"
+	rom ( name "Frogger (2005)(Covell, Chris)[p][b2].bin" size 262144 crc 9aca67fb md5 596a887524b92ad8665a2474212e2769 )
+)
+
+game (
+	name "Frogger (2005)(Covell, Chris)[p][b]"
+	description "Frogger (2005)(Covell, Chris)[p][b]"
+	rom ( name "Frogger (2005)(Covell, Chris)[p][b].bin" size 262144 crc 1c6044b0 md5 f030e6992a263d3efbcb4dff4dafa75b )
+)
+
+game (
+	name "Frogger v0.90 (2005)(Covell, Chris)[p]"
+	description "Frogger v0.90 (2005)(Covell, Chris)[p]"
+	rom ( name "Frogger v0.90 (2005)(Covell, Chris)[p].bin" size 131072 crc f5d98348 md5 f161f8a9bc50aba7a9c8db07bdfaa46e )
+)
+
+game (
+	name "Frogger v0.92 (2005)(Covell, Chris)[p]"
+	description "Frogger v0.92 (2005)(Covell, Chris)[p]"
+	rom ( name "Frogger v0.92 (2005)(Covell, Chris)[p].bin" size 131072 crc 444abb05 md5 184c7df7ad0ccc3f69442b60b79ad7ce )
+)
+
+game (
+	name "Fushigi no Oshiro Pit Pot (1985)(Sega)(JP)"
+	description "Fushigi no Oshiro Pit Pot (1985)(Sega)(JP)"
+	rom ( name "Fushigi no Oshiro Pit Pot (1985)(Sega)(JP).bin" size 32768 crc e6795c53 md5 209ee37dcabc263aa462c781d3123fce )
+)
+
+game (
+	name "Fushigi no Oshiro Pit Pot (1985)(Sega)(JP)[h]"
+	description "Fushigi no Oshiro Pit Pot (1985)(Sega)(JP)[h]"
+	rom ( name "Fushigi no Oshiro Pit Pot (1985)(Sega)(JP)[h].bin" size 32768 crc 5d08e823 md5 075fe70609aaa8a7da0002e7c3d8ed09 )
+)
+
+game (
+	name "G-Loc Air Battle - Loss of Consciousness By G-Force (1991)(Sega)"
+	description "G-Loc Air Battle - Loss of Consciousness By G-Force (1991)(Sega)"
+	rom ( name "G-Loc Air Battle - Loss of Consciousness By G-Force (1991)(Sega).bin" size 262144 crc 05cdc24e md5 7ccd2885039eb291e5ef8789173b4e13 )
+)
+
+game (
+	name "Gaegujangi Kkachi (1993)(Hi-Com - Zemina)(KR)"
+	description "Gaegujangi Kkachi (1993)(Hi-Com - Zemina)(KR)"
+	rom ( name "Gaegujangi Kkachi (1993)(Hi-Com - Zemina)(KR).bin" size 524288 crc 8b40f6bf md5 8a379e0f812f1b787b7126e4173fbe36 )
+)
+
+game (
+	name "Gain Ground (1990)(Sega)"
+	description "Gain Ground (1990)(Sega)"
+	rom ( name "Gain Ground (1990)(Sega).bin" size 262144 crc 3ec5e627 md5 7d54230748fa41bb62b6f08e5dcede08 )
+)
+
+game (
+	name "Gain Ground (1990)(Sega)(beta)"
+	description "Gain Ground (1990)(Sega)(beta)"
+	rom ( name "Gain Ground (1990)(Sega)(beta).bin" size 262144 crc d40d03c7 md5 8fdb6d42f1d58205ce024f0e50367fee )
+)
+
+game (
+	name "Galactic Protector (1988)(Sega)(JP)"
+	description "Galactic Protector (1988)(Sega)(JP)"
+	rom ( name "Galactic Protector (1988)(Sega)(JP).bin" size 131072 crc a6fa42d0 md5 8d61b59296877216cf7e4b04a68bfa66 )
+)
+
+game (
+	name "Galaxy Force (1989)(Sega)"
+	description "Galaxy Force (1989)(Sega)"
+	rom ( name "Galaxy Force (1989)(Sega).bin" size 524288 crc a4ac35d8 md5 96042c7a53dc6f9de13b7a32fa3e4035 )
+)
+
+game (
+	name "Galaxy Force (1989)(Sega)(US)"
+	description "Galaxy Force (1989)(Sega)(US)"
+	rom ( name "Galaxy Force (1989)(Sega)(US).bin" size 524288 crc 6c827520 md5 dbaac7c72eb3e0bf9e6d70b799d62799 )
+)
+
+game (
+	name "Galaxy Force (1989)(Sega)(US)[b]"
+	description "Galaxy Force (1989)(Sega)(US)[b]"
+	rom ( name "Galaxy Force (1989)(Sega)(US)[b].bin" size 524288 crc 1820c8ac md5 af5bb7e33f2430e25fe000e33b77206a )
+)
+
+game (
+	name "Game Box Esportes Radicais (1989)(Sega)(BR)"
+	description "Game Box Esportes Radicais (1989)(Sega)(BR)"
+	rom ( name "Game Box Esportes Radicais (1989)(Sega)(BR).bin" size 262144 crc 1890f407 md5 baf383826e472bb1959aeb0fc7ff853d )
+)
+
+game (
+	name "Gangster Town (1987)(Sega)"
+	description "Gangster Town (1987)(Sega)"
+	rom ( name "Gangster Town (1987)(Sega).bin" size 131072 crc 5fc74d2a md5 3396259ca032ed4f1499d1f737e75e0d )
+)
+
+game (
+	name "Gauntlet (1990)(Tengen - U.S. Gold)"
+	description "Gauntlet (1990)(Tengen - U.S. Gold)"
+	rom ( name "Gauntlet (1990)(Tengen - U.S. Gold).bin" size 131072 crc d9190956 md5 fdd401983eb42200f9fec672374597af )
+)
+
+game (
+	name "Gauntlet (1990)(Tengen - U.S. Gold)[b]"
+	description "Gauntlet (1990)(Tengen - U.S. Gold)[b]"
+	rom ( name "Gauntlet (1990)(Tengen - U.S. Gold)[b].bin" size 131072 crc af2abb95 md5 84e4030801b4835979a5e8b8bef2dfef )
+)
+
+game (
+	name "Geraldinho (1985)(Sega)(BR)"
+	description "Geraldinho (1985)(Sega)(BR)"
+	rom ( name "Geraldinho (1985)(Sega)(BR).bin" size 32768 crc 956c416b md5 a7f7d8b8d3394d41430b8240151f91f6 )
+)
+
+game (
+	name "Ghost House (1986)(Sega)"
+	description "Ghost House (1986)(Sega)"
+	rom ( name "Ghost House (1986)(Sega).bin" size 32768 crc f1f8ff2d md5 580adb73aecd35348862fb6ed43ae956 )
+)
+
+game (
+	name "Ghost House (1986)(Sega)(beta)"
+	description "Ghost House (1986)(Sega)(beta)"
+	rom ( name "Ghost House (1986)(Sega)(beta).bin" size 32768 crc c3e7c1ed md5 c3a1d74bdc4765f7304836eccc5a1bf6 )
+)
+
+game (
+	name "Ghost House (1986)(Sega)(JP)"
+	description "Ghost House (1986)(Sega)(JP)"
+	rom ( name "Ghost House (1986)(Sega)(JP).bin" size 32768 crc c0f3ce7e md5 89028bfb152a553adf25668649d39ca6 )
+)
+
+game (
+	name "Ghost House (1986)(Sega)(JP)[h]"
+	description "Ghost House (1986)(Sega)(JP)[h]"
+	rom ( name "Ghost House (1986)(Sega)(JP)[h].bin" size 32768 crc dabcc054 md5 bc4f179c11d50f5784cce9902956cbfb )
+)
+
+game (
+	name "Ghost House (1986)(Sega)[b2]"
+	description "Ghost House (1986)(Sega)[b2]"
+	rom ( name "Ghost House (1986)(Sega)[b2].bin" size 131072 crc 3a020f2b md5 f7f55a10d841838c24d82c52252d027c )
+)
+
+game (
+	name "Ghost House (1986)(Sega)[b3]"
+	description "Ghost House (1986)(Sega)[b3]"
+	rom ( name "Ghost House (1986)(Sega)[b3].bin" size 262144 crc eedd93fa md5 51321f2f2da33ec4f8908f1bc325325a )
+)
+
+game (
+	name "Ghost House (1986)(Sega)[b4]"
+	description "Ghost House (1986)(Sega)[b4]"
+	rom ( name "Ghost House (1986)(Sega)[b4].bin" size 262144 crc 7c2e6c5a md5 1726cdf676155e1786eb4142185cd12c )
+)
+
+game (
+	name "Ghost House (1986)(Sega)[b5]"
+	description "Ghost House (1986)(Sega)[b5]"
+	rom ( name "Ghost House (1986)(Sega)[b5].bin" size 65536 crc d3e6eaa6 md5 4965b1ebb195d5f42ddc56a1ad80eaef )
+)
+
+game (
+	name "Ghost House (1986)(Sega)[b]"
+	description "Ghost House (1986)(Sega)[b]"
+	rom ( name "Ghost House (1986)(Sega)[b].bin" size 262144 crc 51d7e0b5 md5 9d02fb743c5c942f9698307e2cfe47c1 )
+)
+
+game (
+	name "Ghost House (1986)(Sega)[tr pt]"
+	description "Ghost House (1986)(Sega)[tr pt]"
+	rom ( name "Ghost House (1986)(Sega)[tr pt].bin" size 32768 crc 9a1ecfec md5 3ec802e27451037a550139c717d22e6f )
+)
+
+game (
+	name "Ghostbusters (1986)(Sega)"
+	description "Ghostbusters (1986)(Sega)"
+	rom ( name "Ghostbusters (1986)(Sega).bin" size 131072 crc 1ddc3059 md5 dbae1ad6d3917a95b96d28bfc6f3f90a )
+)
+
+game (
+	name "Ghouls 'n Ghosts (1990)(Sega)"
+	description "Ghouls 'n Ghosts (1990)(Sega)"
+	rom ( name "Ghouls 'n Ghosts (1990)(Sega).bin" size 262144 crc 7a92eba6 md5 85707b3a74483910699ccc4ba20c64ff )
+)
+
+game (
+	name "Ghouls 'n Ghosts (1990)(Sega)[h]"
+	description "Ghouls 'n Ghosts (1990)(Sega)[h]"
+	rom ( name "Ghouls 'n Ghosts (1990)(Sega)[h].bin" size 262144 crc cfae7e9b md5 d07c633f804a4a120c4a7f245bc7065f )
+)
+
+game (
+	name "Ghouls 'n Ghosts (1990)(Sega)[tr pt]"
+	description "Ghouls 'n Ghosts (1990)(Sega)[tr pt]"
+	rom ( name "Ghouls 'n Ghosts (1990)(Sega)[tr pt].bin" size 262144 crc db48b5ec md5 e94f7b6084e6ce0e665abb5ea1d9b1ca )
+)
+
+game (
+	name "Global Defense (1987)(Sega)"
+	description "Global Defense (1987)(Sega)"
+	rom ( name "Global Defense (1987)(Sega).bin" size 131072 crc b746a6f5 md5 7ab485ee37ea7ce538f7dba08b64d95e )
+)
+
+game (
+	name "Global Defense (1987)(Sega)(beta)"
+	description "Global Defense (1987)(Sega)(beta)"
+	rom ( name "Global Defense (1987)(Sega)(beta).bin" size 131072 crc 91a0fc4e md5 af279b5092b60a3fdf5eb12d54752142 )
+)
+
+game (
+	name "Global Defense (1987)(Sega)[b]"
+	description "Global Defense (1987)(Sega)[b]"
+	rom ( name "Global Defense (1987)(Sega)[b].bin" size 262144 crc 68646b7b md5 07ed88768cabe84b5e04632a043d34c2 )
+)
+
+game (
+	name "Gokuaku Doumei Dump Matsumoto (1986)(Sega)(JP)"
+	description "Gokuaku Doumei Dump Matsumoto (1986)(Sega)(JP)"
+	rom ( name "Gokuaku Doumei Dump Matsumoto (1986)(Sega)(JP).bin" size 131072 crc a249fa9d md5 9e56576a5c7d571ce17c650c4116a77d )
+)
+
+game (
+	name "Golden Axe (1989)(Sega)"
+	description "Golden Axe (1989)(Sega)"
+	rom ( name "Golden Axe (1989)(Sega).bin" size 524288 crc c08132fb md5 b4911ad6a9d2ba56497cd5b01da3938a )
+)
+
+game (
+	name "Golden Axe (1989)(Sega)[b]"
+	description "Golden Axe (1989)(Sega)[b]"
+	rom ( name "Golden Axe (1989)(Sega)[b].bin" size 524288 crc 1eec7abc md5 4ac28f50638820363d4c2334fd73e2a0 )
+)
+
+game (
+	name "Golden Axe Warrior (1991)(Sega)"
+	description "Golden Axe Warrior (1991)(Sega)"
+	rom ( name "Golden Axe Warrior (1991)(Sega).bin" size 262144 crc c7ded988 md5 d46e40bbb729ba233f171ad7bf6169f5 )
+)
+
+game (
+	name "Golden Axe Warrior (1991)(Sega)[tr de]"
+	description "Golden Axe Warrior (1991)(Sega)[tr de]"
+	rom ( name "Golden Axe Warrior (1991)(Sega)[tr de].bin" size 262144 crc 21db20ae md5 26cc240cff34886d54681a5612a83643 )
+)
+
+game (
+	name "Golden Axe Warrior (1991)(Sega)[tr es]"
+	description "Golden Axe Warrior (1991)(Sega)[tr es]"
+	rom ( name "Golden Axe Warrior (1991)(Sega)[tr es].bin" size 262144 crc a53677b3 md5 3cba40926806b8c51d9643965b8eae9c )
+)
+
+game (
+	name "Golden Axe Warrior (1991)(Sega)[tr fr]"
+	description "Golden Axe Warrior (1991)(Sega)[tr fr]"
+	rom ( name "Golden Axe Warrior (1991)(Sega)[tr fr].bin" size 262144 crc 472d1ce4 md5 c5b4fb28b4cfbd506ae534c03c54f023 )
+)
+
+game (
+	name "Golden Axe Warrior (1991)(Sega)[tr pt]"
+	description "Golden Axe Warrior (1991)(Sega)[tr pt]"
+	rom ( name "Golden Axe Warrior (1991)(Sega)[tr pt].bin" size 262144 crc 68f58df7 md5 e777e40ce4f5e3c20889ba810b4f6d7d )
+)
+
+game (
+	name "Golden Axe Warrior (1991)(Sega)[tr pt][a2]"
+	description "Golden Axe Warrior (1991)(Sega)[tr pt][a2]"
+	rom ( name "Golden Axe Warrior (1991)(Sega)[tr pt][a2].bin" size 262144 crc f424ad15 md5 9109cc7c72b386a85fb7e8b24302687c )
+)
+
+game (
+	name "Golden Axe Warrior (1991)(Sega)[tr pt][a]"
+	description "Golden Axe Warrior (1991)(Sega)[tr pt][a]"
+	rom ( name "Golden Axe Warrior (1991)(Sega)[tr pt][a].bin" size 262144 crc 8872f23f md5 0807f9c516738171a3ab7e15cf5d4581 )
+)
+
+game (
+	name "Golfamania (1989)(Sega)(beta)"
+	description "Golfamania (1989)(Sega)(beta)"
+	rom ( name "Golfamania (1989)(Sega)(beta).bin" size 262144 crc 5dabfdc3 md5 1fa330a17df19820f4c8e0230d3cfbe2 )
+)
+
+game (
+	name "Golfamania (1990)(Sega)"
+	description "Golfamania (1990)(Sega)"
+	rom ( name "Golfamania (1990)(Sega).bin" size 262144 crc 48651325 md5 5554f9f67103e0d5b1a4075a2d26d15b )
+)
+
+game (
+	name "Golvellius (1988)(Compile - Sega)"
+	description "Golvellius (1988)(Compile - Sega)"
+	rom ( name "Golvellius (1988)(Compile - Sega).bin" size 262144 crc a51376fe md5 2101295c258cb6b845bdb72be617691d )
+)
+
+game (
+	name "Golvellius (1988)(Compile - Sega)(JP)"
+	description "Golvellius (1988)(Compile - Sega)(JP)"
+	rom ( name "Golvellius (1988)(Compile - Sega)(JP).bin" size 262144 crc bf0411ad md5 6bd9879af39e248d149761014ebf5639 )
+)
+
+game (
+	name "Golvellius (1988)(Compile - Sega)[tr de]"
+	description "Golvellius (1988)(Compile - Sega)[tr de]"
+	rom ( name "Golvellius (1988)(Compile - Sega)[tr de].bin" size 262144 crc 359141ef md5 3ee8b5b680da87c4b6fc448b0ba23d21 )
+)
+
+game (
+	name "Golvellius (1988)(Compile - Sega)[tr fr]"
+	description "Golvellius (1988)(Compile - Sega)[tr fr]"
+	rom ( name "Golvellius (1988)(Compile - Sega)[tr fr].bin" size 262144 crc 11e19fb1 md5 99a9e36cc366165351d5ebf3c9d99136 )
+)
+
+game (
+	name "Golvellius (1988)(Compile - Sega)[tr pt]"
+	description "Golvellius (1988)(Compile - Sega)[tr pt]"
+	rom ( name "Golvellius (1988)(Compile - Sega)[tr pt].bin" size 262144 crc 00196eba md5 88492b53ce9d19b694af5a2b44306f8d )
+)
+
+game (
+	name "GP Rider (1993)(Sega)"
+	description "GP Rider (1993)(Sega)"
+	rom ( name "GP Rider (1993)(Sega).bin" size 524288 crc ec2da554 md5 1af1cdf8d40c305f936e72b51cb4740d )
+)
+
+game (
+	name "Great Baseball (1985)(Sega)(JP)"
+	description "Great Baseball (1985)(Sega)(JP)"
+	rom ( name "Great Baseball (1985)(Sega)(JP).bin" size 32768 crc 89e98a7c md5 94ca79d4eb2709ad98b850d33728a045 )
+)
+
+game (
+	name "Great Baseball (1985)(Sega)(JP)[h]"
+	description "Great Baseball (1985)(Sega)(JP)[h]"
+	rom ( name "Great Baseball (1985)(Sega)(JP)[h].bin" size 32768 crc c1e699db md5 7d667ad91582010a358395d0bc59168d )
+)
+
+game (
+	name "Great Baseball (1987)(Sega)"
+	description "Great Baseball (1987)(Sega)"
+	rom ( name "Great Baseball (1987)(Sega).bin" size 131072 crc 10ed6b57 md5 1d126c6ac8e4d7b612e9db3d56d9e78e )
+)
+
+game (
+	name "Great Basketball (1987)(Sega)"
+	description "Great Basketball (1987)(Sega)"
+	rom ( name "Great Basketball (1987)(Sega).bin" size 131072 crc 2ac001eb md5 450d68460d4ae07a7cc98d36491fd4f8 )
+)
+
+game (
+	name "Great Football (1987)(Sega)"
+	description "Great Football (1987)(Sega)"
+	rom ( name "Great Football (1987)(Sega).bin" size 131072 crc 2055825f md5 2cf4d65cb09c276a96ad73e724fb825c )
+)
+
+game (
+	name "Great Football (1987)(Sega)[b]"
+	description "Great Football (1987)(Sega)[b]"
+	rom ( name "Great Football (1987)(Sega)[b].bin" size 262144 crc 08a1c711 md5 ce8722a96833746c1d90d5ebe5592bff )
+)
+
+game (
+	name "Great Golf (1986)(Sega)(JP)"
+	description "Great Golf (1986)(Sega)(JP)"
+	rom ( name "Great Golf (1986)(Sega)(JP).bin" size 131072 crc 6586bd1f md5 c0a9a2261ea7ef93bf8120f5328deaec )
+)
+
+game (
+	name "Great Golf Rev 0 (1987)(Sega)"
+	description "Great Golf Rev 0 (1987)(Sega)"
+	rom ( name "Great Golf Rev 0 (1987)(Sega).bin" size 131072 crc c6611c84 md5 a60d9dd3767d4771b10822f091762343 )
+)
+
+game (
+	name "Great Golf Rev 1 (1987)(Sega)"
+	description "Great Golf Rev 1 (1987)(Sega)"
+	rom ( name "Great Golf Rev 1 (1987)(Sega).bin" size 131072 crc 98e4ae4a md5 763580f2af57ea7baddf671fb51787da )
+)
+
+game (
+	name "Great Golf Rev 1 (1987)(Sega)[b2]"
+	description "Great Golf Rev 1 (1987)(Sega)[b2]"
+	rom ( name "Great Golf Rev 1 (1987)(Sega)[b2].bin" size 189384 crc 9ac4b0ac md5 a4352b341fd26ccce203f929ee7a800f )
+)
+
+game (
+	name "Great Golf Rev 1 (1987)(Sega)[b]"
+	description "Great Golf Rev 1 (1987)(Sega)[b]"
+	rom ( name "Great Golf Rev 1 (1987)(Sega)[b].bin" size 262144 crc 1d2165a4 md5 6d2895a5ac2940175707f5f260d2df32 )
+)
+
+game (
+	name "Great Ice Hockey (1986)(Sega)"
+	description "Great Ice Hockey (1986)(Sega)"
+	rom ( name "Great Ice Hockey (1986)(Sega).bin" size 65536 crc 0cb7e21f md5 374d762b51b1c5ea8ff7903f98586e0e )
+)
+
+game (
+	name "Great Ice Hockey (1986)(Sega)[b]"
+	description "Great Ice Hockey (1986)(Sega)[b]"
+	rom ( name "Great Ice Hockey (1986)(Sega)[b].bin" size 131072 crc 946b8c4a md5 26621293a88d55fedaf71bb097c24653 )
+)
+
+game (
+	name "Great Soccer (1985)(Sega)(EU)"
+	description "Great Soccer (1985)(Sega)(EU)"
+	rom ( name "Great Soccer (1985)(Sega)(EU).bin" size 32768 crc 0ed170c9 md5 5c9815b45b5cb3d9b3436c56c6fcadaf )
+)
+
+game (
+	name "Great Soccer (1985)(Sega)(JP)"
+	description "Great Soccer (1985)(Sega)(JP)"
+	rom ( name "Great Soccer (1985)(Sega)(JP).bin" size 32768 crc 2d7fd7ef md5 0ed883302e87ca46c1c1a55660e17900 )
+)
+
+game (
+	name "Great Soccer (1985)(Sega)(JP)[h]"
+	description "Great Soccer (1985)(Sega)(JP)[h]"
+	rom ( name "Great Soccer (1985)(Sega)(JP)[h].bin" size 32768 crc 84665648 md5 5de87c05f2651e894c673c84002c2c3a )
+)
+
+game (
+	name "Great Volley Ball (1987)(Sega)"
+	description "Great Volley Ball (1987)(Sega)"
+	rom ( name "Great Volley Ball (1987)(Sega).bin" size 131072 crc 8d43ea95 md5 382b627efa06c958b8ec5c85e964bf10 )
+)
+
+game (
+	name "Great Volley Ball (1987)(Sega)(JP)"
+	description "Great Volley Ball (1987)(Sega)(JP)"
+	rom ( name "Great Volley Ball (1987)(Sega)(JP).bin" size 131072 crc 6819b0c0 md5 03d6e8450a74ac09e47ae9bf210cfe17 )
+)
+
+game (
+	name "Great Volley Ball (1987)(Sega)[b]"
+	description "Great Volley Ball (1987)(Sega)[b]"
+	rom ( name "Great Volley Ball (1987)(Sega)[b].bin" size 131072 crc b2801b0c md5 bc69bc9dc12c2f47dd6e8ae01cd57d88 )
+)
+
+game (
+	name "Haja no Fuuin (1987)(Sega)(JP)"
+	description "Haja no Fuuin (1987)(Sega)(JP)"
+	rom ( name "Haja no Fuuin (1987)(Sega)(JP).bin" size 262144 crc b9fdf6d9 md5 b54989c58520516f4c10ce4e7a446725 )
+)
+
+game (
+	name "Hang-On (1985)(Sega)"
+	description "Hang-On (1985)(Sega)"
+	rom ( name "Hang-On (1985)(Sega).bin" size 32768 crc 071b045e md5 2864be0d35269c5030a7f297f70e3ac3 )
+)
+
+game (
+	name "Hang-On (1985)(Sega)(JP)"
+	description "Hang-On (1985)(Sega)(JP)"
+	rom ( name "Hang-On (1985)(Sega)(JP).bin" size 32768 crc 5c01adf9 md5 67849e734a1304799606ba5a22f840d2 )
+)
+
+game (
+	name "Hang-On (1985)(Sega)[b]"
+	description "Hang-On (1985)(Sega)[b]"
+	rom ( name "Hang-On (1985)(Sega)[b].bin" size 33272 crc bcd19bc6 md5 14b941256caccb93fb874458846d92d8 )
+)
+
+game (
+	name "Hang-On (1985)(Sega)[tr pt]"
+	description "Hang-On (1985)(Sega)[tr pt]"
+	rom ( name "Hang-On (1985)(Sega)[tr pt].bin" size 32768 crc cf1d7990 md5 eaa07aac3e917ee47a90c7075395f24f )
+)
+
+game (
+	name "Hang-On (1985)(Sega)[tr pt][a]"
+	description "Hang-On (1985)(Sega)[tr pt][a]"
+	rom ( name "Hang-On (1985)(Sega)[tr pt][a].bin" size 32768 crc 303ea475 md5 6b30c5aef84ec86625d3136903214dc8 )
+)
+
+game (
+	name "Hang-On + Astro Warrior (1986)(Sega)(US)"
+	description "Hang-On + Astro Warrior (1986)(Sega)(US)"
+	rom ( name "Hang-On + Astro Warrior (1986)(Sega)(US).bin" size 131072 crc 1c5059f0 md5 3701cb59dfd137246d163462d18e8dd4 )
+)
+
+game (
+	name "Hang-On + Safari Hunt (1986)(Sega)"
+	description "Hang-On + Safari Hunt (1986)(Sega)"
+	rom ( name "Hang-On + Safari Hunt (1986)(Sega).bin" size 131072 crc e167a561 md5 84284c327b07c200c16f4e13b2e8de79 )
+)
+
+game (
+	name "Hang-On + Safari Hunt (1986)(Sega)[b]"
+	description "Hang-On + Safari Hunt (1986)(Sega)[b]"
+	rom ( name "Hang-On + Safari Hunt (1986)(Sega)[b].bin" size 131072 crc c5083000 md5 bb3e57ce7f99e11e533c40c438aa5536 )
+)
+
+game (
+	name "Heavyweight Champ (1991)(Sega)"
+	description "Heavyweight Champ (1991)(Sega)"
+	rom ( name "Heavyweight Champ (1991)(Sega).bin" size 262144 crc fdab876a md5 08431e57a5ecf6cbfb1fdb757d496541 )
+)
+
+game (
+	name "Heroes of the Lance (1991)(U.S. Gold)"
+	description "Heroes of the Lance (1991)(U.S. Gold)"
+	rom ( name "Heroes of the Lance (1991)(U.S. Gold).bin" size 524288 crc cde13ffb md5 1dcacb5969fb4a0d4e9c7fec67227cce )
+)
+
+game (
+	name "High School Kimengumi (1986)(Sega)(JP)"
+	description "High School Kimengumi (1986)(Sega)(JP)"
+	rom ( name "High School Kimengumi (1986)(Sega)(JP).bin" size 131072 crc 9eb1aa4f md5 ab38b53584c89476cd4646105b16083a )
+)
+
+game (
+	name "High School Kimengumi (1986)(Sega)(JP)[tr en]"
+	description "High School Kimengumi (1986)(Sega)(JP)[tr en]"
+	rom ( name "High School Kimengumi (1986)(Sega)(JP)[tr en].bin" size 131072 crc 8a296a3e md5 471e80fed601261667b1fc6242396239 )
+)
+
+game (
+	name "High School Kimengumi (1986)(Sega)(JP)[tr en][a]"
+	description "High School Kimengumi (1986)(Sega)(JP)[tr en][a]"
+	rom ( name "High School Kimengumi (1986)(Sega)(JP)[tr en][a].bin" size 131072 crc 6f30434b md5 27aada6dac9f4f54d73b9314cc1a4553 )
+)
+
+game (
+	name "Hokuto no Ken (1986)(Sega)(JP)"
+	description "Hokuto no Ken (1986)(Sega)(JP)"
+	rom ( name "Hokuto no Ken (1986)(Sega)(JP).bin" size 131072 crc 24f5fe8c md5 ddd6b56e864a7dfd74a9e04bc4407f41 )
+)
+
+game (
+	name "Hokuto no Ken (1986)(Sega)(JP)[b]"
+	description "Hokuto no Ken (1986)(Sega)(JP)[b]"
+	rom ( name "Hokuto no Ken (1986)(Sega)(JP)[b].bin" size 131072 crc 656d1a3e md5 1596aebfc444afbe9d30878b0819caca )
+)
+
+game (
+	name "Home Alone (1993)(Sega)"
+	description "Home Alone (1993)(Sega)"
+	rom ( name "Home Alone (1993)(Sega).bin" size 262144 crc c9dbf936 md5 b0100ad9f1838332b15d0434bfa9fe29 )
+)
+
+game (
+	name "Hook (1992)(Sony)(proto)"
+	description "Hook (1992)(Sony)(proto)"
+	rom ( name "Hook (1992)(Sony)(proto).bin" size 262144 crc 9ced34a7 md5 7a07e3e59f51b620d8c51bef468d4df5 )
+)
+
+game (
+	name "Hook (1992)(Sony)(proto)[tr pt]"
+	description "Hook (1992)(Sony)(proto)[tr pt]"
+	rom ( name "Hook (1992)(Sony)(proto)[tr pt].bin" size 262144 crc 95256919 md5 61fbfbfd17d353020234785526e65fff )
+)
+
+game (
+	name "Hoshi wo Sagashite... (1988)(Sega)(JP)"
+	description "Hoshi wo Sagashite... (1988)(Sega)(JP)"
+	rom ( name "Hoshi wo Sagashite... (1988)(Sega)(JP).bin" size 262144 crc 955a009e md5 9b6274dd555f84b3f21fa2594b280a06 )
+)
+
+game (
+	name "Hwarang-ui Geom (19xx)(Samsung - Sega)(KR)"
+	description "Hwarang-ui Geom (19xx)(Samsung - Sega)(KR)"
+	rom ( name "Hwarang-ui Geom (19xx)(Samsung - Sega)(KR).bin" size 262144 crc e4b7c56a md5 480106be9af6c74fc4738c97b23ac323 )
+)
+
+game (
+	name "Impossible Mission (1986)(Sega)"
+	description "Impossible Mission (1986)(Sega)"
+	rom ( name "Impossible Mission (1986)(Sega).bin" size 131072 crc 64d6af3b md5 af51ab03a173dec28c9241532227cd64 )
+)
+
+game (
+	name "Impossible Mission (1986)(Sega)(beta)"
+	description "Impossible Mission (1986)(Sega)(beta)"
+	rom ( name "Impossible Mission (1986)(Sega)(beta).bin" size 131072 crc 71c4ca8f md5 a26d40b6b7646c22d1f2db7f746f0391 )
+)
+
+game (
+	name "Incredible Crash Dummies, The (1992)(Acclaim)"
+	description "Incredible Crash Dummies, The (1992)(Acclaim)"
+	rom ( name "Incredible Crash Dummies, The (1992)(Acclaim).bin" size 262144 crc b4584dde md5 429738d19911881f443582a303ecd7f5 )
+)
+
+game (
+	name "Incredible Hulk, The (1994)(U.S. Gold)"
+	description "Incredible Hulk, The (1994)(U.S. Gold)"
+	rom ( name "Incredible Hulk, The (1994)(U.S. Gold).bin" size 524288 crc be9a7071 md5 285d996c1d7dbf38458df61c28bbaa01 )
+)
+
+game (
+	name "Indiana Jones and the Last Crusade (1990)(Lucasarts)"
+	description "Indiana Jones and the Last Crusade (1990)(Lucasarts)"
+	rom ( name "Indiana Jones and the Last Crusade (1990)(Lucasarts).bin" size 262144 crc 8aeb574b md5 e83f8c99882e2123bd344090421e84c3 )
+)
+
+game (
+	name "Indiana Jones and the Last Crusade (1990)(Lucasarts)(beta)"
+	description "Indiana Jones and the Last Crusade (1990)(Lucasarts)(beta)"
+	rom ( name "Indiana Jones and the Last Crusade (1990)(Lucasarts)(beta).bin" size 262144 crc acec894d md5 d594821486699f366d385f74162be1c7 )
+)
+
+game (
+	name "James Bond 007 - The Duel (1993)(Domark)"
+	description "James Bond 007 - The Duel (1993)(Domark)"
+	rom ( name "James Bond 007 - The Duel (1993)(Domark).bin" size 262144 crc 8d23587f md5 c52e496c497d427747769aaedfbb8dab )
+)
+
+game (
+	name "James Bond 007 - The Duel (1993)(Domark)(BR)"
+	description "James Bond 007 - The Duel (1993)(Domark)(BR)"
+	rom ( name "James Bond 007 - The Duel (1993)(Domark)(BR).bin" size 262144 crc 8feff688 md5 123a0199f0238a141a66d5746e63ed7e )
+)
+
+game (
+	name "James Bond 007 - The Duel (1993)(Domark)(BR)[b]"
+	description "James Bond 007 - The Duel (1993)(Domark)(BR)[b]"
+	rom ( name "James Bond 007 - The Duel (1993)(Domark)(BR)[b].bin" size 262144 crc 2b7f7447 md5 1cface9268461d5e74805cb91eec642c )
+)
+
+game (
+	name "James Buster Douglas Knockout Boxing (1990)(Sega)(US)"
+	description "James Buster Douglas Knockout Boxing (1990)(Sega)(US)"
+	rom ( name "James Buster Douglas Knockout Boxing (1990)(Sega)(US).bin" size 262144 crc 6a664405 md5 b3a4815ca9fdc900cf7fe6ad961f8125 )
+)
+
+game (
+	name "James Buster Douglas Knockout Boxing (1990)(Sega)(US)(beta)"
+	description "James Buster Douglas Knockout Boxing (1990)(Sega)(US)(beta)"
+	rom ( name "James Buster Douglas Knockout Boxing (1990)(Sega)(US)(beta).bin" size 262144 crc cfb4bd7b md5 433fe61368cdf79c1b66cc84d0936599 )
+)
+
+game (
+	name "James Pond II - Codename Robocod (1991)(Millenium - Sega)"
+	description "James Pond II - Codename Robocod (1991)(Millenium - Sega)"
+	rom ( name "James Pond II - Codename Robocod (1991)(Millenium - Sega).bin" size 524288 crc 102d5fea md5 73b92360c3efde9d265280f6e157fc33 )
+)
+
+game (
+	name "James Pond II - Codename Robocod (1991)(Millenium - Sega)[b]"
+	description "James Pond II - Codename Robocod (1991)(Millenium - Sega)[b]"
+	rom ( name "James Pond II - Codename Robocod (1991)(Millenium - Sega)[b].bin" size 524288 crc fef68275 md5 6d395351cda6df8549012005fb906a3a )
+)
+
+game (
+	name "Jang Pung II (1993)(Sieko)(KR)"
+	description "Jang Pung II (1993)(Sieko)(KR)"
+	rom ( name "Jang Pung II (1993)(Sieko)(KR).bin" size 262144 crc 76c5bdfb md5 9b95b6e6609daa8ea413f223f426c8ff )
+)
+
+game (
+	name "Joe Montana Football (1990)(Sega)"
+	description "Joe Montana Football (1990)(Sega)"
+	rom ( name "Joe Montana Football (1990)(Sega).bin" size 262144 crc 0a9089e5 md5 0ece8f9c0fde2eba92bbe9a500116ff0 )
+)
+
+game (
+	name "Jungle Book, The (1993)(Virgin)"
+	description "Jungle Book, The (1993)(Virgin)"
+	rom ( name "Jungle Book, The (1993)(Virgin).bin" size 262144 crc 695a9a15 md5 ed224898befb4fb246175e46f9982821 )
+)
+
+game (
+	name "Jungle Book, The (1993)(Virgin)[b]"
+	description "Jungle Book, The (1993)(Virgin)[b]"
+	rom ( name "Jungle Book, The (1993)(Virgin)[b].bin" size 262144 crc e959e820 md5 95f0145dfc1eb0d464e45d1b5613b2a5 )
+)
+
+game (
+	name "Jungle Book, The (1993)(Virgin)[tr pt]"
+	description "Jungle Book, The (1993)(Virgin)[tr pt]"
+	rom ( name "Jungle Book, The (1993)(Virgin)[tr pt].bin" size 262144 crc dca0c49e md5 225e3d08753189013839039d84e59517 )
+)
+
+game (
+	name "Jungle Book, The (1993)(Virgin)[tr pt][a]"
+	description "Jungle Book, The (1993)(Virgin)[tr pt][a]"
+	rom ( name "Jungle Book, The (1993)(Virgin)[tr pt][a].bin" size 262144 crc 5ca3b6ab md5 454e18af80fa9e952e59553b25ae22ed )
+)
+
+game (
+	name "Jurassic Park (1993)(Sega)"
+	description "Jurassic Park (1993)(Sega)"
+	rom ( name "Jurassic Park (1993)(Sega).bin" size 524288 crc 0667ed9f md5 b05014defe8d0c3d0ad6f67851ca15d7 )
+)
+
+game (
+	name "Kenseiden (1988)(Sega)"
+	description "Kenseiden (1988)(Sega)"
+	rom ( name "Kenseiden (1988)(Sega).bin" size 262144 crc 516ed32e md5 6ae8f011701608ae8b765a26eb0b7ce1 )
+)
+
+game (
+	name "Kenseiden (1988)(Sega)(JP)"
+	description "Kenseiden (1988)(Sega)(JP)"
+	rom ( name "Kenseiden (1988)(Sega)(JP).bin" size 262144 crc 05ea5353 md5 f4c3327b0f92e09b21f59e90fd273c2f )
+)
+
+game (
+	name "Kenseiden (1988)(Sega)[b]"
+	description "Kenseiden (1988)(Sega)[b]"
+	rom ( name "Kenseiden (1988)(Sega)[b].bin" size 524288 crc 4cc95b51 md5 72b9eb2551a0ade8693e6c5779e12e81 )
+)
+
+game (
+	name "Kenseiden (1988)(Sega)[tr fr]"
+	description "Kenseiden (1988)(Sega)[tr fr]"
+	rom ( name "Kenseiden (1988)(Sega)[tr fr].bin" size 262144 crc a28218fe md5 64218d035be5988fb5ef023b70955ac3 )
+)
+
+game (
+	name "Kenseiden (1988)(Sega)[tr pl]"
+	description "Kenseiden (1988)(Sega)[tr pl]"
+	rom ( name "Kenseiden (1988)(Sega)[tr pl].bin" size 262144 crc f6915e4b md5 50ea6e635882b851db27358130e339bf )
+)
+
+game (
+	name "Kenseiden (1988)(Sega)[tr pl][a]"
+	description "Kenseiden (1988)(Sega)[tr pl][a]"
+	rom ( name "Kenseiden (1988)(Sega)[tr pl][a].bin" size 262144 crc 616db05d md5 71754909f7719038eb54e6f9bfc4dd94 )
+)
+
+game (
+	name "Kenseiden (1988)(Sega)[tr pt]"
+	description "Kenseiden (1988)(Sega)[tr pt]"
+	rom ( name "Kenseiden (1988)(Sega)[tr pt].bin" size 262144 crc 4918d6c0 md5 f4fb5e6e5fd8e9efccd5e394301d1166 )
+)
+
+game (
+	name "King's Quest (1989)(Parker Brothers)(US)"
+	description "King's Quest (1989)(Parker Brothers)(US)"
+	rom ( name "King's Quest (1989)(Parker Brothers)(US).bin" size 131072 crc f8d33bc4 md5 2f579f5a3216dfc77aea636930376ba7 )
+)
+
+game (
+	name "King's Quest (1989)(Parker Brothers)(US)(beta)"
+	description "King's Quest (1989)(Parker Brothers)(US)(beta)"
+	rom ( name "King's Quest (1989)(Parker Brothers)(US)(beta).bin" size 131072 crc b7fe0a9d md5 8666d9a13fbd8c5a761fab15e15d3db0 )
+)
+
+game (
+	name "Klax (1991)(Tengen)"
+	description "Klax (1991)(Tengen)"
+	rom ( name "Klax (1991)(Tengen).bin" size 131072 crc 2b435fd6 md5 dcea71eda85687d1835bed5c493f81a2 )
+)
+
+game (
+	name "Klax (1991)(Tengen)[b2]"
+	description "Klax (1991)(Tengen)[b2]"
+	rom ( name "Klax (1991)(Tengen)[b2].bin" size 131072 crc bb351118 md5 7d5cd20a32cefcaea6a72877ef7b3292 )
+)
+
+game (
+	name "Klax (1991)(Tengen)[b3]"
+	description "Klax (1991)(Tengen)[b3]"
+	rom ( name "Klax (1991)(Tengen)[b3].bin" size 65536 crc 97b38e8a md5 c21fbd9c2700635c68d8e2d44a1cb14b )
+)
+
+game (
+	name "Klax (1991)(Tengen)[b]"
+	description "Klax (1991)(Tengen)[b]"
+	rom ( name "Klax (1991)(Tengen)[b].bin" size 131072 crc ed15f21e md5 bf6cfa7618dc05af818fe364152658fe )
+)
+
+game (
+	name "KO Boxing (1992)(Acclaim)"
+	description "KO Boxing (1992)(Acclaim)"
+	rom ( name "KO Boxing (1992)(Acclaim).bin" size 262144 crc a64898ce md5 31cf051d130a64e211d3ccb37c5653f7 )
+)
+
+game (
+	name "Krusty's Fun House (1993)(Acclaim)"
+	description "Krusty's Fun House (1993)(Acclaim)"
+	rom ( name "Krusty's Fun House (1993)(Acclaim).bin" size 262144 crc 64a585eb md5 86deebacc6413f23fe11ee54011cf4bf )
+)
+
+game (
+	name "Kujakuou (1988)(Sega)(JP)"
+	description "Kujakuou (1988)(Sega)(JP)"
+	rom ( name "Kujakuou (1988)(Sega)(JP).bin" size 524288 crc d11d32e4 md5 d8788e907f76419d55bcc447e76de6ad )
+)
+
+game (
+	name "Kujakuou (1988)(Sega)(JP)[b]"
+	description "Kujakuou (1988)(Sega)(JP)[b]"
+	rom ( name "Kujakuou (1988)(Sega)(JP)[b].bin" size 524288 crc 68108314 md5 64593bde3eb8596d26d74e083cccc7dc )
+)
+
+game (
+	name "Kung Fu Kid (1987)(Sega)"
+	description "Kung Fu Kid (1987)(Sega)"
+	rom ( name "Kung Fu Kid (1987)(Sega).bin" size 131072 crc 1e949d1f md5 126687037bf172174f697d16cd7e7296 )
+)
+
+game (
+	name "Kung Fu Kid (1987)(Sega)[b]"
+	description "Kung Fu Kid (1987)(Sega)[b]"
+	rom ( name "Kung Fu Kid (1987)(Sega)[b].bin" size 262144 crc 1fbe3106 md5 6a1eae3dfde47362c04ed1191d45e41a )
+)
+
+game (
+	name "KunKun and KokoKun v1.00 (2006)(Cornut, Omar)"
+	description "KunKun and KokoKun v1.00 (2006)(Cornut, Omar)"
+	rom ( name "KunKun and KokoKun v1.00 (2006)(Cornut, Omar).bin" size 32768 crc 7e15a103 md5 69ad79d1cfeb0f4af9df5f14846f90e1 )
+)
+
+game (
+	name "Land of Illusion starring Mickey Mouse (1992)(Sega)"
+	description "Land of Illusion starring Mickey Mouse (1992)(Sega)"
+	rom ( name "Land of Illusion starring Mickey Mouse (1992)(Sega).bin" size 524288 crc 24e97200 md5 07fac1d61bc20cf6eb298f66ec2ffe49 )
+)
+
+game (
+	name "Laser Ghost (1991)(Sega)"
+	description "Laser Ghost (1991)(Sega)"
+	rom ( name "Laser Ghost (1991)(Sega).bin" size 262144 crc 0ca95637 md5 17f9c50c444dc94e08ba173ab306608b )
+)
+
+game (
+	name "Laser Ghost (1991)(Sega)[b]"
+	description "Laser Ghost (1991)(Sega)[b]"
+	rom ( name "Laser Ghost (1991)(Sega)[b].bin" size 262656 crc 33cf8213 md5 78864f17e5bc682ad0622ad046a461b3 )
+)
+
+game (
+	name "Legend of Illusion starring Mickey Mouse (1994)(Sega)(BR)"
+	description "Legend of Illusion starring Mickey Mouse (1994)(Sega)(BR)"
+	rom ( name "Legend of Illusion starring Mickey Mouse (1994)(Sega)(BR).bin" size 524288 crc 6350e649 md5 4a69a56a8efff7863feca11f1d6547e3 )
+)
+
+game (
+	name "Lemmings (1992)(Sega)"
+	description "Lemmings (1992)(Sega)"
+	rom ( name "Lemmings (1992)(Sega).bin" size 262144 crc f369b2d8 md5 b190f17a46ba9cc66676e7174209c24e )
+)
+
+game (
+	name "Lemmings (1992)(Sega)(beta)"
+	description "Lemmings (1992)(Sega)(beta)"
+	rom ( name "Lemmings (1992)(Sega)(beta).bin" size 262144 crc 2c61ed88 md5 5dba0a0dd0eeb52fe6d94dce47335a34 )
+)
+
+game (
+	name "Line of Fire (1991)(Sega)"
+	description "Line of Fire (1991)(Sega)"
+	rom ( name "Line of Fire (1991)(Sega).bin" size 524288 crc cb09f355 md5 1597ad705990a66e90262ef7b1141b64 )
+)
+
+game (
+	name "Lion King, The (1994)(Virgin)"
+	description "Lion King, The (1994)(Virgin)"
+	rom ( name "Lion King, The (1994)(Virgin).bin" size 524288 crc c352c7eb md5 e50336c0d146e8a341c7ae198a016527 )
+)
+
+game (
+	name "Lord of Sword (1988)(Sega)(JP)"
+	description "Lord of Sword (1988)(Sega)(JP)"
+	rom ( name "Lord of Sword (1988)(Sega)(JP).bin" size 262144 crc aa7d6f45 md5 a5736126ed7e8569a189065ec20adf72 )
+)
+
+game (
+	name "Lord of the Sword (1988)(Sega)"
+	description "Lord of the Sword (1988)(Sega)"
+	rom ( name "Lord of the Sword (1988)(Sega).bin" size 262144 crc e8511b08 md5 b80f87887881343e5705ff3cce93c5f1 )
+)
+
+game (
+	name "Lord of the Sword (1988)(Sega)[b2]"
+	description "Lord of the Sword (1988)(Sega)[b2]"
+	rom ( name "Lord of the Sword (1988)(Sega)[b2].bin" size 262178 crc 2c3fa788 md5 f4b3fce3403fbcd678f6352d8edfa01c )
+)
+
+game (
+	name "Lord of the Sword (1988)(Sega)[b]"
+	description "Lord of the Sword (1988)(Sega)[b]"
+	rom ( name "Lord of the Sword (1988)(Sega)[b].bin" size 262656 crc 3d87705b md5 be9fa45b7f5bc844e698ea923b764f3a )
+)
+
+game (
+	name "Loretta no Shouzou (1987)(Sega)(JP)"
+	description "Loretta no Shouzou (1987)(Sega)(JP)"
+	rom ( name "Loretta no Shouzou (1987)(Sega)(JP).bin" size 131072 crc 323f357f md5 8dcdd83e58be634a3735911a1af05bb3 )
+)
+
+game (
+	name "Lucky Dime Caper starring Donald Duck, The (1991)(Sega)"
+	description "Lucky Dime Caper starring Donald Duck, The (1991)(Sega)"
+	rom ( name "Lucky Dime Caper starring Donald Duck, The (1991)(Sega).bin" size 262144 crc a1710f13 md5 653f10042a5ee5854ccf971456641a4d )
+)
+
+game (
+	name "Lucky Dime Caper starring Donald Duck, The (1991)(Sega)(beta)"
+	description "Lucky Dime Caper starring Donald Duck, The (1991)(Sega)(beta)"
+	rom ( name "Lucky Dime Caper starring Donald Duck, The (1991)(Sega)(beta).bin" size 262144 crc 7f6d0df6 md5 7de03b7f1cdc1f931b3a4746d9350033 )
+)
+
+game (
+	name "Lucky Dime Caper starring Donald Duck, The (1991)(Sega)[tr fr]"
+	description "Lucky Dime Caper starring Donald Duck, The (1991)(Sega)[tr fr]"
+	rom ( name "Lucky Dime Caper starring Donald Duck, The (1991)(Sega)[tr fr].bin" size 262144 crc 47340be0 md5 0f0d6d3b67054cf9aba066e50fdf51e3 )
+)
+
+game (
+	name "Lucky Dime Caper starring Donald Duck, The (1991)(Sega)[tr pt]"
+	description "Lucky Dime Caper starring Donald Duck, The (1991)(Sega)[tr pt]"
+	rom ( name "Lucky Dime Caper starring Donald Duck, The (1991)(Sega)[tr pt].bin" size 262144 crc d79e51a8 md5 7de76abf927d6fec98d46e28de054e36 )
+)
+
+game (
+	name "Machine Gun Joe (1986)(Sega)(JP)"
+	description "Machine Gun Joe (1986)(Sega)(JP)"
+	rom ( name "Machine Gun Joe (1986)(Sega)(JP).bin" size 32768 crc 9d549e08 md5 2d59b3d27f022b04a597e767e6660ca9 )
+)
+
+game (
+	name "Mahjong Sengoku Jidai (1987)(Sega)(JP)"
+	description "Mahjong Sengoku Jidai (1987)(Sega)(JP)"
+	rom ( name "Mahjong Sengoku Jidai (1987)(Sega)(JP).bin" size 131072 crc bcfbfc67 md5 ae37b27f37a25c5230f50e8b8d58eba2 )
+)
+
+game (
+	name "Mahjong Sengoku Jidai (1987)(Sega)(JP)(beta)"
+	description "Mahjong Sengoku Jidai (1987)(Sega)(JP)(beta)"
+	rom ( name "Mahjong Sengoku Jidai (1987)(Sega)(JP)(beta).bin" size 131072 crc 996b2a07 md5 19db67f87bb3d1d8efead0542de30cd1 )
+)
+
+game (
+	name "Mahjong Sengoku Jidai (1987)(Sega)(JP)[b2]"
+	description "Mahjong Sengoku Jidai (1987)(Sega)(JP)[b2]"
+	rom ( name "Mahjong Sengoku Jidai (1987)(Sega)(JP)[b2].bin" size 262144 crc 3faf4e19 md5 c5b2a8137d6e7ee4a2a8d296a75979d2 )
+)
+
+game (
+	name "Mahjong Sengoku Jidai (1987)(Sega)(JP)[b]"
+	description "Mahjong Sengoku Jidai (1987)(Sega)(JP)[b]"
+	rom ( name "Mahjong Sengoku Jidai (1987)(Sega)(JP)[b].bin" size 262144 crc 1a9b396f md5 49a59b6a1c34b48626a37724982f3bc7 )
+)
+
+game (
+	name "Makai Retsuden (1987)(Sega)(JP)"
+	description "Makai Retsuden (1987)(Sega)(JP)"
+	rom ( name "Makai Retsuden (1987)(Sega)(JP).bin" size 131072 crc ca860451 md5 f4a3116fe2be83eafd4cc278812be9b4 )
+)
+
+game (
+	name "Marble Madness (1992)(Tengen)"
+	description "Marble Madness (1992)(Tengen)"
+	rom ( name "Marble Madness (1992)(Tengen).bin" size 262144 crc bf6f3e5f md5 97832999dd6d2ba467b5625006b018a0 )
+)
+
+game (
+	name "Marble Madness (1992)(Tengen)[b]"
+	description "Marble Madness (1992)(Tengen)[b]"
+	rom ( name "Marble Madness (1992)(Tengen)[b].bin" size 262144 crc 94fee07b md5 95e9afe2900bfb79719741985e046557 )
+)
+
+game (
+	name "Marble Madness (1992)(Tengen)[tr es]"
+	description "Marble Madness (1992)(Tengen)[tr es]"
+	rom ( name "Marble Madness (1992)(Tengen)[tr es].bin" size 262144 crc d4f59afb md5 26abbeec8a3c1e92b194b035628b4af5 )
+)
+
+game (
+	name "Marksman Shooting + Trap Shooting (1986)(Sega)"
+	description "Marksman Shooting + Trap Shooting (1986)(Sega)"
+	rom ( name "Marksman Shooting + Trap Shooting (1986)(Sega).bin" size 131072 crc e8ea842c md5 0a28cfd7b151531fb7a43181c24e1d3d )
+)
+
+game (
+	name "Master of Darkness (1992)(Sega)"
+	description "Master of Darkness (1992)(Sega)"
+	rom ( name "Master of Darkness (1992)(Sega).bin" size 262144 crc 96fb4d4b md5 8354932a7f20e84a808471b3724a56f8 )
+)
+
+game (
+	name "Master of Darkness (1992)(Sega)[b]"
+	description "Master of Darkness (1992)(Sega)[b]"
+	rom ( name "Master of Darkness (1992)(Sega)[b].bin" size 262144 crc 49c5d8e2 md5 d27e518ae8b9f69936f444a3f1bf171a )
+)
+
+game (
+	name "Masters Golf (1987)(Sega)(JP)(proto)"
+	description "Masters Golf (1987)(Sega)(JP)(proto)"
+	rom ( name "Masters Golf (1987)(Sega)(JP)(proto).bin" size 131072 crc 4847bc91 md5 9be0947196dce7060a6c72f47337cf73 )
+)
+
+game (
+	name "Masters of Combat (1993)(Sega)"
+	description "Masters of Combat (1993)(Sega)"
+	rom ( name "Masters of Combat (1993)(Sega).bin" size 262144 crc 93141463 md5 7f4c7a57ae46837f01ef9a0c85065250 )
+)
+
+game (
+	name "Masters of Combat (1993)(Sega)[b]"
+	description "Masters of Combat (1993)(Sega)[b]"
+	rom ( name "Masters of Combat (1993)(Sega)[b].bin" size 262144 crc 22f2c541 md5 e15969c2c4719bdcecd5a0c01e9a31fc )
+)
+
+game (
+	name "Maze Hunter 3D (1987)(Sega)"
+	description "Maze Hunter 3D (1987)(Sega)"
+	rom ( name "Maze Hunter 3D (1987)(Sega).bin" size 131072 crc 31b8040b md5 2349ee42a09088a4a590e2c65474cdaf )
+)
+
+game (
+	name "Maze Walker (1987)(Sega)(JP)"
+	description "Maze Walker (1987)(Sega)(JP)"
+	rom ( name "Maze Walker (1987)(Sega)(JP).bin" size 131072 crc 871562b0 md5 d22d7b072123ef9c43b432e06363dabd )
+)
+
+game (
+	name "Megumi Rescue (1988)(Sega)(JP)"
+	description "Megumi Rescue (1988)(Sega)(JP)"
+	rom ( name "Megumi Rescue (1988)(Sega)(JP).bin" size 131072 crc 29bc7fad md5 fd834dbb87682c674f7d7ed917355021 )
+)
+
+game (
+	name "Mercs (1991)(Sega)"
+	description "Mercs (1991)(Sega)"
+	rom ( name "Mercs (1991)(Sega).bin" size 524288 crc d7416b83 md5 7d5696c3da0dbed04b35543f7bdbef40 )
+)
+
+game (
+	name "Mick & Mack as The Global Gladiators (1992)(Virgin)"
+	description "Mick & Mack as The Global Gladiators (1992)(Virgin)"
+	rom ( name "Mick & Mack as The Global Gladiators (1992)(Virgin).bin" size 262144 crc b67ceb76 md5 73569d2abefb7cdcbe9a13456df525c2 )
+)
+
+game (
+	name "Mick & Mack as The Global Gladiators (1992)(Virgin)[b2]"
+	description "Mick & Mack as The Global Gladiators (1992)(Virgin)[b2]"
+	rom ( name "Mick & Mack as The Global Gladiators (1992)(Virgin)[b2].bin" size 524288 crc 87475035 md5 7f7bd73fdc8ee07f160dad9ff5673958 )
+)
+
+game (
+	name "Mick & Mack as The Global Gladiators (1992)(Virgin)[b]"
+	description "Mick & Mack as The Global Gladiators (1992)(Virgin)[b]"
+	rom ( name "Mick & Mack as The Global Gladiators (1992)(Virgin)[b].bin" size 524288 crc 8dae576e md5 10eff674e0fa5476c87bc27d45820a6d )
+)
+
+game (
+	name "Mick & Mack as The Global Gladiators (1992)(Virgin)[t]"
+	description "Mick & Mack as The Global Gladiators (1992)(Virgin)[t]"
+	rom ( name "Mick & Mack as The Global Gladiators (1992)(Virgin)[t].bin" size 262144 crc 619fde2c md5 616f405778abcce1f72df90981cb0eef )
+)
+
+game (
+	name "Mickey's Ultimate Challenge (1994)(Disney)(BR)"
+	description "Mickey's Ultimate Challenge (1994)(Disney)(BR)"
+	rom ( name "Mickey's Ultimate Challenge (1994)(Disney)(BR).bin" size 262144 crc 25051dd5 md5 d2ce453953f406d36850f452768d5580 )
+)
+
+game (
+	name "Mickey's Ultimate Challenge (1994)(Disney)(BR)[b2]"
+	description "Mickey's Ultimate Challenge (1994)(Disney)(BR)[b2]"
+	rom ( name "Mickey's Ultimate Challenge (1994)(Disney)(BR)[b2].bin" size 524288 crc 7e811f8d md5 ec7f3c379b3a39daabce2ccea690cbda )
+)
+
+game (
+	name "Mickey's Ultimate Challenge (1994)(Disney)(BR)[b3]"
+	description "Mickey's Ultimate Challenge (1994)(Disney)(BR)[b3]"
+	rom ( name "Mickey's Ultimate Challenge (1994)(Disney)(BR)[b3].bin" size 262144 crc 80f94f99 md5 e0e31eab5577add3f2f3f6b8cea57506 )
+)
+
+game (
+	name "Mickey's Ultimate Challenge (1994)(Disney)(BR)[b]"
+	description "Mickey's Ultimate Challenge (1994)(Disney)(BR)[b]"
+	rom ( name "Mickey's Ultimate Challenge (1994)(Disney)(BR)[b].bin" size 524288 crc 2b86bcd7 md5 7ffa8a70ce7bfc8aabfe10e206df2c29 )
+)
+
+game (
+	name "Micro Machines (1993)(Codemasters)"
+	description "Micro Machines (1993)(Codemasters)"
+	rom ( name "Micro Machines (1993)(Codemasters).bin" size 262144 crc a577ce46 md5 a90cf8d68fa8b1f0ba00f0ddb9d547b7 )
+)
+
+game (
+	name "Micro Machines (1993)(Codemasters)[b]"
+	description "Micro Machines (1993)(Codemasters)[b]"
+	rom ( name "Micro Machines (1993)(Codemasters)[b].bin" size 65536 crc 58fa27c6 md5 2629d3bffd129834a3f5e033d2e36609 )
+)
+
+game (
+	name "Miracle Warriors - Seal of the Dark Lord (1988)(Sega)"
+	description "Miracle Warriors - Seal of the Dark Lord (1988)(Sega)"
+	rom ( name "Miracle Warriors - Seal of the Dark Lord (1988)(Sega).bin" size 262144 crc 0e333b6e md5 e0a9cf889c27f3cb14903288f646d183 )
+)
+
+game (
+	name "Miracle Warriors - Seal of the Dark Lord (1988)(Sega)(beta)"
+	description "Miracle Warriors - Seal of the Dark Lord (1988)(Sega)(beta)"
+	rom ( name "Miracle Warriors - Seal of the Dark Lord (1988)(Sega)(beta).bin" size 262144 crc 301a59aa md5 3f5d2ca45ccc205d18c8e3d1d9969f00 )
+)
+
+game (
+	name "Miracle Warriors - Seal of the Dark Lord (1988)(Sega)[b2]"
+	description "Miracle Warriors - Seal of the Dark Lord (1988)(Sega)[b2]"
+	rom ( name "Miracle Warriors - Seal of the Dark Lord (1988)(Sega)[b2].bin" size 262656 crc f14a8546 md5 1f656138fdd50fe74e02bdaefbcbd72e )
+)
+
+game (
+	name "Miracle Warriors - Seal of the Dark Lord (1988)(Sega)[b]"
+	description "Miracle Warriors - Seal of the Dark Lord (1988)(Sega)[b]"
+	rom ( name "Miracle Warriors - Seal of the Dark Lord (1988)(Sega)[b].bin" size 262144 crc ebc2bfa1 md5 847ab8bc3b8b913fcf2d2b7b46acc13e )
+)
+
+game (
+	name "Missile Defense 3-D (1987)(Sega)"
+	description "Missile Defense 3-D (1987)(Sega)"
+	rom ( name "Missile Defense 3-D (1987)(Sega).bin" size 131072 crc fbe5cfbb md5 b17ca24555cc79c5f7d89f156b99e452 )
+)
+
+game (
+	name "Monica no Castelo do Dragao (1991)(Sega - TecToy)(BR)"
+	description "Monica no Castelo do Dragao (1991)(Sega - TecToy)(BR)"
+	rom ( name "Monica no Castelo do Dragao (1991)(Sega - TecToy)(BR).bin" size 262144 crc 01d67c0b md5 d649ce52d05d88efdaca81d2ccc57d2d )
+)
+
+game (
+	name "Monica no Castelo do Dragao (1991)(Sega - TecToy)(BR)[b]"
+	description "Monica no Castelo do Dragao (1991)(Sega - TecToy)(BR)[b]"
+	rom ( name "Monica no Castelo do Dragao (1991)(Sega - TecToy)(BR)[b].bin" size 262144 crc fac09af4 md5 ce5398b98d7a028bcd0a9f33afddca66 )
+)
+
+game (
+	name "Monica no Castelo do Dragao (1991)(Sega - TecToy)(BR)[h]"
+	description "Monica no Castelo do Dragao (1991)(Sega - TecToy)(BR)[h]"
+	rom ( name "Monica no Castelo do Dragao (1991)(Sega - TecToy)(BR)[h].bin" size 262144 crc 55c88828 md5 ed77cfc1ce39a7735bbbb45da5221fe1 )
+)
+
+game (
+	name "Monopoly (1987)(Sega)(EU)"
+	description "Monopoly (1987)(Sega)(EU)"
+	rom ( name "Monopoly (1987)(Sega)(EU).bin" size 131072 crc 026d94a4 md5 f2d360f60acd4ca1e50ab301e20de581 )
+)
+
+game (
+	name "Monopoly (1987)(Sega)(US)"
+	description "Monopoly (1987)(Sega)(US)"
+	rom ( name "Monopoly (1987)(Sega)(US).bin" size 131072 crc 69538469 md5 b887836983fccb5ec706630cf835939f )
+)
+
+game (
+	name "Monopoly (1987)(Sega)(US)[b]"
+	description "Monopoly (1987)(Sega)(US)[b]"
+	rom ( name "Monopoly (1987)(Sega)(US)[b].bin" size 524288 crc fff835bd md5 a0be7e3c7f4bc0053f2bc968f4ff2705 )
+)
+
+game (
+	name "Montezuma's Revenge (1989)(Parker Borthers)(US)"
+	description "Montezuma's Revenge (1989)(Parker Borthers)(US)"
+	rom ( name "Montezuma's Revenge (1989)(Parker Borthers)(US).bin" size 131072 crc 82fda895 md5 fe20d983d1b18ff1986c376489843f32 )
+)
+
+game (
+	name "Moonwalker (1990)(Sega)"
+	description "Moonwalker (1990)(Sega)"
+	rom ( name "Moonwalker (1990)(Sega).bin" size 262144 crc 56cc906b md5 aa3bc8467e80a6aaab02051818ecb035 )
+)
+
+game (
+	name "Moonwalker (1990)(Sega)(beta)"
+	description "Moonwalker (1990)(Sega)(beta)"
+	rom ( name "Moonwalker (1990)(Sega)(beta).bin" size 262144 crc 54123936 md5 cd6ee06f4cda94fc777c2cd1c5e4f1e7 )
+)
+
+game (
+	name "Moonwalker (1990)(Sega)[b]"
+	description "Moonwalker (1990)(Sega)[b]"
+	rom ( name "Moonwalker (1990)(Sega)[b].bin" size 262144 crc 9c4f03ac md5 0de7e3bf99319519bd929597448008ea )
+)
+
+game (
+	name "Mortal Kombat (1993)(Acclaim)"
+	description "Mortal Kombat (1993)(Acclaim)"
+	rom ( name "Mortal Kombat (1993)(Acclaim).bin" size 524288 crc 302dc686 md5 a429ed37b51cc9f46c943f968d88e29f )
+)
+
+game (
+	name "Mortal Kombat (1993)(Acclaim)[tr pt]"
+	description "Mortal Kombat (1993)(Acclaim)[tr pt]"
+	rom ( name "Mortal Kombat (1993)(Acclaim)[tr pt].bin" size 524288 crc 563f2487 md5 51cccac1487bac0715596ebefc152b83 )
+)
+
+game (
+	name "Mortal Kombat 3 (1995)(Sega)(BR)"
+	description "Mortal Kombat 3 (1995)(Sega)(BR)"
+	rom ( name "Mortal Kombat 3 (1995)(Sega)(BR).bin" size 524288 crc 395ae757 md5 3ba73c09f35ea91bf36cd0b01bc1c044 )
+)
+
+game (
+	name "Mortal Kombat II (1994)(Accalim)"
+	description "Mortal Kombat II (1994)(Accalim)"
+	rom ( name "Mortal Kombat II (1994)(Accalim).bin" size 524288 crc 2663bf18 md5 c60f62f13a60bc585822bfd2d68ba75c )
+)
+
+game (
+	name "Mortal Kombat II (1994)(Accalim)[b]"
+	description "Mortal Kombat II (1994)(Accalim)[b]"
+	rom ( name "Mortal Kombat II (1994)(Accalim)[b].bin" size 524288 crc 9ed8341a md5 eff0e850754ef266558428ae26e6f86b )
+)
+
+game (
+	name "Ms. Pac-Man (1991)(Tengen)"
+	description "Ms. Pac-Man (1991)(Tengen)"
+	rom ( name "Ms. Pac-Man (1991)(Tengen).bin" size 131072 crc 3cd816c6 md5 e492a237f62ea6a5b7e71ff1a3fc0f33 )
+)
+
+game (
+	name "My Hero (1986)(Sega)"
+	description "My Hero (1986)(Sega)"
+	rom ( name "My Hero (1986)(Sega).bin" size 32768 crc 62f0c23d md5 efef7361c9c37bcd6a7b84bc121af5f2 )
+)
+
+game (
+	name "My Hero (1986)(Sega)[b2]"
+	description "My Hero (1986)(Sega)[b2]"
+	rom ( name "My Hero (1986)(Sega)[b2].bin" size 131072 crc 144cfa14 md5 8cfb40faf0729f56a4594fac82eb9b3b )
+)
+
+game (
+	name "My Hero (1986)(Sega)[b3]"
+	description "My Hero (1986)(Sega)[b3]"
+	rom ( name "My Hero (1986)(Sega)[b3].bin" size 262144 crc 93097cb7 md5 facd91664e0926556d22ee326303ee14 )
+)
+
+game (
+	name "My Hero (1986)(Sega)[b]"
+	description "My Hero (1986)(Sega)[b]"
+	rom ( name "My Hero (1986)(Sega)[b].bin" size 65536 crc 99985ad9 md5 b6352b63cc21f613c192f92836e267aa )
+)
+
+game (
+	name "NanoWars 8k v0.7 (19xx)(Pinheiro, Haroldo)(PD)"
+	description "NanoWars 8k v0.7 (19xx)(Pinheiro, Haroldo)(PD)"
+	rom ( name "NanoWars 8k v0.7 (19xx)(Pinheiro, Haroldo)(PD).bin" size 32768 crc a06d065c md5 d4d0dfc872abfd0afa88db5c0678d8a4 )
+)
+
+game (
+	name "Nekyuu Kousien (1988)(Sega)(JP)"
+	description "Nekyuu Kousien (1988)(Sega)(JP)"
+	rom ( name "Nekyuu Kousien (1988)(Sega)(JP).bin" size 262144 crc 5b5f9106 md5 deac89672a98c5400030e66577cbb454 )
+)
+
+game (
+	name "NewZealand Story, The (1992)(TecMagik)"
+	description "NewZealand Story, The (1992)(TecMagik)"
+	rom ( name "NewZealand Story, The (1992)(TecMagik).bin" size 262144 crc c660ff34 md5 05e5054e2ea818d4b7eb53d624562dcf )
+)
+
+game (
+	name "NewZealand Story, The (1992)(TecMagik)[b]"
+	description "NewZealand Story, The (1992)(TecMagik)[b]"
+	rom ( name "NewZealand Story, The (1992)(TecMagik)[b].bin" size 262144 crc fbc66cbf md5 8c5a9e903a3b7d527679bdacfaaed388 )
+)
+
+game (
+	name "Ninja Gaiden (1992)(Sega)"
+	description "Ninja Gaiden (1992)(Sega)"
+	rom ( name "Ninja Gaiden (1992)(Sega).bin" size 262144 crc 1b1d8cc2 md5 2cd25b3d9a1ced329a551d7fc3c0f01e )
+)
+
+game (
+	name "Ninja Gaiden (1992)(Sega)(beta)"
+	description "Ninja Gaiden (1992)(Sega)(beta)"
+	rom ( name "Ninja Gaiden (1992)(Sega)(beta).bin" size 262144 crc 761e9396 md5 b070dc2ba3f106e89d1e9551f49a0027 )
+)
+
+game (
+	name "Ninja Gaiden (1992)(Sega)(beta)[b]"
+	description "Ninja Gaiden (1992)(Sega)(beta)[b]"
+	rom ( name "Ninja Gaiden (1992)(Sega)(beta)[b].bin" size 262144 crc 9d5a2845 md5 c3bf95d8c4748532e8610964438ff5c1 )
+)
+
+game (
+	name "Ninja Gaiden (1992)(Sega)(beta)[tr de]"
+	description "Ninja Gaiden (1992)(Sega)(beta)[tr de]"
+	rom ( name "Ninja Gaiden (1992)(Sega)(beta)[tr de].bin" size 262144 crc 317f14da md5 73f0e5f3be89b19ae2fcacc7e1fdcbed )
+)
+
+game (
+	name "Ninja Gaiden (1992)(Sega)(beta)[tr es]"
+	description "Ninja Gaiden (1992)(Sega)(beta)[tr es]"
+	rom ( name "Ninja Gaiden (1992)(Sega)(beta)[tr es].bin" size 262144 crc 17fee94a md5 c4bf06e3a31363186015d3ace79ae2c4 )
+)
+
+game (
+	name "Ninja Gaiden (1992)(Sega)(beta)[tr fr]"
+	description "Ninja Gaiden (1992)(Sega)(beta)[tr fr]"
+	rom ( name "Ninja Gaiden (1992)(Sega)(beta)[tr fr].bin" size 262144 crc 0643620e md5 5a9d96a2bd25271b99e952fdc8c19c6b )
+)
+
+game (
+	name "Ninja Gaiden (1992)(Sega)(beta)[tr fr][a2]"
+	description "Ninja Gaiden (1992)(Sega)(beta)[tr fr][a2]"
+	rom ( name "Ninja Gaiden (1992)(Sega)(beta)[tr fr][a2].bin" size 262144 crc 4cd38be4 md5 fbf32190f03a4d8fab64922929696987 )
+)
+
+game (
+	name "Ninja Gaiden (1992)(Sega)(beta)[tr fr][a]"
+	description "Ninja Gaiden (1992)(Sega)(beta)[tr fr][a]"
+	rom ( name "Ninja Gaiden (1992)(Sega)(beta)[tr fr][a].bin" size 262144 crc 41e5b485 md5 e528cfe8a7518864d72161bcfcf0cf4d )
+)
+
+game (
+	name "Ninja Gaiden (1992)(Sega)[tr de]"
+	description "Ninja Gaiden (1992)(Sega)[tr de]"
+	rom ( name "Ninja Gaiden (1992)(Sega)[tr de].bin" size 262144 crc c28e542f md5 3f00d2e790780b7045cd6d1527bfc2af )
+)
+
+game (
+	name "Ninja Gaiden (1992)(Sega)[tr es]"
+	description "Ninja Gaiden (1992)(Sega)[tr es]"
+	rom ( name "Ninja Gaiden (1992)(Sega)[tr es].bin" size 262144 crc c94c2b4e md5 630615ed5ab5036d67614c23dc1e05d5 )
+)
+
+game (
+	name "Ninja, The (1986)(Sega)"
+	description "Ninja, The (1986)(Sega)"
+	rom ( name "Ninja, The (1986)(Sega).bin" size 131072 crc 66a15bd9 md5 2c620ba64fcaac940b4b1566733037b3 )
+)
+
+game (
+	name "Ninja, The (1986)(Sega)(JP)"
+	description "Ninja, The (1986)(Sega)(JP)"
+	rom ( name "Ninja, The (1986)(Sega)(JP).bin" size 131072 crc 320313ec md5 41e20afe05c2fbe45ac5f3a9c8111047 )
+)
+
+game (
+	name "Ninja, The (1986)(Sega)[b2]"
+	description "Ninja, The (1986)(Sega)[b2]"
+	rom ( name "Ninja, The (1986)(Sega)[b2].bin" size 262144 crc 3398242a md5 7254cf979c7cdf68fca52e3c72e998fa )
+)
+
+game (
+	name "Ninja, The (1986)(Sega)[b]"
+	description "Ninja, The (1986)(Sega)[b]"
+	rom ( name "Ninja, The (1986)(Sega)[b].bin" size 262208 crc cf9f0a7f md5 c08ca992efe05340949aa00162d0c77f )
+)
+
+game (
+	name "Olympic Gold (1992)(U.S. Gold)(EU)"
+	description "Olympic Gold (1992)(U.S. Gold)(EU)"
+	rom ( name "Olympic Gold (1992)(U.S. Gold)(EU).bin" size 262144 crc 6a5a1e39 md5 2a0717f014b2fd99decd92308175658f )
+)
+
+game (
+	name "Olympic Gold (1992)(U.S. Gold)(KR)"
+	description "Olympic Gold (1992)(U.S. Gold)(KR)"
+	rom ( name "Olympic Gold (1992)(U.S. Gold)(KR).bin" size 262144 crc d1a7b1aa md5 205b3543f300b96972bca5ce1d1f1f90 )
+)
+
+game (
+	name "Opa Opa (1987)(Sega)(JP)"
+	description "Opa Opa (1987)(Sega)(JP)"
+	rom ( name "Opa Opa (1987)(Sega)(JP).bin" size 131072 crc bea27d5c md5 a31cbbded45f66633fb38b1c1bef9b08 )
+)
+
+game (
+	name "Operation Wolf (1990)(Taito)"
+	description "Operation Wolf (1990)(Taito)"
+	rom ( name "Operation Wolf (1990)(Taito).bin" size 262144 crc 205caae8 md5 2ca2064302f51f724e1f2593369a0696 )
+)
+
+game (
+	name "Operation Wolf (1990)(Taito)[b]"
+	description "Operation Wolf (1990)(Taito)[b]"
+	rom ( name "Operation Wolf (1990)(Taito)[b].bin" size 524288 crc d85a05e8 md5 71185df29d8e42b675a84cca8760dd91 )
+)
+
+game (
+	name "Operation Wolf (1990)(Taito)[tr fr]"
+	description "Operation Wolf (1990)(Taito)[tr fr]"
+	rom ( name "Operation Wolf (1990)(Taito)[tr fr].bin" size 262144 crc 23283f37 md5 7c432022fb0b73907f18b9f9769e2330 )
+)
+
+game (
+	name "Ottifants, The (1993)(Sega)"
+	description "Ottifants, The (1993)(Sega)"
+	rom ( name "Ottifants, The (1993)(Sega).bin" size 262144 crc 82ef2a7d md5 f64ea159120c018e05fb95ac8533e9eb )
+)
+
+game (
+	name "Out Run (1987)(Sega)"
+	description "Out Run (1987)(Sega)"
+	rom ( name "Out Run (1987)(Sega).bin" size 262144 crc 5589d8d2 md5 029ee92155247f8a282d63b8a6dd23c4 )
+)
+
+game (
+	name "Out Run (1987)(Sega)[b2]"
+	description "Out Run (1987)(Sega)[b2]"
+	rom ( name "Out Run (1987)(Sega)[b2].bin" size 262144 crc 1968757e md5 94972cc196acea67b3194ea42531ca54 )
+)
+
+game (
+	name "Out Run (1987)(Sega)[b3]"
+	description "Out Run (1987)(Sega)[b3]"
+	rom ( name "Out Run (1987)(Sega)[b3].bin" size 262144 crc d70bbd06 md5 9dcc9af239406f34fa73e112c46a35ff )
+)
+
+game (
+	name "Out Run (1987)(Sega)[b]"
+	description "Out Run (1987)(Sega)[b]"
+	rom ( name "Out Run (1987)(Sega)[b].bin" size 262208 crc dc0860e7 md5 d08ac8d52f6e7f4122c85f24107292d1 )
+)
+
+game (
+	name "Out Run 3D (1989)(Sega)"
+	description "Out Run 3D (1989)(Sega)"
+	rom ( name "Out Run 3D (1989)(Sega).bin" size 262144 crc d6f43dda md5 558c793aab09b46bed78431348191060 )
+)
+
+game (
+	name "Out Run Europa (1991)(Sega - U.S. Gold)"
+	description "Out Run Europa (1991)(Sega - U.S. Gold)"
+	rom ( name "Out Run Europa (1991)(Sega - U.S. Gold).bin" size 262144 crc 3932adbc md5 458fc29765865fdaaf3f56808c94d8a6 )
+)
+
+game (
+	name "Pac-Man (2005)(Covell, Chris)[p]"
+	description "Pac-Man (2005)(Covell, Chris)[p]"
+	rom ( name "Pac-Man (2005)(Covell, Chris)[p].bin" size 131072 crc c945f35b md5 3f1ada109633827937d2c1df7759aa4d )
+)
+
+game (
+	name "Pac-Man v0.91 (2005)(Covell, Chris)[p]"
+	description "Pac-Man v0.91 (2005)(Covell, Chris)[p]"
+	rom ( name "Pac-Man v0.91 (2005)(Covell, Chris)[p].bin" size 131072 crc fb7c7bf8 md5 4b9c4aebcce6e57f0999112233be1ef2 )
+)
+
+game (
+	name "Pac-Mania (1991)(TecMagik)"
+	description "Pac-Mania (1991)(TecMagik)"
+	rom ( name "Pac-Mania (1991)(TecMagik).bin" size 131072 crc be57a9a5 md5 946f3e6c2f0f546a8ebe55c8170ecc78 )
+)
+
+game (
+	name "Pac-Mania (1991)(TecMagik)[b2]"
+	description "Pac-Mania (1991)(TecMagik)[b2]"
+	rom ( name "Pac-Mania (1991)(TecMagik)[b2].bin" size 262144 crc 367b1267 md5 7e105b383513a989b1ed957c7e576f61 )
+)
+
+game (
+	name "Pac-Mania (1991)(TecMagik)[b]"
+	description "Pac-Mania (1991)(TecMagik)[b]"
+	rom ( name "Pac-Mania (1991)(TecMagik)[b].bin" size 262144 crc 7a9abfcb md5 9008591ff574c1d40e529ba5ba5d7259 )
+)
+
+game (
+	name "Paperboy (1990)(Tengen)"
+	description "Paperboy (1990)(Tengen)"
+	rom ( name "Paperboy (1990)(Tengen).bin" size 131072 crc 294e0759 md5 a0a053017d9cae9dd8ce8676355b16b9 )
+)
+
+game (
+	name "Paperboy (1990)(Tengen)(US)"
+	description "Paperboy (1990)(Tengen)(US)"
+	rom ( name "Paperboy (1990)(Tengen)(US).bin" size 131072 crc 327a0b4c md5 9b694d765038ffb87b36174412452588 )
+)
+
+game (
+	name "Paperboy (1990)(Tengen)(US)[t]"
+	description "Paperboy (1990)(Tengen)(US)[t]"
+	rom ( name "Paperboy (1990)(Tengen)(US)[t].bin" size 131072 crc 36f04d14 md5 9a853daaac364eb8de16db5ee0605dda )
+)
+
+game (
+	name "Paperboy (1990)(Tengen)[t]"
+	description "Paperboy (1990)(Tengen)[t]"
+	rom ( name "Paperboy (1990)(Tengen)[t].bin" size 131072 crc c0e1ebc4 md5 0936c094c82292fc9b3251f4b742232d )
+)
+
+game (
+	name "Parlour Games (1987)(Sega)"
+	description "Parlour Games (1987)(Sega)"
+	rom ( name "Parlour Games (1987)(Sega).bin" size 131072 crc e030e66c md5 6bec795910c5a91ac146b905df7c17f5 )
+)
+
+game (
+	name "Pat Riley Basketball (1989)(Sega)(proto)"
+	description "Pat Riley Basketball (1989)(Sega)(proto)"
+	rom ( name "Pat Riley Basketball (1989)(Sega)(proto).bin" size 262144 crc 9aefe664 md5 0ae250702d273bcdc65b24e9e12ee0c4 )
+)
+
+game (
+	name "Penguin Land (1987)(Sega)"
+	description "Penguin Land (1987)(Sega)"
+	rom ( name "Penguin Land (1987)(Sega).bin" size 131072 crc f97e9875 md5 8ddec589f72cdcf2cd4caafb075ec8e4 )
+)
+
+game (
+	name "Penguin Land (1987)(Sega)(JP)"
+	description "Penguin Land (1987)(Sega)(JP)"
+	rom ( name "Penguin Land (1987)(Sega)(JP).bin" size 131072 crc 2bcdb8fa md5 ff7502dd8a717db5adb42c711ddbc9f5 )
+)
+
+game (
+	name "Penguin Land (1987)(Sega)[b]"
+	description "Penguin Land (1987)(Sega)[b]"
+	rom ( name "Penguin Land (1987)(Sega)[b].bin" size 524288 crc f6552da8 md5 671fdd8b3d3ab9ede99397376df5def8 )
+)
+
+game (
+	name "PGA Tour Golf (1993)(Tengen)"
+	description "PGA Tour Golf (1993)(Tengen)"
+	rom ( name "PGA Tour Golf (1993)(Tengen).bin" size 262144 crc 95b9ea95 md5 40c59c08df065e34fff1b379491e6013 )
+)
+
+game (
+	name "Phantasy Star (1987)(Sega)(JP)"
+	description "Phantasy Star (1987)(Sega)(JP)"
+	rom ( name "Phantasy Star (1987)(Sega)(JP).bin" size 524288 crc 6605d36a md5 dfebc48dfe8165202b7f002d8bac477b )
+)
+
+game (
+	name "Phantasy Star (1987)(Sega)(JP)[b]"
+	description "Phantasy Star (1987)(Sega)(JP)[b]"
+	rom ( name "Phantasy Star (1987)(Sega)(JP)[b].bin" size 524288 crc eefe22de md5 3f66bf468c69c7e17d3c7c4b0ed3e264 )
+)
+
+game (
+	name "Phantasy Star (1987)(Sega)(JP)[tr en]"
+	description "Phantasy Star (1987)(Sega)(JP)[tr en]"
+	rom ( name "Phantasy Star (1987)(Sega)(JP)[tr en].bin" size 524288 crc 0861bb46 md5 799d92739ea274c75bb8aadb67d267a5 )
+)
+
+game (
+	name "Phantasy Star (1987)(Sega)(JP)[tr en][a]"
+	description "Phantasy Star (1987)(Sega)(JP)[tr en][a]"
+	rom ( name "Phantasy Star (1987)(Sega)(JP)[tr en][a].bin" size 524288 crc 1cdd9244 md5 e198db7179d5e4826e49648080f5b0c7 )
+)
+
+game (
+	name "Phantasy Star (19xx)(Samsung - Sega)(KR)"
+	description "Phantasy Star (19xx)(Samsung - Sega)(KR)"
+	rom ( name "Phantasy Star (19xx)(Samsung - Sega)(KR).bin" size 524288 crc 747e83b5 md5 f853b7ddca63864735c03001c9ac477b )
+)
+
+game (
+	name "Phantasy Star Rev 2 (1988)(Sega)"
+	description "Phantasy Star Rev 2 (1988)(Sega)"
+	rom ( name "Phantasy Star Rev 2 (1988)(Sega).bin" size 524288 crc e4a65e79 md5 5ba9114edea5deb5282fd9ad7d4b2d62 )
+)
+
+game (
+	name "Phantasy Star Rev 2 (1988)(Sega)(BR)"
+	description "Phantasy Star Rev 2 (1988)(Sega)(BR)"
+	rom ( name "Phantasy Star Rev 2 (1988)(Sega)(BR).bin" size 524288 crc 75971bef md5 1b69716f9f4053e1533f654c091ae410 )
+)
+
+game (
+	name "Phantasy Star Rev 3 (1987)(Sega)[h]"
+	description "Phantasy Star Rev 3 (1987)(Sega)[h]"
+	rom ( name "Phantasy Star Rev 3 (1987)(Sega)[h].bin" size 524288 crc 3ca83c04 md5 f8be06e3df1d3de20d441f1af32fa1fd )
+)
+
+game (
+	name "Phantasy Star Rev 3 (1987)(Sega)[tr fr]"
+	description "Phantasy Star Rev 3 (1987)(Sega)[tr fr]"
+	rom ( name "Phantasy Star Rev 3 (1987)(Sega)[tr fr].bin" size 524288 crc 56bd28d8 md5 1805d26ad40e196d3cd79566c9fc8b69 )
+)
+
+game (
+	name "Phantasy Star Rev 3 (1988)(Sega)"
+	description "Phantasy Star Rev 3 (1988)(Sega)"
+	rom ( name "Phantasy Star Rev 3 (1988)(Sega).bin" size 524288 crc 00bef1d7 md5 1110938df80f4e44c8213d7f85cfb5e6 )
+)
+
+game (
+	name "Phantasy Star Rev 3 (1988)(Sega)[b2]"
+	description "Phantasy Star Rev 3 (1988)(Sega)[b2]"
+	rom ( name "Phantasy Star Rev 3 (1988)(Sega)[b2].bin" size 524800 crc e80ee900 md5 335c2e80bad86da192300cec88968d97 )
+)
+
+game (
+	name "Phantasy Star Rev 3 (1988)(Sega)[b]"
+	description "Phantasy Star Rev 3 (1988)(Sega)[b]"
+	rom ( name "Phantasy Star Rev 3 (1988)(Sega)[b].bin" size 524288 crc 7f4f28c6 md5 c0d422bf92dd46d5b6b85a982a880494 )
+)
+
+game (
+	name "Picross v1.00 (2007)(Maxim)[p]"
+	description "Picross v1.00 (2007)(Maxim)[p]"
+	rom ( name "Picross v1.00 (2007)(Maxim)[p].bin" size 49152 crc cb72a916 md5 ecddf5fb25f3ace960bda632a37a6899 )
+)
+
+game (
+	name "Picross v1.01 (2007)(Maxim)[p]"
+	description "Picross v1.01 (2007)(Maxim)[p]"
+	rom ( name "Picross v1.01 (2007)(Maxim)[p].bin" size 49152 crc 1f0d38c1 md5 880815f8e899055e536b3a987c92855e )
+)
+
+game (
+	name "Pit Fighter (1990)(Atari)"
+	description "Pit Fighter (1990)(Atari)"
+	rom ( name "Pit Fighter (1990)(Atari).bin" size 524288 crc b840a446 md5 585aed13ba548d0258a457cd6768511b )
+)
+
+game (
+	name "Pit Fighter (1990)(Atari)(BR)"
+	description "Pit Fighter (1990)(Atari)(BR)"
+	rom ( name "Pit Fighter (1990)(Atari)(BR).bin" size 524288 crc aa4d4b5a md5 5535108813e568e4dd84a425ff2e928b )
+)
+
+game (
+	name "Pit Fighter (1990)(Atari)[b]"
+	description "Pit Fighter (1990)(Atari)[b]"
+	rom ( name "Pit Fighter (1990)(Atari)[b].bin" size 524288 crc 283712a9 md5 570f5aeae331077b0240696101c93ca7 )
+)
+
+game (
+	name "Pit Pot + Astro Warrior (1986)(Sega)"
+	description "Pit Pot + Astro Warrior (1986)(Sega)"
+	rom ( name "Pit Pot + Astro Warrior (1986)(Sega).bin" size 131072 crc 69efd483 md5 8712366da97ab80f4cd2aa36203a5885 )
+)
+
+game (
+	name "Pit Pot + Astro Warrior (1986)(Sega)[b2]"
+	description "Pit Pot + Astro Warrior (1986)(Sega)[b2]"
+	rom ( name "Pit Pot + Astro Warrior (1986)(Sega)[b2].bin" size 262144 crc d7c7ff54 md5 8f3eadff1610a0adefc97c29c7350d27 )
+)
+
+game (
+	name "Pit Pot + Astro Warrior (1986)(Sega)[b]"
+	description "Pit Pot + Astro Warrior (1986)(Sega)[b]"
+	rom ( name "Pit Pot + Astro Warrior (1986)(Sega)[b].bin" size 262144 crc 6a9eaef7 md5 e29deb0b1be0764b7c685ee09e41b837 )
+)
+
+game (
+	name "Pong Master (2006)(Pinheiro, Haroldo)(PD)"
+	description "Pong Master (2006)(Pinheiro, Haroldo)(PD)"
+	rom ( name "Pong Master (2006)(Pinheiro, Haroldo)(PD).bin" size 5836 crc 3879ac1b md5 adb21699ba64cf19920f79fb0e87a124 )
+)
+
+game (
+	name "Pong Master (2006)(Pinheiro, Haroldo)(PD)[a]"
+	description "Pong Master (2006)(Pinheiro, Haroldo)(PD)[a]"
+	rom ( name "Pong Master (2006)(Pinheiro, Haroldo)(PD)[a].bin" size 6832 crc ef3d4c50 md5 59c0b5fe3b10c7aafc37c1936a30b704 )
+)
+
+game (
+	name "Pong Master 4k (200x)(Pinheiro, Haroldo)(PD)"
+	description "Pong Master 4k (200x)(Pinheiro, Haroldo)(PD)"
+	rom ( name "Pong Master 4k (200x)(Pinheiro, Haroldo)(PD).bin" size 32768 crc f87d50fd md5 d94a521e0cd6b0e2ef037693d4e2048b )
+)
+
+game (
+	name "Pop Breaker v1.0 (2004)(Covell, Chris)[p]"
+	description "Pop Breaker v1.0 (2004)(Covell, Chris)[p]"
+	rom ( name "Pop Breaker v1.0 (2004)(Covell, Chris)[p].bin" size 131072 crc b37c3ea8 md5 b61c78140af9d9bcc80ac4a9180c4bf1 )
+)
+
+game (
+	name "Pop Breaker v1.1 (2004)(Covell, Chris)[p]"
+	description "Pop Breaker v1.1 (2004)(Covell, Chris)[p]"
+	rom ( name "Pop Breaker v1.1 (2004)(Covell, Chris)[p].bin" size 131072 crc bdfb09f6 md5 3260966b4b632c35545a3c8926e3d7d7 )
+)
+
+game (
+	name "Populous (1991)(TecMagik)"
+	description "Populous (1991)(TecMagik)"
+	rom ( name "Populous (1991)(TecMagik).bin" size 262144 crc c7a1fdef md5 cc694ca94c4d74b487983332facc8b86 )
+)
+
+game (
+	name "Populous (1991)(TecMagik)[b]"
+	description "Populous (1991)(TecMagik)[b]"
+	rom ( name "Populous (1991)(TecMagik)[b].bin" size 262656 crc 4a9b4ecb md5 331b86721c9f99db6a6c4e8c83e071ec )
+)
+
+game (
+	name "Poseidon Wars 3D (1988)(Sega)"
+	description "Poseidon Wars 3D (1988)(Sega)"
+	rom ( name "Poseidon Wars 3D (1988)(Sega).bin" size 262144 crc abd48ad2 md5 3586416ac6f2aa1fa7dea351afb8ac1c )
+)
+
+game (
+	name "Power Strike (1988)(Compile - Sega)"
+	description "Power Strike (1988)(Compile - Sega)"
+	rom ( name "Power Strike (1988)(Compile - Sega).bin" size 131072 crc 4077efd9 md5 8d9f02dcfea8f9728a3665ca12b044d1 )
+)
+
+game (
+	name "Power Strike (1988)(Compile - Sega)[b]"
+	description "Power Strike (1988)(Compile - Sega)[b]"
+	rom ( name "Power Strike (1988)(Compile - Sega)[b].bin" size 262144 crc 514e7abe md5 990204854eb69e5307679dc50e6d8327 )
+)
+
+game (
+	name "Power Strike II (1993)(Compile - Sega)"
+	description "Power Strike II (1993)(Compile - Sega)"
+	rom ( name "Power Strike II (1993)(Compile - Sega).bin" size 524288 crc a109a6fe md5 bd7898393b716aff69132934bf7dccb8 )
+)
+
+game (
+	name "Power Strike II (1993)(Compile - Sega)[b]"
+	description "Power Strike II (1993)(Compile - Sega)[b]"
+	rom ( name "Power Strike II (1993)(Compile - Sega)[b].bin" size 524288 crc 673c68b8 md5 2375f1639ab0fd56c600681f4eda9957 )
+)
+
+game (
+	name "Power Strike II v1.0 (2004)(Covell, Chris)[p]"
+	description "Power Strike II v1.0 (2004)(Covell, Chris)[p]"
+	rom ( name "Power Strike II v1.0 (2004)(Covell, Chris)[p].bin" size 262144 crc 979263d8 md5 ee401a5ff5e31f5fbe1bf2ef71793984 )
+)
+
+game (
+	name "Predator 2 (1992)(Acclaim)"
+	description "Predator 2 (1992)(Acclaim)"
+	rom ( name "Predator 2 (1992)(Acclaim).bin" size 262144 crc 0047b615 md5 1389419d90834d3700b772e984143fde )
+)
+
+game (
+	name "Prince of Persia (1992)(Sega)"
+	description "Prince of Persia (1992)(Sega)"
+	rom ( name "Prince of Persia (1992)(Sega).bin" size 262144 crc 7704287d md5 70e9b330dd6a91e7310f3c8d9a934ecc )
+)
+
+game (
+	name "Pro Wrestling (1986)(Sega)"
+	description "Pro Wrestling (1986)(Sega)"
+	rom ( name "Pro Wrestling (1986)(Sega).bin" size 131072 crc fbde42d3 md5 0ee2937104e9667be89c38e6e9992d4b )
+)
+
+game (
+	name "Pro Wrestling (1986)(Sega)[b2]"
+	description "Pro Wrestling (1986)(Sega)[b2]"
+	rom ( name "Pro Wrestling (1986)(Sega)[b2].bin" size 262144 crc 09489195 md5 bb82f8c1b18c1de364f9ceb6eae5a013 )
+)
+
+game (
+	name "Pro Wrestling (1986)(Sega)[b]"
+	description "Pro Wrestling (1986)(Sega)[b]"
+	rom ( name "Pro Wrestling (1986)(Sega)[b].bin" size 253952 crc fd069aae md5 6289b70a13f92a94c56a86938a2be600 )
+)
+
+game (
+	name "Pro Yakyuu Pennant Race, The (1987)(Sega)(JP)"
+	description "Pro Yakyuu Pennant Race, The (1987)(Sega)(JP)"
+	rom ( name "Pro Yakyuu Pennant Race, The (1987)(Sega)(JP).bin" size 131072 crc da9be8f0 md5 0e025768db6e6a7459099add711690ab )
+)
+
+game (
+	name "Psychic World (1991)(Sega)"
+	description "Psychic World (1991)(Sega)"
+	rom ( name "Psychic World (1991)(Sega).bin" size 262144 crc 5c0b1f0f md5 1076f6358527d1cec1e1e75143997293 )
+)
+
+game (
+	name "Psychic World (1991)(Sega)[tr de]"
+	description "Psychic World (1991)(Sega)[tr de]"
+	rom ( name "Psychic World (1991)(Sega)[tr de].bin" size 262144 crc 9b700645 md5 738463530aecff089842bd1b52191142 )
+)
+
+game (
+	name "Psychic World (1991)(Sega)[tr fr]"
+	description "Psychic World (1991)(Sega)[tr fr]"
+	rom ( name "Psychic World (1991)(Sega)[tr fr].bin" size 262144 crc 255c2560 md5 d733d69dd5360f3df606029054af047d )
+)
+
+game (
+	name "Psychic World (1991)(Sega)[tr it]"
+	description "Psychic World (1991)(Sega)[tr it]"
+	rom ( name "Psychic World (1991)(Sega)[tr it].bin" size 262144 crc d155c2f8 md5 6cb16d87c886a35ca046472aa2d5e9ed )
+)
+
+game (
+	name "Psycho Fox (1989)(Sega)"
+	description "Psycho Fox (1989)(Sega)"
+	rom ( name "Psycho Fox (1989)(Sega).bin" size 262144 crc 97993479 md5 a9c2facf9ef536d095414ce2e7ce2f4f )
+)
+
+game (
+	name "Psycho Fox (1989)(Sega)[b]"
+	description "Psycho Fox (1989)(Sega)[b]"
+	rom ( name "Psycho Fox (1989)(Sega)[b].bin" size 151688 crc e05e3d2b md5 59c62da62946a77e8df3d3de1ad95c8f )
+)
+
+game (
+	name "Psycho Fox (1989)(Sega)[h2]"
+	description "Psycho Fox (1989)(Sega)[h2]"
+	rom ( name "Psycho Fox (1989)(Sega)[h2].bin" size 262144 crc d3aa5894 md5 8f3c63a2194806b1d13c500e6cdbb0b5 )
+)
+
+game (
+	name "Psycho Fox (1989)(Sega)[h3]"
+	description "Psycho Fox (1989)(Sega)[h3]"
+	rom ( name "Psycho Fox (1989)(Sega)[h3].bin" size 262144 crc bbc237c0 md5 a6a9ebb2c5e71d4c676a17e0af3046b0 )
+)
+
+game (
+	name "Psycho Fox (1989)(Sega)[h4]"
+	description "Psycho Fox (1989)(Sega)[h4]"
+	rom ( name "Psycho Fox (1989)(Sega)[h4].bin" size 262144 crc 5d6dec5e md5 6c9749d414af0e5ed361ac440f1e3f16 )
+)
+
+game (
+	name "Psycho Fox (1989)(Sega)[h5]"
+	description "Psycho Fox (1989)(Sega)[h5]"
+	rom ( name "Psycho Fox (1989)(Sega)[h5].bin" size 262144 crc 16c217c9 md5 e3d6cbd4f2d26f631823696659f05967 )
+)
+
+game (
+	name "Psycho Fox (1989)(Sega)[h6]"
+	description "Psycho Fox (1989)(Sega)[h6]"
+	rom ( name "Psycho Fox (1989)(Sega)[h6].bin" size 262144 crc 02bd3a57 md5 d7408a9e24766d2198ae498e03219f45 )
+)
+
+game (
+	name "Psycho Fox (1989)(Sega)[h7]"
+	description "Psycho Fox (1989)(Sega)[h7]"
+	rom ( name "Psycho Fox (1989)(Sega)[h7].bin" size 262144 crc c804943f md5 f4229338d81dd151355f1c74a8e0c7f0 )
+)
+
+game (
+	name "Psycho Fox (1989)(Sega)[h8]"
+	description "Psycho Fox (1989)(Sega)[h8]"
+	rom ( name "Psycho Fox (1989)(Sega)[h8].bin" size 262144 crc a6933e55 md5 03eb9eeeed16a65f5db7d42f5d12338c )
+)
+
+game (
+	name "Psycho Fox (1989)(Sega)[h9]"
+	description "Psycho Fox (1989)(Sega)[h9]"
+	rom ( name "Psycho Fox (1989)(Sega)[h9].bin" size 262144 crc e94784f2 md5 f0718544d37cdb3e00b522153eea4218 )
+)
+
+game (
+	name "Psycho Fox (1989)(Sega)[h]"
+	description "Psycho Fox (1989)(Sega)[h]"
+	rom ( name "Psycho Fox (1989)(Sega)[h].bin" size 262144 crc 1c04a0bc md5 0c858acb7205a6032d04c2e40be76649 )
+)
+
+game (
+	name "Psycho Fox (1989)(Sega)[tr fr]"
+	description "Psycho Fox (1989)(Sega)[tr fr]"
+	rom ( name "Psycho Fox (1989)(Sega)[tr fr].bin" size 262144 crc b8e2febc md5 d60b76f9e18342c013920a2a741e7f90 )
+)
+
+game (
+	name "Psycho Fox (1989)(Sega)[tr pt]"
+	description "Psycho Fox (1989)(Sega)[tr pt]"
+	rom ( name "Psycho Fox (1989)(Sega)[tr pt].bin" size 262144 crc 92d2c75b md5 c08bb84b806b41af614ff84be44fe2e0 )
+)
+
+game (
+	name "Putt & Putter (1992)(Sega)"
+	description "Putt & Putter (1992)(Sega)"
+	rom ( name "Putt & Putter (1992)(Sega).bin" size 131072 crc 357d4f78 md5 c13dab68a85fef5ba28ae0f5ba4fd05f )
+)
+
+game (
+	name "Putt & Putter (1992)(Sega)(beta)"
+	description "Putt & Putter (1992)(Sega)(beta)"
+	rom ( name "Putt & Putter (1992)(Sega)(beta).bin" size 131072 crc 8167ccc4 md5 fc40576778de28cc254b588a3a46d2a6 )
+)
+
+game (
+	name "Quartet (1987)(Sega)"
+	description "Quartet (1987)(Sega)"
+	rom ( name "Quartet (1987)(Sega).bin" size 131072 crc e0f34fa6 md5 63af7fce5106cc3de1e1b116c112095b )
+)
+
+game (
+	name "Quartet (1987)(Sega)[b]"
+	description "Quartet (1987)(Sega)[b]"
+	rom ( name "Quartet (1987)(Sega)[b].bin" size 262144 crc 001db6d7 md5 263aaf19511be8e54e857bde930ece1d )
+)
+
+game (
+	name "Quest For the Shaven Yak starring Ren Hoek & Stimpy (1993)(Sega)(BR)"
+	description "Quest For the Shaven Yak starring Ren Hoek & Stimpy (1993)(Sega)(BR)"
+	rom ( name "Quest For the Shaven Yak starring Ren Hoek & Stimpy (1993)(Sega)(BR).bin" size 524288 crc f42e145c md5 58b89d62438407f242bbe713f1d945ca )
+)
+
+game (
+	name "R-Type (1988)(Sega)"
+	description "R-Type (1988)(Sega)"
+	rom ( name "R-Type (1988)(Sega).bin" size 524288 crc bb54b6b0 md5 9e5507d51ac6f24c702a52a7abce0d3c )
+)
+
+game (
+	name "R-Type (1988)(Sega)[tr pt]"
+	description "R-Type (1988)(Sega)[tr pt]"
+	rom ( name "R-Type (1988)(Sega)[tr pt].bin" size 524288 crc 7510bce3 md5 61189f69342288aa032c66f6e2a1214d )
+)
+
+game (
+	name "R-Type (1988)(Sega)[tr pt][a]"
+	description "R-Type (1988)(Sega)[tr pt][a]"
+	rom ( name "R-Type (1988)(Sega)[tr pt][a].bin" size 524288 crc a3c80ee3 md5 694ee2b237d266c46e7abe5afdba528a )
+)
+
+game (
+	name "R.C. Grand Prix (1992)(Absolute Entertainment)"
+	description "R.C. Grand Prix (1992)(Absolute Entertainment)"
+	rom ( name "R.C. Grand Prix (1992)(Absolute Entertainment).bin" size 262144 crc 54316fea md5 b30e60b91960a0f2a89fc133410770df )
+)
+
+game (
+	name "R.C. Grand Prix (1992)(Absolute Entertainment)[tr pt]"
+	description "R.C. Grand Prix (1992)(Absolute Entertainment)[tr pt]"
+	rom ( name "R.C. Grand Prix (1992)(Absolute Entertainment)[tr pt].bin" size 262144 crc 6edf4c12 md5 058366958ed932370ac1569d7835c3cb )
+)
+
+game (
+	name "Rainbow Islands - The Story of Bubble Bobble 2 (1993)(Sega)"
+	description "Rainbow Islands - The Story of Bubble Bobble 2 (1993)(Sega)"
+	rom ( name "Rainbow Islands - The Story of Bubble Bobble 2 (1993)(Sega).bin" size 262144 crc c172a22c md5 ffba9869948e2cef2bda6f805cc72087 )
+)
+
+game (
+	name "Rainbow Islands - The Story of Bubble Bobble 2 (1993)(Taito)(BR)"
+	description "Rainbow Islands - The Story of Bubble Bobble 2 (1993)(Taito)(BR)"
+	rom ( name "Rainbow Islands - The Story of Bubble Bobble 2 (1993)(Taito)(BR).bin" size 262144 crc 00ec173a md5 e80ae00d8924f2bada5949bf75995d87 )
+)
+
+game (
+	name "Rambo III (1988)(Sega)"
+	description "Rambo III (1988)(Sega)"
+	rom ( name "Rambo III (1988)(Sega).bin" size 262144 crc da5a7013 md5 4fce4e3247639d0ef54eb54d0ef21153 )
+)
+
+game (
+	name "Rambo Rev 1 (1986)(Sega)"
+	description "Rambo Rev 1 (1986)(Sega)"
+	rom ( name "Rambo Rev 1 (1986)(Sega).bin" size 131072 crc bbda65f0 md5 7a080a155ad6a806da88aa1d3576d78c )
+)
+
+game (
+	name "Rampage (1988)(Sega)"
+	description "Rampage (1988)(Sega)"
+	rom ( name "Rampage (1988)(Sega).bin" size 262144 crc 42fc47ee md5 54ee884bc658dbad88eac18e45e0eafc )
+)
+
+game (
+	name "Rampart (1991)(Tengen)"
+	description "Rampart (1991)(Tengen)"
+	rom ( name "Rampart (1991)(Tengen).bin" size 262144 crc 426e5c8a md5 f865afb7b5c32e130016e2d35756839c )
+)
+
+game (
+	name "Rastan (1988)(Taito)"
+	description "Rastan (1988)(Taito)"
+	rom ( name "Rastan (1988)(Taito).bin" size 262144 crc c547eb1b md5 5b3a785de403c311db7f17eae27caae6 )
+)
+
+game (
+	name "Rastan (1988)(Taito)[b]"
+	description "Rastan (1988)(Taito)[b]"
+	rom ( name "Rastan (1988)(Taito)[b].bin" size 262144 crc 796c76b4 md5 c2a298c617c7fcc7737790007f9fddc0 )
+)
+
+game (
+	name "Reggie Jackson Base-Ball (1988)(Sega)(US)"
+	description "Reggie Jackson Base-Ball (1988)(Sega)(US)"
+	rom ( name "Reggie Jackson Base-Ball (1988)(Sega)(US).bin" size 262144 crc 6d94bb0e md5 b3a37d601050ca5c732dc4160d875821 )
+)
+
+game (
+	name "Renegade (1993)(Sega)"
+	description "Renegade (1993)(Sega)"
+	rom ( name "Renegade (1993)(Sega).bin" size 262144 crc 3be7f641 md5 bbce8b8ac26e2f582defe0056346f035 )
+)
+
+game (
+	name "Renegade (1993)(Sega)[tr pt]"
+	description "Renegade (1993)(Sega)[tr pt]"
+	rom ( name "Renegade (1993)(Sega)[tr pt].bin" size 262144 crc e3ec5b2d md5 e8780b6fc881cd2422be22937cf5ac9d )
+)
+
+game (
+	name "Rescue Mission (1987)(Sega)"
+	description "Rescue Mission (1987)(Sega)"
+	rom ( name "Rescue Mission (1987)(Sega).bin" size 131072 crc 79ac8e7f md5 717fdf868c8f11a712697260eb7db670 )
+)
+
+game (
+	name "River Strike v0.01 (200x)(Pinheiro, Haroldo)(PD)"
+	description "River Strike v0.01 (200x)(Pinheiro, Haroldo)(PD)"
+	rom ( name "River Strike v0.01 (200x)(Pinheiro, Haroldo)(PD).bin" size 4616 crc 53cb13c1 md5 33187d8e8fea5a543cb4ad57a24beb1e )
+)
+
+game (
+	name "River Strike v0.02 (200x)(Pinheiro, Haroldo)(PD)"
+	description "River Strike v0.02 (200x)(Pinheiro, Haroldo)(PD)"
+	rom ( name "River Strike v0.02 (200x)(Pinheiro, Haroldo)(PD).bin" size 7431 crc 78df344c md5 4eefb133a6ce96077e5b2ce7321997c9 )
+)
+
+game (
+	name "River Strike v0.03 (200x)(Pinheiro, Haroldo)(PD)"
+	description "River Strike v0.03 (200x)(Pinheiro, Haroldo)(PD)"
+	rom ( name "River Strike v0.03 (200x)(Pinheiro, Haroldo)(PD).bin" size 8436 crc 767c6744 md5 6cbb56f3734a05bbc48e3df4170164e5 )
+)
+
+game (
+	name "River Strike v0.04 (200x)(Pinheiro, Haroldo)(PD)"
+	description "River Strike v0.04 (200x)(Pinheiro, Haroldo)(PD)"
+	rom ( name "River Strike v0.04 (200x)(Pinheiro, Haroldo)(PD).bin" size 8628 crc 1fe7f34e md5 332a975dc5d596e55b956ce20e6368d9 )
+)
+
+game (
+	name "Road Rash (1993)(Electronic Arts)"
+	description "Road Rash (1993)(Electronic Arts)"
+	rom ( name "Road Rash (1993)(Electronic Arts).bin" size 524288 crc b876fc74 md5 325575374d2db3755f83bba728990ebe )
+)
+
+game (
+	name "Road Rash (1993)(Electronic Arts)[b]"
+	description "Road Rash (1993)(Electronic Arts)[b]"
+	rom ( name "Road Rash (1993)(Electronic Arts)[b].bin" size 524288 crc 6fe5bbc3 md5 429efc51efd0993afb2d57c02ffe2ff6 )
+)
+
+game (
+	name "Robbyie v0.99 (2004)(Tzvetkov, Ventzislav)(PD)"
+	description "Robbyie v0.99 (2004)(Tzvetkov, Ventzislav)(PD)"
+	rom ( name "Robbyie v0.99 (2004)(Tzvetkov, Ventzislav)(PD).bin" size 32768 crc f61874c9 md5 d0655490192f908f8c29238e3b45a613 )
+)
+
+game (
+	name "RoboCop 3 (1993)(Acclaim)"
+	description "RoboCop 3 (1993)(Acclaim)"
+	rom ( name "RoboCop 3 (1993)(Acclaim).bin" size 262144 crc 9f951756 md5 c656dc9f901387cc51276e4709c340f8 )
+)
+
+game (
+	name "RoboCop versus The Terminator (1993)(Virgin)"
+	description "RoboCop versus The Terminator (1993)(Virgin)"
+	rom ( name "RoboCop versus The Terminator (1993)(Virgin).bin" size 524288 crc 8212b754 md5 7e29ab7dae0049e1e3944af7da2757fb )
+)
+
+game (
+	name "Rocky (1987)(Sega)"
+	description "Rocky (1987)(Sega)"
+	rom ( name "Rocky (1987)(Sega).bin" size 262144 crc 1bcc7be3 md5 582d58d95c9774cd50555366c253a050 )
+)
+
+game (
+	name "Rocky (1987)(Sega)[b]"
+	description "Rocky (1987)(Sega)[b]"
+	rom ( name "Rocky (1987)(Sega)[b].bin" size 262144 crc 5d634d43 md5 dae233900682baec524e1b52786be5b2 )
+)
+
+game (
+	name "Running Battle (1991)(Sega)"
+	description "Running Battle (1991)(Sega)"
+	rom ( name "Running Battle (1991)(Sega).bin" size 262144 crc 1fdae719 md5 c32c95222ce705c0c93732a8922f7453 )
+)
+
+game (
+	name "S.D.I. (1987)(Sega)(JP)"
+	description "S.D.I. (1987)(Sega)(JP)"
+	rom ( name "S.D.I. (1987)(Sega)(JP).bin" size 131072 crc 1de2c2d0 md5 4fd639981901032cdde4b12ca83d078c )
+)
+
+game (
+	name "Sagaia (1992)(Taito)"
+	description "Sagaia (1992)(Taito)"
+	rom ( name "Sagaia (1992)(Taito).bin" size 262144 crc 66388128 md5 d8a4c95203bbe294760085189f9544fa )
+)
+
+game (
+	name "Sagaia (1992)(Taito)[b]"
+	description "Sagaia (1992)(Taito)[b]"
+	rom ( name "Sagaia (1992)(Taito)[b].bin" size 262144 crc cb5d369b md5 964d0fac9e53603aee8a125af4f51c79 )
+)
+
+game (
+	name "Samgukji III (1994)(Game Line)(KR)"
+	description "Samgukji III (1994)(Game Line)(KR)"
+	rom ( name "Samgukji III (1994)(Game Line)(KR).bin" size 1048576 crc 97d03541 md5 517c371a929ab012ee95a20843c5f1c2 )
+)
+
+game (
+	name "Sapo Xule O Mestre do Kung Fu (1995)(Sega)(BR)"
+	description "Sapo Xule O Mestre do Kung Fu (1995)(Sega)(BR)"
+	rom ( name "Sapo Xule O Mestre do Kung Fu (1995)(Sega)(BR).bin" size 262144 crc 890e83e4 md5 387983a020328f52b42293b308562eb8 )
+)
+
+game (
+	name "Sapo Xule S.O.S. Lagoa Poluida (1995)(Sega)(BR)"
+	description "Sapo Xule S.O.S. Lagoa Poluida (1995)(Sega)(BR)"
+	rom ( name "Sapo Xule S.O.S. Lagoa Poluida (1995)(Sega)(BR).bin" size 131072 crc 7ab2946a md5 4cc124f115adb89a5749908787dcb230 )
+)
+
+game (
+	name "Sapo Xule vs. os Invasores do Brejo (1995)(Sega - TecToy)(BR)"
+	description "Sapo Xule vs. os Invasores do Brejo (1995)(Sega - TecToy)(BR)"
+	rom ( name "Sapo Xule vs. os Invasores do Brejo (1995)(Sega - TecToy)(BR).bin" size 262144 crc 9a608327 md5 409663e3bc47cd555d463084b317d600 )
+)
+
+game (
+	name "Satellite-7 (1985)(Sega)(JP)"
+	description "Satellite-7 (1985)(Sega)(JP)"
+	rom ( name "Satellite-7 (1985)(Sega)(JP).bin" size 32768 crc 16249e19 md5 eac6a843975c50e39eb32f764da2a5ac )
+)
+
+game (
+	name "Satellite-7 (1985)(Sega)(JP)[h]"
+	description "Satellite-7 (1985)(Sega)(JP)[h]"
+	rom ( name "Satellite-7 (1985)(Sega)(JP)[h].bin" size 32768 crc 87b9ecb8 md5 2d1f7ef69dbe3bc9df05ea16ef824bec )
+)
+
+game (
+	name "Scramble Spirits (1988)(Sega)"
+	description "Scramble Spirits (1988)(Sega)"
+	rom ( name "Scramble Spirits (1988)(Sega).bin" size 262144 crc 9a8b28ec md5 82b9ee0920c3c46798ecd659be0a5d9a )
+)
+
+game (
+	name "Scramble Spirits (1988)(Sega)[b]"
+	description "Scramble Spirits (1988)(Sega)[b]"
+	rom ( name "Scramble Spirits (1988)(Sega)[b].bin" size 262302 crc 5dd789a2 md5 fdaf19e08be5b3f528bba740b92d083e )
+)
+
+game (
+	name "Secret Commando (1986)(Sega)"
+	description "Secret Commando (1986)(Sega)"
+	rom ( name "Secret Commando (1986)(Sega).bin" size 131072 crc 00529114 md5 3f6c5515a2e39826fbf816780298701c )
+)
+
+game (
+	name "Secret Commando (1986)(Sega)[b]"
+	description "Secret Commando (1986)(Sega)[b]"
+	rom ( name "Secret Commando (1986)(Sega)[b].bin" size 262144 crc 6e5f8a27 md5 e6ffbf7f5fe1c9430a7814b6536b525b )
+)
+
+game (
+	name "Sega Chess (1991)(Sega)"
+	description "Sega Chess (1991)(Sega)"
+	rom ( name "Sega Chess (1991)(Sega).bin" size 262144 crc a8061aef md5 92334e9e52eeb8d27606e319b1f8b617 )
+)
+
+game (
+	name "Sega Chess (1991)(Sega)[tr es]"
+	description "Sega Chess (1991)(Sega)[tr es]"
+	rom ( name "Sega Chess (1991)(Sega)[tr es].bin" size 262144 crc 2ecfe5f2 md5 97d4f416e15e7533e18664ccc8cd4890 )
+)
+
+game (
+	name "Sega Chess (1991)(Sega)[tr pt]"
+	description "Sega Chess (1991)(Sega)[tr pt]"
+	rom ( name "Sega Chess (1991)(Sega)[tr pt].bin" size 262144 crc 5b905d3f md5 aae523c98a6f63c25584e35e9c67de52 )
+)
+
+game (
+	name "Sega World Tournament Golf (1993)(Sega)"
+	description "Sega World Tournament Golf (1993)(Sega)"
+	rom ( name "Sega World Tournament Golf (1993)(Sega).bin" size 262144 crc 296879dd md5 f9c526afcacc727e45e722a9d8075109 )
+)
+
+game (
+	name "Seishyun Scandal (1986)(Sega)(JP)"
+	description "Seishyun Scandal (1986)(Sega)(JP)"
+	rom ( name "Seishyun Scandal (1986)(Sega)(JP).bin" size 32768 crc f0ba2bc6 md5 fb2ad2524646bd069e3ec1b51fd7eb39 )
+)
+
+game (
+	name "Seishyun Scandal (1986)(Sega)(JP)[b]"
+	description "Seishyun Scandal (1986)(Sega)(JP)[b]"
+	rom ( name "Seishyun Scandal (1986)(Sega)(JP)[b].bin" size 32768 crc 56476a54 md5 1a99082bde53563e9c468f3f35b6852a )
+)
+
+game (
+	name "Seishyun Scandal (1986)(Sega)(JP)[h]"
+	description "Seishyun Scandal (1986)(Sega)(JP)[h]"
+	rom ( name "Seishyun Scandal (1986)(Sega)(JP)[h].bin" size 32768 crc bcd91d78 md5 5b4e4e67cd062325223fc57073c0e990 )
+)
+
+game (
+	name "Sensible Soccer (1993)(Sony)"
+	description "Sensible Soccer (1993)(Sony)"
+	rom ( name "Sensible Soccer (1993)(Sony).bin" size 131072 crc f8176918 md5 5ca0a2b33db8eedcddb1d5aeaa8ea5a4 )
+)
+
+game (
+	name "Shadow Dancer (1991)(Sega)"
+	description "Shadow Dancer (1991)(Sega)"
+	rom ( name "Shadow Dancer (1991)(Sega).bin" size 524288 crc 3793c01a md5 c2055d5c66dd3944b99642c18032ebc4 )
+)
+
+game (
+	name "Shadow Dancer (1991)(Sega)[b]"
+	description "Shadow Dancer (1991)(Sega)[b]"
+	rom ( name "Shadow Dancer (1991)(Sega)[b].bin" size 524288 crc 4135ae1d md5 9b54b7fc5e7ea524e8fd59aab538286e )
+)
+
+game (
+	name "Shadow of the Beast (1991)(Psygnosis)"
+	description "Shadow of the Beast (1991)(Psygnosis)"
+	rom ( name "Shadow of the Beast (1991)(Psygnosis).bin" size 262144 crc 1575581d md5 abc8a9e43c588c7d0535cc8305bdbf94 )
+)
+
+game (
+	name "Shanghai (1988)(Sega)"
+	description "Shanghai (1988)(Sega)"
+	rom ( name "Shanghai (1988)(Sega).bin" size 131072 crc aab67ec3 md5 f0595fbd334cb8e95c0486a588a24f7b )
+)
+
+game (
+	name "Shanghai (1988)(Sega)(beta)"
+	description "Shanghai (1988)(Sega)(beta)"
+	rom ( name "Shanghai (1988)(Sega)(beta).bin" size 131072 crc d5d25156 md5 802d1525499492580de31ca62bca3c40 )
+)
+
+game (
+	name "Shanghai (1988)(Sega)[b]"
+	description "Shanghai (1988)(Sega)[b]"
+	rom ( name "Shanghai (1988)(Sega)[b].bin" size 262144 crc 8d3d6bff md5 d952eb283ea7d4dd3cd4caf35764247e )
+)
+
+game (
+	name "Shinobi (1987)(Sega)"
+	description "Shinobi (1987)(Sega)"
+	rom ( name "Shinobi (1987)(Sega).bin" size 262144 crc 0c6fac4e md5 3dd2c025185e19ac9bf1ed16b695c629 )
+)
+
+game (
+	name "Shinobi (1987)(Sega)(JP)"
+	description "Shinobi (1987)(Sega)(JP)"
+	rom ( name "Shinobi (1987)(Sega)(JP).bin" size 262144 crc e1fff1bb md5 789b285290688cbd0a786f888f9dada1 )
+)
+
+game (
+	name "Shinobi (1987)(Sega)[b2]"
+	description "Shinobi (1987)(Sega)[b2]"
+	rom ( name "Shinobi (1987)(Sega)[b2].bin" size 262144 crc 483bd1c8 md5 48a21be780f2c1d8e105a2944802ec35 )
+)
+
+game (
+	name "Shinobi (1987)(Sega)[b3]"
+	description "Shinobi (1987)(Sega)[b3]"
+	rom ( name "Shinobi (1987)(Sega)[b3].bin" size 262144 crc b2f41ad6 md5 0ebdb376fa02f55f2867c241fe7d7e4d )
+)
+
+game (
+	name "Shinobi (1987)(Sega)[b]"
+	description "Shinobi (1987)(Sega)[b]"
+	rom ( name "Shinobi (1987)(Sega)[b].bin" size 134400 crc 4bfd45f0 md5 ac80667dd3aff073e413a35f8e2398d1 )
+)
+
+game (
+	name "Shooting Gallery (1987)(Sega)"
+	description "Shooting Gallery (1987)(Sega)"
+	rom ( name "Shooting Gallery (1987)(Sega).bin" size 131072 crc 4b051022 md5 f8ea8b8e641cabff32210ea6583f9f94 )
+)
+
+game (
+	name "Simpsons, The - Bart vs. The Space Mutants (1992)(Acclaim)"
+	description "Simpsons, The - Bart vs. The Space Mutants (1992)(Acclaim)"
+	rom ( name "Simpsons, The - Bart vs. The Space Mutants (1992)(Acclaim).bin" size 262144 crc d1cc08ee md5 26df4404950cb8da47235833c0c101c6 )
+)
+
+game (
+	name "Simpsons, The - Bart vs. The World (1993)(Acclaim)"
+	description "Simpsons, The - Bart vs. The World (1993)(Acclaim)"
+	rom ( name "Simpsons, The - Bart vs. The World (1993)(Acclaim).bin" size 262144 crc f6b2370a md5 cba2ec2940619956359801618e7aab17 )
+)
+
+game (
+	name "Sitio do Picapau Amarelo (1997)(Sega - TecToy)(BR)"
+	description "Sitio do Picapau Amarelo (1997)(Sega - TecToy)(BR)"
+	rom ( name "Sitio do Picapau Amarelo (1997)(Sega - TecToy)(BR).bin" size 1048576 crc abdf3923 md5 85ea52a2cbcae078dc3a04f8db1304a9 )
+)
+
+game (
+	name "Slap Shot (1990)(Sega)(EU)"
+	description "Slap Shot (1990)(Sega)(EU)"
+	rom ( name "Slap Shot (1990)(Sega)(EU).bin" size 262144 crc c93bd0e9 md5 88a19d1f5d7ba2ba1f68fd83602c6eb7 )
+)
+
+game (
+	name "Slap Shot Rev 0 (1990)(Sega)"
+	description "Slap Shot Rev 0 (1990)(Sega)"
+	rom ( name "Slap Shot Rev 0 (1990)(Sega).bin" size 262144 crc d33b296a md5 7f6359544ca157491960e4a0136a0f42 )
+)
+
+game (
+	name "Slap Shot Rev 0 (1990)(Sega)[b2]"
+	description "Slap Shot Rev 0 (1990)(Sega)[b2]"
+	rom ( name "Slap Shot Rev 0 (1990)(Sega)[b2].bin" size 262656 crc 074f0893 md5 f500745589495de372967591b192ab89 )
+)
+
+game (
+	name "Slap Shot Rev 0 (1990)(Sega)[b]"
+	description "Slap Shot Rev 0 (1990)(Sega)[b]"
+	rom ( name "Slap Shot Rev 0 (1990)(Sega)[b].bin" size 262144 crc 0473142f md5 613cec5f61710749d3c0078c033c6bf0 )
+)
+
+game (
+	name "Slap Shot Rev 1 (1990)(Sega)"
+	description "Slap Shot Rev 1 (1990)(Sega)"
+	rom ( name "Slap Shot Rev 1 (1990)(Sega).bin" size 262144 crc 702c3e98 md5 2027d095ee5c1f2c01255888e0b436ed )
+)
+
+game (
+	name "Smash T.V. (1992)(Acclaim)"
+	description "Smash T.V. (1992)(Acclaim)"
+	rom ( name "Smash T.V. (1992)(Acclaim).bin" size 262144 crc e0b1aff8 md5 fd65b6794d6778c7948cd9b8b02a12f5 )
+)
+
+game (
+	name "Smurfs Travel the World, The (1995)(Infogrames)"
+	description "Smurfs Travel the World, The (1995)(Infogrames)"
+	rom ( name "Smurfs Travel the World, The (1995)(Infogrames).bin" size 262144 crc 97e5bb7d md5 86806bba2acf7a07aad125f6ef02cd51 )
+)
+
+game (
+	name "Smurfs Travel the World, The (1995)(Infogrames)(beta)"
+	description "Smurfs Travel the World, The (1995)(Infogrames)(beta)"
+	rom ( name "Smurfs Travel the World, The (1995)(Infogrames)(beta).bin" size 262144 crc 7982ae67 md5 4aba236d2a81e738adaaf5b00de81653 )
+)
+
+game (
+	name "Smurfs, The (1994)(Infogrames)"
+	description "Smurfs, The (1994)(Infogrames)"
+	rom ( name "Smurfs, The (1994)(Infogrames).bin" size 262144 crc 3e63768a md5 fe2aa0402eb30cec17b3bf4504f8219b )
+)
+
+game (
+	name "SokoMaster (2007)(de Oliveira Pinheiro, Haroldo)(PD)"
+	description "SokoMaster (2007)(de Oliveira Pinheiro, Haroldo)(PD)"
+	rom ( name "SokoMaster (2007)(de Oliveira Pinheiro, Haroldo)(PD).bin" size 131072 crc e2e2cc24 md5 95ad9b4d72b8caca575dc2d72ec3bc42 )
+)
+
+game (
+	name "Solomon no Kagi - Oujo Rihita no Namida (1988)(Salio)(JP)"
+	description "Solomon no Kagi - Oujo Rihita no Namida (1988)(Salio)(JP)"
+	rom ( name "Solomon no Kagi - Oujo Rihita no Namida (1988)(Salio)(JP).bin" size 131072 crc 11645549 md5 cfa84806075e017e29ffcdd0127fe647 )
+)
+
+game (
+	name "Sonic Blast (1996)(Sega)(BR)"
+	description "Sonic Blast (1996)(Sega)(BR)"
+	rom ( name "Sonic Blast (1996)(Sega)(BR).bin" size 1048576 crc 96b3f29e md5 ce7f314a657e0f0fe506fb7aea016f31 )
+)
+
+game (
+	name "Sonic Chaos (1993)(Sega)"
+	description "Sonic Chaos (1993)(Sega)"
+	rom ( name "Sonic Chaos (1993)(Sega).bin" size 524288 crc aedf3bdf md5 1d661134b14eedf6b4ae1c907581fd96 )
+)
+
+game (
+	name "Sonic Chaos (1993)(Sega)[b]"
+	description "Sonic Chaos (1993)(Sega)[b]"
+	rom ( name "Sonic Chaos (1993)(Sega)[b].bin" size 524288 crc fb14f1cf md5 2a8161a21a19328a2b7c9fb8d18aed5b )
+)
+
+game (
+	name "Sonic Spinball (1994)(Sega)"
+	description "Sonic Spinball (1994)(Sega)"
+	rom ( name "Sonic Spinball (1994)(Sega).bin" size 524288 crc 11c1bc8a md5 21b4bcf6b259d4550912ad6f4aeaf550 )
+)
+
+game (
+	name "Sonic the Hedgehog (1991)(Sega)"
+	description "Sonic the Hedgehog (1991)(Sega)"
+	rom ( name "Sonic the Hedgehog (1991)(Sega).bin" size 262144 crc b519e833 md5 dc13a61eafe75c13c15b5ece419ac57b )
+)
+
+game (
+	name "Sonic the Hedgehog (1991)(Sega)[tr fr]"
+	description "Sonic the Hedgehog (1991)(Sega)[tr fr]"
+	rom ( name "Sonic the Hedgehog (1991)(Sega)[tr fr].bin" size 262144 crc 48806ff7 md5 28110d3027da306210a9d1fb41010bbf )
+)
+
+game (
+	name "Sonic the Hedgehog 2 Rev 0 (1992)(Sega)"
+	description "Sonic the Hedgehog 2 Rev 0 (1992)(Sega)"
+	rom ( name "Sonic the Hedgehog 2 Rev 0 (1992)(Sega).bin" size 524288 crc 5b3b922c md5 bf3b7a41e7da9de23416473a33c6ac2b )
+)
+
+game (
+	name "Sonic the Hedgehog 2 Rev 0 (1992)(Sega)[h]"
+	description "Sonic the Hedgehog 2 Rev 0 (1992)(Sega)[h]"
+	rom ( name "Sonic the Hedgehog 2 Rev 0 (1992)(Sega)[h].bin" size 524288 crc 54f91cba md5 32c109864dbe2c2644b6090def5e82b9 )
+)
+
+game (
+	name "Sonic the Hedgehog 2 Rev 1 (1992)(Sega)"
+	description "Sonic the Hedgehog 2 Rev 1 (1992)(Sega)"
+	rom ( name "Sonic the Hedgehog 2 Rev 1 (1992)(Sega).bin" size 524288 crc d6f2bfca md5 0ac157b6b7e839953fc8eba7538fb74a )
+)
+
+game (
+	name "Space Gun (1992)(Taito)"
+	description "Space Gun (1992)(Taito)"
+	rom ( name "Space Gun (1992)(Taito).bin" size 524288 crc a908cff5 md5 ebb0b4161ffa873a7fa80ca41d139c57 )
+)
+
+game (
+	name "Space Harrier (1986)(Sega)"
+	description "Space Harrier (1986)(Sega)"
+	rom ( name "Space Harrier (1986)(Sega).bin" size 262144 crc beddf80e md5 b2e5047df186af7c02da17f1b285ae4f )
+)
+
+game (
+	name "Space Harrier (1986)(Sega)(EU)"
+	description "Space Harrier (1986)(Sega)(EU)"
+	rom ( name "Space Harrier (1986)(Sega)(EU).bin" size 262144 crc ca1d3752 md5 dde5d7a2694e6917bafab185594a267e )
+)
+
+game (
+	name "Space Harrier (1986)(Sega)(EU)[b]"
+	description "Space Harrier (1986)(Sega)(EU)[b]"
+	rom ( name "Space Harrier (1986)(Sega)(EU)[b].bin" size 262144 crc 47bd2006 md5 950910a260e990140cbd8966be4d4cd8 )
+)
+
+game (
+	name "Space Harrier (1986)(Sega)[b]"
+	description "Space Harrier (1986)(Sega)[b]"
+	rom ( name "Space Harrier (1986)(Sega)[b].bin" size 524288 crc fcd537d6 md5 632ac18c0a3ae70adc2ea1b6185dd68c )
+)
+
+game (
+	name "Space Harrier 3D (1988)(Sega)"
+	description "Space Harrier 3D (1988)(Sega)"
+	rom ( name "Space Harrier 3D (1988)(Sega).bin" size 262144 crc 6bd5c2bf md5 945a4202181abe8c50082a65211ef7c7 )
+)
+
+game (
+	name "Space Harrier 3D (1988)(Sega)(JP)"
+	description "Space Harrier 3D (1988)(Sega)(JP)"
+	rom ( name "Space Harrier 3D (1988)(Sega)(JP).bin" size 262144 crc 156948f9 md5 d8717eeb943c292c078429a0ed5a8527 )
+)
+
+game (
+	name "SpaceOddity (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc 172474f3 md5 0a526091fc92c4e60c38c6e5100abc56 )
+)
+
+game (
+	name "SpaceOddity v0.0 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.0 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.0 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc 33fdea7a md5 4860fca3ddb2c16d471c6c55c25980b9 )
+)
+
+game (
+	name "SpaceOddity v0.01 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.01 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.01 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc 5ed9495b md5 c5dd35e90a9664c48db1bf6eb35c9384 )
+)
+
+game (
+	name "SpaceOddity v0.02 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.02 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.02 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc 9039db33 md5 d1321f0bacb21cc668a4137e225fb3ef )
+)
+
+game (
+	name "SpaceOddity v0.03 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.03 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.03 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc 743e0e73 md5 28f6c53e8ba5c57cddf85a231347e2ec )
+)
+
+game (
+	name "SpaceOddity v0.04 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.04 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.04 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc fbde8c25 md5 0568b2d3f42012e8fd4c66070da551d9 )
+)
+
+game (
+	name "SpaceOddity v0.05 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.05 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.05 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc 9a023763 md5 8e4942629c768e6e5ca65400daee62be )
+)
+
+game (
+	name "SpaceOddity v0.06 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.06 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.06 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc e2d9560a md5 691acb57ad77ba6d34bf6295870ba757 )
+)
+
+game (
+	name "SpaceOddity v0.07 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.07 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.07 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc 6447d4e2 md5 c3824779bed14a1ec6e8f16118644664 )
+)
+
+game (
+	name "SpaceOddity v0.08 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.08 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.08 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc 8abb04fd md5 874392abb0b6e499a83df361aa172dee )
+)
+
+game (
+	name "SpaceOddity v0.09 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.09 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.09 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc eda91464 md5 b39eefb38769216baf897f3c2894e84b )
+)
+
+game (
+	name "SpaceOddity v0.10 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.10 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.10 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc bb8aa4d6 md5 a0d5df763d9701f2db34fbc2373c3073 )
+)
+
+game (
+	name "SpaceOddity v0.11 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.11 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.11 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc d57e9069 md5 15fff368a604713c2fbfbb8cbed3e824 )
+)
+
+game (
+	name "SpaceOddity v0.12 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.12 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.12 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc 0fbc0916 md5 08b46b1f931d389793d2d9057187bbcf )
+)
+
+game (
+	name "SpaceOddity v0.13 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.13 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.13 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc 6de37953 md5 fdd3b393e1d74bec8a5ef875b1133aac )
+)
+
+game (
+	name "SpaceOddity v0.14 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.14 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.14 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc 17a8f966 md5 3bda19f35cfa56bef527a169e0b8f8f4 )
+)
+
+game (
+	name "SpaceOddity v0.15 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.15 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.15 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc 08803e45 md5 7d74daf35dc2d1c5da83ba670635e80c )
+)
+
+game (
+	name "SpaceOddity v0.16 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.16 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.16 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc 1d6d755e md5 eb744535fa2e2952829f426425868cc0 )
+)
+
+game (
+	name "SpaceOddity v0.17 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.17 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.17 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc c5b73614 md5 206c77081a0a9f1b60d98f4e6b648005 )
+)
+
+game (
+	name "SpaceOddity v0.18 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.18 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.18 (2005)(Mooz - Proppy - Tet)(PD).bin" size 32768 crc 4a81a3ec md5 255f86ea74e031ae8e99739f0ed59e67 )
+)
+
+game (
+	name "SpaceOddity v0.19 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.19 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.19 (2005)(Mooz - Proppy - Tet)(PD).bin" size 81920 crc a79aed1b md5 7849a2c230e0f8c2e5bf96308ac065e2 )
+)
+
+game (
+	name "SpaceOddity v0.20 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.20 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.20 (2005)(Mooz - Proppy - Tet)(PD).bin" size 81920 crc 2beb762d md5 2a43bec4ef50a31fe029acbea9284c2f )
+)
+
+game (
+	name "SpaceOddity v0.21 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.21 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.21 (2005)(Mooz - Proppy - Tet)(PD).bin" size 81920 crc c9d7a460 md5 0b95662a00ac8dd607a51990f3d11ee5 )
+)
+
+game (
+	name "SpaceOddity v0.22 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.22 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.22 (2005)(Mooz - Proppy - Tet)(PD).bin" size 81920 crc 26ed3d83 md5 1f4ede4320bb25274d21a6e7f079b743 )
+)
+
+game (
+	name "SpaceOddity v0.23 (2005)(Mooz - Proppy - Tet)(PD)"
+	description "SpaceOddity v0.23 (2005)(Mooz - Proppy - Tet)(PD)"
+	rom ( name "SpaceOddity v0.23 (2005)(Mooz - Proppy - Tet)(PD).bin" size 81920 crc ea3d0d59 md5 9761fe2777797a567c86a83fb876732f )
+)
+
+game (
+	name "Special Criminal Investigation (1992)(Taito)"
+	description "Special Criminal Investigation (1992)(Taito)"
+	rom ( name "Special Criminal Investigation (1992)(Taito).bin" size 262144 crc fa8e4ca0 md5 74c8108e7207d5b7149a69b0fc90d877 )
+)
+
+game (
+	name "Special Criminal Investigation (1992)(Taito)(beta)"
+	description "Special Criminal Investigation (1992)(Taito)(beta)"
+	rom ( name "Special Criminal Investigation (1992)(Taito)(beta).bin" size 262144 crc 1b7d2a20 md5 16523c29c9b2f5e2c6252b57e1c22590 )
+)
+
+game (
+	name "Speedball (1990)(Mirrorsoft)"
+	description "Speedball (1990)(Mirrorsoft)"
+	rom ( name "Speedball (1990)(Mirrorsoft).bin" size 131072 crc a57cad18 md5 ccbb21ff7484d5569bc823168edc8628 )
+)
+
+game (
+	name "Speedball (1992)(Virgin)"
+	description "Speedball (1992)(Virgin)"
+	rom ( name "Speedball (1992)(Virgin).bin" size 131072 crc 5ccc1a65 md5 ae579fba63e0da9cb969980ac172a600 )
+)
+
+game (
+	name "Speedball 2 (1992)(Virgin)"
+	description "Speedball 2 (1992)(Virgin)"
+	rom ( name "Speedball 2 (1992)(Virgin).bin" size 262144 crc 0c7366a0 md5 b37e0c8177c4792594356b11757f9ac5 )
+)
+
+game (
+	name "Spellcaster (1989)(Sega)"
+	description "Spellcaster (1989)(Sega)"
+	rom ( name "Spellcaster (1989)(Sega).bin" size 524288 crc 4752cae7 md5 0e1449dd7df4fd0995ccf802bb74cba0 )
+)
+
+game (
+	name "Spellcaster (1989)(Sega)[h]"
+	description "Spellcaster (1989)(Sega)[h]"
+	rom ( name "Spellcaster (1989)(Sega)[h].bin" size 524288 crc da375abd md5 c6173fc917adae089f1a2dbfb3452c7c )
+)
+
+game (
+	name "Spellcaster (1989)(Sega)[tr fr]"
+	description "Spellcaster (1989)(Sega)[tr fr]"
+	rom ( name "Spellcaster (1989)(Sega)[tr fr].bin" size 524288 crc 9b1f566e md5 50d87627ad7acb59d453068faf6edf3d )
+)
+
+game (
+	name "Spellcaster (1989)(Sega)[tr fr][a]"
+	description "Spellcaster (1989)(Sega)[tr fr][a]"
+	rom ( name "Spellcaster (1989)(Sega)[tr fr][a].bin" size 524288 crc a0587800 md5 50014cf3b352cbcff05bdc85f4298fdc )
+)
+
+game (
+	name "Spider-Man - Return of the Sinister Six (1992)(Acclaim)"
+	description "Spider-Man - Return of the Sinister Six (1992)(Acclaim)"
+	rom ( name "Spider-Man - Return of the Sinister Six (1992)(Acclaim).bin" size 262144 crc ebe45388 md5 094628b6dd0342253594b0adb0777c7b )
+)
+
+game (
+	name "Spider-Man vs The Kingpin (1990)(Sega)"
+	description "Spider-Man vs The Kingpin (1990)(Sega)"
+	rom ( name "Spider-Man vs The Kingpin (1990)(Sega).bin" size 262144 crc 908ff25c md5 fa10ee70e43385e88e5d1a008716668b )
+)
+
+game (
+	name "Sport Pad Soccer (1987)(Sega)(JP)"
+	description "Sport Pad Soccer (1987)(Sega)(JP)"
+	rom ( name "Sport Pad Soccer (1987)(Sega)(JP).bin" size 131072 crc 41c948bf md5 4cc5ba7ef736508a8afc1ed7ec640c3e )
+)
+
+game (
+	name "Sports Pad Football (1987)(Sega)(US)"
+	description "Sports Pad Football (1987)(Sega)(US)"
+	rom ( name "Sports Pad Football (1987)(Sega)(US).bin" size 131072 crc e42e4998 md5 3317f644f36159e2dc63aea9b75c927d )
+)
+
+game (
+	name "Spy vs Spy (1986)(Sega)"
+	description "Spy vs Spy (1986)(Sega)"
+	rom ( name "Spy vs Spy (1986)(Sega).bin" size 32768 crc 78d7faab md5 c6adc5db40d0db75c9c167e4bb2ed918 )
+)
+
+game (
+	name "Spy vs Spy (1986)(Sega)(JP)"
+	description "Spy vs Spy (1986)(Sega)(JP)"
+	rom ( name "Spy vs Spy (1986)(Sega)(JP).bin" size 32768 crc d41b9a08 md5 2a6ee78e2617886fe540dcb8a1500e90 )
+)
+
+game (
+	name "Spy vs Spy (1986)(Sega)(JP)[h]"
+	description "Spy vs Spy (1986)(Sega)(JP)[h]"
+	rom ( name "Spy vs Spy (1986)(Sega)(JP)[h].bin" size 32768 crc a71bc542 md5 1a97c84dadd3e93fe922d8f5f366625e )
+)
+
+game (
+	name "Star Wars (1993)(U.S. Gold)"
+	description "Star Wars (1993)(U.S. Gold)"
+	rom ( name "Star Wars (1993)(U.S. Gold).bin" size 524288 crc d4b8f66d md5 2012a00d2ef01285e7bf077f78e975f5 )
+)
+
+game (
+	name "Street Fighter II' (1997)(Sega - TecToy)(BR)"
+	description "Street Fighter II' (1997)(Sega - TecToy)(BR)"
+	rom ( name "Street Fighter II' (1997)(Sega - TecToy)(BR).bin" size 819200 crc 0f8287ec md5 7a4cda14dd38a48fc36bcc6e104cf5d7 )
+)
+
+game (
+	name "Street Fighter II' (1997)(Sega - TecToy)(BR)[b2]"
+	description "Street Fighter II' (1997)(Sega - TecToy)(BR)[b2]"
+	rom ( name "Street Fighter II' (1997)(Sega - TecToy)(BR)[b2].bin" size 819200 crc 87aabdfe md5 25c9f6c95712aef13ee3d4bd6f698bb1 )
+)
+
+game (
+	name "Street Fighter II' (1997)(Sega - TecToy)(BR)[b]"
+	description "Street Fighter II' (1997)(Sega - TecToy)(BR)[b]"
+	rom ( name "Street Fighter II' (1997)(Sega - TecToy)(BR)[b].bin" size 819200 crc 599901bb md5 5f4338846cca83c6d19c7c9deba8ceb4 )
+)
+
+game (
+	name "Streets of Rage (1993)(Sega)"
+	description "Streets of Rage (1993)(Sega)"
+	rom ( name "Streets of Rage (1993)(Sega).bin" size 524288 crc 4ab3790f md5 29a5195d57a82fb1349a7403f1d65d7e )
+)
+
+game (
+	name "Streets of Rage (1993)(Sega)[b]"
+	description "Streets of Rage (1993)(Sega)[b]"
+	rom ( name "Streets of Rage (1993)(Sega)[b].bin" size 524288 crc 6f2cf48a md5 0f54fd648dbfdc6b9d05aefb50870cb1 )
+)
+
+game (
+	name "Streets of Rage (1993)(Sega)[tr fr]"
+	description "Streets of Rage (1993)(Sega)[tr fr]"
+	rom ( name "Streets of Rage (1993)(Sega)[tr fr].bin" size 524288 crc c95e0cc2 md5 8b14c44f9a956fbf2bf3150ac1bb2086 )
+)
+
+game (
+	name "Streets of Rage (1993)(Sega)[tr fr][a]"
+	description "Streets of Rage (1993)(Sega)[tr fr][a]"
+	rom ( name "Streets of Rage (1993)(Sega)[tr fr][a].bin" size 524288 crc ecc18147 md5 c876b25e236dbc6258c31a2fe54e7549 )
+)
+
+game (
+	name "Streets of Rage II (1993)(Sega)"
+	description "Streets of Rage II (1993)(Sega)"
+	rom ( name "Streets of Rage II (1993)(Sega).bin" size 524288 crc 04e9c089 md5 e680b108e67caf02e4fb77d419f48358 )
+)
+
+game (
+	name "Strider (1991)(Sega)"
+	description "Strider (1991)(Sega)"
+	rom ( name "Strider (1991)(Sega).bin" size 524288 crc 9802ed31 md5 48af5ae2cad7c48c81d7c2553a8ed426 )
+)
+
+game (
+	name "Strider (1991)(Sega)[b2]"
+	description "Strider (1991)(Sega)[b2]"
+	rom ( name "Strider (1991)(Sega)[b2].bin" size 524288 crc 5b731a99 md5 c9438bbdecc8b037e9e15c952723a894 )
+)
+
+game (
+	name "Strider (1991)(Sega)[b]"
+	description "Strider (1991)(Sega)[b]"
+	rom ( name "Strider (1991)(Sega)[b].bin" size 524288 crc 54a82e50 md5 6358bb8b7810d9cc39734d3c1f39c862 )
+)
+
+game (
+	name "Strider (1991)(Sega)[tr pt]"
+	description "Strider (1991)(Sega)[tr pt]"
+	rom ( name "Strider (1991)(Sega)[tr pt].bin" size 524288 crc 471cdb51 md5 b560567338b7fe211a3fff287c19aba3 )
+)
+
+game (
+	name "Strider (1991)(Sega)[tr pt][a2]"
+	description "Strider (1991)(Sega)[tr pt][a2]"
+	rom ( name "Strider (1991)(Sega)[tr pt][a2].bin" size 524288 crc 40760bb3 md5 85c5d5ae284c5754de8f79db38a57fd4 )
+)
+
+game (
+	name "Strider (1991)(Sega)[tr pt][a]"
+	description "Strider (1991)(Sega)[tr pt][a]"
+	rom ( name "Strider (1991)(Sega)[tr pt][a].bin" size 524288 crc 53c2feb2 md5 f302b83d0675a6b57570250ce1dc657f )
+)
+
+game (
+	name "Strider II (1992)(U.S. Gold)"
+	description "Strider II (1992)(U.S. Gold)"
+	rom ( name "Strider II (1992)(U.S. Gold).bin" size 262144 crc b8f0915a md5 8336c9a48390889fb3e17cd6f9471ae1 )
+)
+
+game (
+	name "Submarine Attack (1990)(Sega)"
+	description "Submarine Attack (1990)(Sega)"
+	rom ( name "Submarine Attack (1990)(Sega).bin" size 262144 crc d8f2f1b9 md5 5eaa50519e87d57f40f50731caff5f62 )
+)
+
+game (
+	name "Sukeban Deka II (1987)(Sega)(JP)"
+	description "Sukeban Deka II (1987)(Sega)(JP)"
+	rom ( name "Sukeban Deka II (1987)(Sega)(JP).bin" size 131072 crc b13df647 md5 e80ce989b68b1faa5e40016ce7b096fe )
+)
+
+game (
+	name "Summer Games (1988)(Epyx - Sega)"
+	description "Summer Games (1988)(Epyx - Sega)"
+	rom ( name "Summer Games (1988)(Epyx - Sega).bin" size 131072 crc 8da5c93f md5 10f2a7506ae6402f42b8083b24c0d105 )
+)
+
+game (
+	name "Summer Games (1988)(Epyx - Sega)(beta)"
+	description "Summer Games (1988)(Epyx - Sega)(beta)"
+	rom ( name "Summer Games (1988)(Epyx - Sega)(beta).bin" size 131072 crc 80eb1fff md5 d08bb7ce6d71c1b6a72e90f3a4fbfb54 )
+)
+
+game (
+	name "Super Boy 4 (1992)(Zemina)(KR)"
+	description "Super Boy 4 (1992)(Zemina)(KR)"
+	rom ( name "Super Boy 4 (1992)(Zemina)(KR).bin" size 262144 crc b995b4f0 md5 eb7d7db5ab98b0b7812552644fb95fe8 )
+)
+
+game (
+	name "Super Boy II (1989)(Zemina)(KR)[p]"
+	description "Super Boy II (1989)(Zemina)(KR)[p]"
+	rom ( name "Super Boy II (1989)(Zemina)(KR)[p].bin" size 49152 crc 67c2f0ff md5 6120c9ba0f2c24031c9a836035060717 )
+)
+
+game (
+	name "Super Futebol (199x)(Sega)(BR)[b]"
+	description "Super Futebol (199x)(Sega)(BR)[b]"
+	rom ( name "Super Futebol (199x)(Sega)(BR)[b].bin" size 131072 crc ab260100 md5 867a43b06f9bfc983e02eff2b9608e7f )
+)
+
+game (
+	name "Super Kick Off (1991)(U.S. Gold)"
+	description "Super Kick Off (1991)(U.S. Gold)"
+	rom ( name "Super Kick Off (1991)(U.S. Gold).bin" size 262144 crc 406aa0c2 md5 6c203c7aa7003a880b80a90d96fc4a33 )
+)
+
+game (
+	name "Super Kick Off (1991)(U.S. Gold)[b]"
+	description "Super Kick Off (1991)(U.S. Gold)[b]"
+	rom ( name "Super Kick Off (1991)(U.S. Gold)[b].bin" size 262417 crc 29768bea md5 0212b0c538be52d58a52cdab96ba73ca )
+)
+
+game (
+	name "Super Monaco GP (1990)(Sega)"
+	description "Super Monaco GP (1990)(Sega)"
+	rom ( name "Super Monaco GP (1990)(Sega).bin" size 262144 crc 55bf81a0 md5 efb0fb59074eab11816c8843b4135a0c )
+)
+
+game (
+	name "Super Monaco GP II (1992)(Sega)"
+	description "Super Monaco GP II (1992)(Sega)"
+	rom ( name "Super Monaco GP II (1992)(Sega).bin" size 524288 crc e890331d md5 04abc524a3b7f7e2e96eb910490e77ec )
+)
+
+game (
+	name "Super Monaco GP Rev 1 (1990)(Sega)(US)"
+	description "Super Monaco GP Rev 1 (1990)(Sega)(US)"
+	rom ( name "Super Monaco GP Rev 1 (1990)(Sega)(US).bin" size 262144 crc 3ef12baa md5 aed300f323aae6d00878eb6ba21c2eb7 )
+)
+
+game (
+	name "Super Off Road (199x)(Virgin)"
+	description "Super Off Road (199x)(Virgin)"
+	rom ( name "Super Off Road (199x)(Virgin).bin" size 131072 crc 54f68c2a md5 e3d3dfde69345e1f62cce512e9010bf8 )
+)
+
+game (
+	name "Super Racing (1988)(Sega)(JP)"
+	description "Super Racing (1988)(Sega)(JP)"
+	rom ( name "Super Racing (1988)(Sega)(JP).bin" size 262144 crc 7e0ef8cb md5 bcc2df04cac4b713ee48a05669cdfbdd )
+)
+
+game (
+	name "Super Space Invaders (199x)(Domark)"
+	description "Super Space Invaders (199x)(Domark)"
+	rom ( name "Super Space Invaders (199x)(Domark).bin" size 262144 crc 1d6244ee md5 f36e9758390ed2b781e9a8a7a958e7e3 )
+)
+
+game (
+	name "Super Tennis (1986)(Sega)"
+	description "Super Tennis (1986)(Sega)"
+	rom ( name "Super Tennis (1986)(Sega).bin" size 32768 crc 914514e3 md5 2db9404fe79593fd2379921ca822103a )
+)
+
+game (
+	name "Super Tennis (1986)(Sega)(JP)"
+	description "Super Tennis (1986)(Sega)(JP)"
+	rom ( name "Super Tennis (1986)(Sega)(JP).bin" size 32768 crc 95cbf3dd md5 be6eac7ce416c86a818ff13b228b39c5 )
+)
+
+game (
+	name "Super Tetris (19xx)(-)(KR)[p]"
+	description "Super Tetris (19xx)(-)(KR)[p]"
+	rom ( name "Super Tetris (19xx)(-)(KR)[p].bin" size 65536 crc bd1cc7df md5 3aab83a641bf3a26d68ed44f49c28714 )
+)
+
+game (
+	name "Super Tetris (19xx)(-)(KR)[p][b]"
+	description "Super Tetris (19xx)(-)(KR)[p][b]"
+	rom ( name "Super Tetris (19xx)(-)(KR)[p][b].bin" size 262144 crc 8230384e md5 d300cf467fccd0f3e75da39d9a5231be )
+)
+
+game (
+	name "Super Wonder Boy Monster Land (1988)(Sega)(JP)"
+	description "Super Wonder Boy Monster Land (1988)(Sega)(JP)"
+	rom ( name "Super Wonder Boy Monster Land (1988)(Sega)(JP).bin" size 262144 crc b1da6a30 md5 8883790d3b3d4fed9a845d63aa251786 )
+)
+
+game (
+	name "Superman (1992)(Virgin)"
+	description "Superman (1992)(Virgin)"
+	rom ( name "Superman (1992)(Virgin).bin" size 262144 crc 6f9ac98f md5 dc1541e54da2376781e3691784befaa9 )
+)
+
+game (
+	name "Superman (1992)(Virgin)[tr pt]"
+	description "Superman (1992)(Virgin)[tr pt]"
+	rom ( name "Superman (1992)(Virgin)[tr pt].bin" size 262144 crc 76b86e59 md5 d222b107ec0744cdd0bc431a153d7b42 )
+)
+
+game (
+	name "T2 - The Arcade Game (1993)(Acclaim)"
+	description "T2 - The Arcade Game (1993)(Acclaim)"
+	rom ( name "T2 - The Arcade Game (1993)(Acclaim).bin" size 524288 crc 93ca8152 md5 f1983c31f965aa8de77df64483883550 )
+)
+
+game (
+	name "Taz in Escape From Mars (1996)(Sega)(BR)"
+	description "Taz in Escape From Mars (1996)(Sega)(BR)"
+	rom ( name "Taz in Escape From Mars (1996)(Sega)(BR).bin" size 524288 crc 11ce074c md5 5f170677dc0d0229ec3ec7f306bb6303 )
+)
+
+game (
+	name "Taz-Mania (1992)(Sega)"
+	description "Taz-Mania (1992)(Sega)"
+	rom ( name "Taz-Mania (1992)(Sega).bin" size 262144 crc 7cc3e837 md5 cfc878f0163933fcfcc89e134fbeb31f )
+)
+
+game (
+	name "Taz-Mania (1992)(Sega)(beta)"
+	description "Taz-Mania (1992)(Sega)(beta)"
+	rom ( name "Taz-Mania (1992)(Sega)(beta).bin" size 262144 crc 1b312e04 md5 707e3e397f181b6e51196a4502b8e12f )
+)
+
+game (
+	name "Taz-Mania (1992)(Sega)(beta)[tr pt]"
+	description "Taz-Mania (1992)(Sega)(beta)[tr pt]"
+	rom ( name "Taz-Mania (1992)(Sega)(beta)[tr pt].bin" size 262144 crc c63e7b0a md5 ed959b39559bfdd442c2230a0886897f )
+)
+
+game (
+	name "Teddy Boy (1985)(Sega)"
+	description "Teddy Boy (1985)(Sega)"
+	rom ( name "Teddy Boy (1985)(Sega).bin" size 32768 crc 2728faa3 md5 66baea0a42353ffd3f131586e0c9c4d4 )
+)
+
+game (
+	name "Teddy Boy (1985)(Sega)[h10]"
+	description "Teddy Boy (1985)(Sega)[h10]"
+	rom ( name "Teddy Boy (1985)(Sega)[h10].bin" size 32768 crc e29c4016 md5 4b33982c2671615b8526fd8b33c723f7 )
+)
+
+game (
+	name "Teddy Boy (1985)(Sega)[h11]"
+	description "Teddy Boy (1985)(Sega)[h11]"
+	rom ( name "Teddy Boy (1985)(Sega)[h11].bin" size 32768 crc b936f761 md5 06f53a239320f15ea023714f1b886630 )
+)
+
+game (
+	name "Teddy Boy (1985)(Sega)[h12]"
+	description "Teddy Boy (1985)(Sega)[h12]"
+	rom ( name "Teddy Boy (1985)(Sega)[h12].bin" size 32768 crc 8fc6fef9 md5 79b59aa23d72ec7d52c1252eb2192793 )
+)
+
+game (
+	name "Teddy Boy (1985)(Sega)[h2]"
+	description "Teddy Boy (1985)(Sega)[h2]"
+	rom ( name "Teddy Boy (1985)(Sega)[h2].bin" size 32768 crc 6c476aa9 md5 27ebcff4302b06678fb1ea1ab9a29278 )
+)
+
+game (
+	name "Teddy Boy (1985)(Sega)[h3]"
+	description "Teddy Boy (1985)(Sega)[h3]"
+	rom ( name "Teddy Boy (1985)(Sega)[h3].bin" size 32768 crc d0e919bd md5 dcd4346aef378bd440655bd06579d3fa )
+)
+
+game (
+	name "Teddy Boy (1985)(Sega)[h4]"
+	description "Teddy Boy (1985)(Sega)[h4]"
+	rom ( name "Teddy Boy (1985)(Sega)[h4].bin" size 32768 crc 647d8edc md5 8cff03bcb23166974760d88535f78863 )
+)
+
+game (
+	name "Teddy Boy (1985)(Sega)[h5]"
+	description "Teddy Boy (1985)(Sega)[h5]"
+	rom ( name "Teddy Boy (1985)(Sega)[h5].bin" size 32768 crc 3f78e5c8 md5 40dc9142b8053a3596bec68441229253 )
+)
+
+game (
+	name "Teddy Boy (1985)(Sega)[h6]"
+	description "Teddy Boy (1985)(Sega)[h6]"
+	rom ( name "Teddy Boy (1985)(Sega)[h6].bin" size 32768 crc 9d79ed79 md5 39b72b83341de068d49c15edd2a4f39e )
+)
+
+game (
+	name "Teddy Boy (1985)(Sega)[h7]"
+	description "Teddy Boy (1985)(Sega)[h7]"
+	rom ( name "Teddy Boy (1985)(Sega)[h7].bin" size 32768 crc c7f3da07 md5 6f4079c9d59d4181da60ef2e49eb6746 )
+)
+
+game (
+	name "Teddy Boy (1985)(Sega)[h8]"
+	description "Teddy Boy (1985)(Sega)[h8]"
+	rom ( name "Teddy Boy (1985)(Sega)[h8].bin" size 32768 crc f8c3d4f4 md5 7257b9cb5dada7345e0639e6be5910db )
+)
+
+game (
+	name "Teddy Boy (1985)(Sega)[h9]"
+	description "Teddy Boy (1985)(Sega)[h9]"
+	rom ( name "Teddy Boy (1985)(Sega)[h9].bin" size 32768 crc 76bbd33e md5 6bc695cfbd8da78f09c1780c6cbf02e0 )
+)
+
+game (
+	name "Teddy Boy (1985)(Sega)[h]"
+	description "Teddy Boy (1985)(Sega)[h]"
+	rom ( name "Teddy Boy (1985)(Sega)[h].bin" size 32768 crc ccb2cab4 md5 212346e9bfdd058c4d7b766df89c1fcb )
+)
+
+game (
+	name "Teddy Boy Blues (1985)(Sega)(JP)"
+	description "Teddy Boy Blues (1985)(Sega)(JP)"
+	rom ( name "Teddy Boy Blues (1985)(Sega)(JP).bin" size 32768 crc 316727dd md5 de5d6c9e1349844b74f53caaf2af680b )
+)
+
+game (
+	name "Teddy Boy Blues (1985)(Sega)(JP)(beta)"
+	description "Teddy Boy Blues (1985)(Sega)(JP)(beta)"
+	rom ( name "Teddy Boy Blues (1985)(Sega)(JP)(beta).bin" size 49152 crc d7508041 md5 3b0b80cef02a15a7ef09f54eb22282a7 )
+)
+
+game (
+	name "Teddy Boy Blues (1985)(Sega)(JP)[h]"
+	description "Teddy Boy Blues (1985)(Sega)(JP)[h]"
+	rom ( name "Teddy Boy Blues (1985)(Sega)(JP)[h].bin" size 32768 crc 9dfa67ee md5 21ec0f2cd786e6fc4e5cb98028928b8d )
+)
+
+game (
+	name "Temco World Cup '93 (1993)(Sega)"
+	description "Temco World Cup '93 (1993)(Sega)"
+	rom ( name "Temco World Cup '93 (1993)(Sega).bin" size 262144 crc 5a1c3dde md5 81f530d169c5c04c8faf8db367bbcd63 )
+)
+
+game (
+	name "Temco World Cup '93 (1993)(Sega)(beta)"
+	description "Temco World Cup '93 (1993)(Sega)(beta)"
+	rom ( name "Temco World Cup '93 (1993)(Sega)(beta).bin" size 262144 crc 96e75f48 md5 c85a8f65e3fc1c0c80ec63e4fb77cb99 )
+)
+
+game (
+	name "Tennis Ace (1989)(Sega)"
+	description "Tennis Ace (1989)(Sega)"
+	rom ( name "Tennis Ace (1989)(Sega).bin" size 262144 crc 1a390b93 md5 89146053b1474833e921835c907aa2d3 )
+)
+
+game (
+	name "Tensai Bakabon (1988)(Sega)(JP)"
+	description "Tensai Bakabon (1988)(Sega)(JP)"
+	rom ( name "Tensai Bakabon (1988)(Sega)(JP).bin" size 262144 crc 8132ab2c md5 ed8bfc3d17edc8e7968e553a9a6dd24c )
+)
+
+game (
+	name "Terminator 2 - Judgment Day (1993)(Acclaim)"
+	description "Terminator 2 - Judgment Day (1993)(Acclaim)"
+	rom ( name "Terminator 2 - Judgment Day (1993)(Acclaim).bin" size 262144 crc ac56104f md5 cc2454eebbbfab7ba99851a923dfdaaf )
+)
+
+game (
+	name "Terminator, The (1992)(Virgin)"
+	description "Terminator, The (1992)(Virgin)"
+	rom ( name "Terminator, The (1992)(Virgin).bin" size 262144 crc edc5c012 md5 f224907676a09c7f0404c95c316f1503 )
+)
+
+game (
+	name "Terminator, The (1992)(Virgin)(BR)"
+	description "Terminator, The (1992)(Virgin)(BR)"
+	rom ( name "Terminator, The (1992)(Virgin)(BR).bin" size 262144 crc e3d5ce9a md5 ba2aa1c3c3d0a24acbb2e86c1fb0aadf )
+)
+
+game (
+	name "Tetracycline v0.2 (2000)(Warren, Nicolas)(PD)"
+	description "Tetracycline v0.2 (2000)(Warren, Nicolas)(PD)"
+	rom ( name "Tetracycline v0.2 (2000)(Warren, Nicolas)(PD).bin" size 32768 crc 983e17e4 md5 b681dbdbb376d1fba3afadbfe61bd5df )
+)
+
+game (
+	name "Tetracycline v0.3 (2000)(Warren, Nicolas)(PD)"
+	description "Tetracycline v0.3 (2000)(Warren, Nicolas)(PD)"
+	rom ( name "Tetracycline v0.3 (2000)(Warren, Nicolas)(PD).bin" size 32768 crc fd603aea md5 95f75c2101654b2ee42f30094ab9e12a )
+)
+
+game (
+	name "Tetracycline v0.4 (2000)(Warren, Nicolas)(PD)"
+	description "Tetracycline v0.4 (2000)(Warren, Nicolas)(PD)"
+	rom ( name "Tetracycline v0.4 (2000)(Warren, Nicolas)(PD).bin" size 32768 crc a0bf829b md5 64c5e8fd0f981aac62f8505b740378ec )
+)
+
+game (
+	name "Three Dragon Story, The (1989)(Zemina)(KR)"
+	description "Three Dragon Story, The (1989)(Zemina)(KR)"
+	rom ( name "Three Dragon Story, The (1989)(Zemina)(KR).bin" size 32768 crc 8640e7e8 md5 9acd8b2eab5453380242ab3a6417c165 )
+)
+
+game (
+	name "Thunder Blade (1988)(Sega)"
+	description "Thunder Blade (1988)(Sega)"
+	rom ( name "Thunder Blade (1988)(Sega).bin" size 262144 crc ae920e4b md5 70dcee3c77e95d83fcf6df0dae30a4a8 )
+)
+
+game (
+	name "Thunder Blade (1988)(Sega)(JP)"
+	description "Thunder Blade (1988)(Sega)(JP)"
+	rom ( name "Thunder Blade (1988)(Sega)(JP).bin" size 262144 crc c0ce19b1 md5 a03bbd3c75e736ce378f2c3fe47f5579 )
+)
+
+game (
+	name "Time Soldiers (1989)(Sega)"
+	description "Time Soldiers (1989)(Sega)"
+	rom ( name "Time Soldiers (1989)(Sega).bin" size 262144 crc 51bd14be md5 dbc9260009dd0838d0e31de51d57d078 )
+)
+
+game (
+	name "Time Soldiers (1989)(Sega)[b]"
+	description "Time Soldiers (1989)(Sega)[b]"
+	rom ( name "Time Soldiers (1989)(Sega)[b].bin" size 524288 crc dc2a88cb md5 7f03cb0d9de4ae751b63778704242ae6 )
+)
+
+game (
+	name "Time Soldiers (1989)(Sega)[tr pt]"
+	description "Time Soldiers (1989)(Sega)[tr pt]"
+	rom ( name "Time Soldiers (1989)(Sega)[tr pt].bin" size 262144 crc ff0f9323 md5 e4c222832f9633dfa63c3bdeec733649 )
+)
+
+game (
+	name "Time Soldiers (1989)(Sega)[tr pt][a]"
+	description "Time Soldiers (1989)(Sega)[tr pt][a]"
+	rom ( name "Time Soldiers (1989)(Sega)[tr pt][a].bin" size 262144 crc ed9a19b6 md5 4c8514cd3dc0d9cbbde70c0cc86e3084 )
+)
+
+game (
+	name "Tom & Jerry (1992)(Sega)(proto)"
+	description "Tom & Jerry (1992)(Sega)(proto)"
+	rom ( name "Tom & Jerry (1992)(Sega)(proto).bin" size 262144 crc 0c2fc2de md5 8b7f5b3750b1e4908cfc1086494e914f )
+)
+
+game (
+	name "Tom and Jerry - The Movie (1992)(Sega)"
+	description "Tom and Jerry - The Movie (1992)(Sega)"
+	rom ( name "Tom and Jerry - The Movie (1992)(Sega).bin" size 262144 crc bf7b7285 md5 965e5576d569794aa27e89048855615f )
+)
+
+game (
+	name "Tom and Jerry - The Movie (1992)(Sega)[b2]"
+	description "Tom and Jerry - The Movie (1992)(Sega)[b2]"
+	rom ( name "Tom and Jerry - The Movie (1992)(Sega)[b2].bin" size 262144 crc b003f4eb md5 81f005120522d42b23ea03152477d20b )
+)
+
+game (
+	name "Tom and Jerry - The Movie (1992)(Sega)[b]"
+	description "Tom and Jerry - The Movie (1992)(Sega)[b]"
+	rom ( name "Tom and Jerry - The Movie (1992)(Sega)[b].bin" size 262144 crc a2ff09b9 md5 4617cd1b63b489d611fca444ad5d6d5e )
+)
+
+game (
+	name "Toto World 3 (1993)(Open)(KR)"
+	description "Toto World 3 (1993)(Open)(KR)"
+	rom ( name "Toto World 3 (1993)(Open)(KR).bin" size 262144 crc 4f8d75ec md5 2c8d7ad9c6484f161dd9574670b598a4 )
+)
+
+game (
+	name "Transbot (1986)(Sega)"
+	description "Transbot (1986)(Sega)"
+	rom ( name "Transbot (1986)(Sega).bin" size 32768 crc 4bc42857 md5 93bb1e1ee14ac53adb9e6b9e0c135043 )
+)
+
+game (
+	name "Transbot (1986)(Sega)[b2]"
+	description "Transbot (1986)(Sega)[b2]"
+	rom ( name "Transbot (1986)(Sega)[b2].bin" size 131072 crc 69362bf1 md5 1ac740fa93b4a5dc019651aff8498d9c )
+)
+
+game (
+	name "Transbot (1986)(Sega)[b3]"
+	description "Transbot (1986)(Sega)[b3]"
+	rom ( name "Transbot (1986)(Sega)[b3].bin" size 262144 crc cbbd21f6 md5 6724f68a7445a65fa9954e788abe5f73 )
+)
+
+game (
+	name "Transbot (1986)(Sega)[b]"
+	description "Transbot (1986)(Sega)[b]"
+	rom ( name "Transbot (1986)(Sega)[b].bin" size 65536 crc bd6f2c92 md5 8d8979364ba71da8268b2abf288f7eda )
+)
+
+game (
+	name "Trap Shooting + Marksman Shooting + Safari Hunt (1986)(Sega)"
+	description "Trap Shooting + Marksman Shooting + Safari Hunt (1986)(Sega)"
+	rom ( name "Trap Shooting + Marksman Shooting + Safari Hunt (1986)(Sega).bin" size 131072 crc e8215c2e md5 bf7ea79ac0df3ebe7256da6331b21c34 )
+)
+
+game (
+	name "Tri Formation (1987)(Sega)"
+	description "Tri Formation (1987)(Sega)"
+	rom ( name "Tri Formation (1987)(Sega).bin" size 131072 crc 2f2e3bc9 md5 605b0c360075876b4a0be479679d1075 )
+)
+
+game (
+	name "Tri Formation (1987)(Sega)[b2]"
+	description "Tri Formation (1987)(Sega)[b2]"
+	rom ( name "Tri Formation (1987)(Sega)[b2].bin" size 262144 crc 3328b900 md5 c870b3916f3868c4617da2f4968b6d3e )
+)
+
+game (
+	name "Tri Formation (1987)(Sega)[b]"
+	description "Tri Formation (1987)(Sega)[b]"
+	rom ( name "Tri Formation (1987)(Sega)[b].bin" size 131072 crc f0f81241 md5 e1403a73c88bc3e6cec8285cf58c50e5 )
+)
+
+game (
+	name "Trivial Pursuit (1992)(Domark)"
+	description "Trivial Pursuit (1992)(Domark)"
+	rom ( name "Trivial Pursuit (1992)(Domark).bin" size 524288 crc e5374022 md5 87d44f3416d4f31959b583d0d460c7fb )
+)
+
+game (
+	name "Ttoriui Moheom (1986)(Coreland)(KR)"
+	description "Ttoriui Moheom (1986)(Coreland)(KR)"
+	rom ( name "Ttoriui Moheom (1986)(Coreland)(KR).bin" size 32768 crc 178801d2 md5 66363591ca2894c48876f416d5adbe75 )
+)
+
+game (
+	name "Turma da Monica em - O Resgate (1993)(TecToy)(BR)"
+	description "Turma da Monica em - O Resgate (1993)(TecToy)(BR)"
+	rom ( name "Turma da Monica em - O Resgate (1993)(TecToy)(BR).bin" size 262144 crc 22cca9bb md5 56b3436304b8cecfe4e321ca029d5e80 )
+)
+
+game (
+	name "Ultima III Rev 20060513 (2006)(-)[p]"
+	description "Ultima III Rev 20060513 (2006)(-)[p]"
+	rom ( name "Ultima III Rev 20060513 (2006)(-)[p].bin" size 31233 crc 4e9cc98f md5 a74571b7a085b3849e2d2952c857919e )
+)
+
+game (
+	name "Ultima IV (1989)(Sega)(beta)"
+	description "Ultima IV (1989)(Sega)(beta)"
+	rom ( name "Ultima IV (1989)(Sega)(beta).bin" size 524288 crc de9f8517 md5 d92b72c87179b718c8b1506b347c2e36 )
+)
+
+game (
+	name "Ultima IV (1990)(Sega)"
+	description "Ultima IV (1990)(Sega)"
+	rom ( name "Ultima IV (1990)(Sega).bin" size 524288 crc b52d60c8 md5 c54c1a2559cec189f53e794177d002af )
+)
+
+game (
+	name "Ultima IV (1990)(Sega)[tr de]"
+	description "Ultima IV (1990)(Sega)[tr de]"
+	rom ( name "Ultima IV (1990)(Sega)[tr de].bin" size 524288 crc 19d64680 md5 995d2dd0080347adc7f3a88b3853b463 )
+)
+
+game (
+	name "Ultimate Soccer (1993)(Sega)"
+	description "Ultimate Soccer (1993)(Sega)"
+	rom ( name "Ultimate Soccer (1993)(Sega).bin" size 262144 crc 15668ca4 md5 c2c9a7942adb055ef08671c03648ed06 )
+)
+
+game (
+	name "Ultimate Soccer (1993)(Sega)[b]"
+	description "Ultimate Soccer (1993)(Sega)[b]"
+	rom ( name "Ultimate Soccer (1993)(Sega)[b].bin" size 262144 crc 7840d45c md5 8046f3a71387bbcf7dea012870330175 )
+)
+
+game (
+	name "Vampire (1992)(Sega)"
+	description "Vampire (1992)(Sega)"
+	rom ( name "Vampire (1992)(Sega).bin" size 262144 crc 20f40cae md5 6ccf82ff6296fa9365b919de424dd3d9 )
+)
+
+game (
+	name "Vampire (1992)(Sega)[b]"
+	description "Vampire (1992)(Sega)[b]"
+	rom ( name "Vampire (1992)(Sega)[b].bin" size 262144 crc 39540619 md5 93e5022cc65ee31e3821aac5dcdfed2b )
+)
+
+game (
+	name "Vampire (1992)(Sega)[tr fr]"
+	description "Vampire (1992)(Sega)[tr fr]"
+	rom ( name "Vampire (1992)(Sega)[tr fr].bin" size 262144 crc 720b6973 md5 8ec2bd384f3e903c13c7a4927ddeb0b7 )
+)
+
+game (
+	name "Vigilante (1988)(Sega)"
+	description "Vigilante (1988)(Sega)"
+	rom ( name "Vigilante (1988)(Sega).bin" size 262144 crc dfb0b161 md5 6deabfc15d9aeb4c8ed1b641fb950de5 )
+)
+
+game (
+	name "Vigilante (1988)(Sega)[tr fr]"
+	description "Vigilante (1988)(Sega)[tr fr]"
+	rom ( name "Vigilante (1988)(Sega)[tr fr].bin" size 262144 crc a986542b md5 94c37886a7cbf586305b757f3f8ef378 )
+)
+
+game (
+	name "Virtua Fighter Animation (1996)(Sega)(BR)"
+	description "Virtua Fighter Animation (1996)(Sega)(BR)"
+	rom ( name "Virtua Fighter Animation (1996)(Sega)(BR).bin" size 1048576 crc 57f1545b md5 fdc90edb44d2a2236ab9c29d2f073d3c )
+)
+
+game (
+	name "Walter Payton Football (1989)(Sega)(US)"
+	description "Walter Payton Football (1989)(Sega)(US)"
+	rom ( name "Walter Payton Football (1989)(Sega)(US).bin" size 262144 crc 3d55759b md5 5d292f9c2fa5893fa520c8145b437a28 )
+)
+
+game (
+	name "Walter Payton Football (1989)(Sega)(US)[b]"
+	description "Walter Payton Football (1989)(Sega)(US)[b]"
+	rom ( name "Walter Payton Football (1989)(Sega)(US)[b].bin" size 524288 crc 73b9d9bb md5 5410e7a2e51de0837a0944bdd55e63a2 )
+)
+
+game (
+	name "Wanted (1989)(Sega)"
+	description "Wanted (1989)(Sega)"
+	rom ( name "Wanted (1989)(Sega).bin" size 131072 crc 5359762d md5 0070737ddb0a2e5e822f1d8f46437b07 )
+)
+
+game (
+	name "Where in the World is Carmen Sandiego (1988)(Parker Brothers)(BR)"
+	description "Where in the World is Carmen Sandiego (1988)(Parker Brothers)(BR)"
+	rom ( name "Where in the World is Carmen Sandiego (1988)(Parker Brothers)(BR).bin" size 131072 crc 88aa8ca6 md5 551e85dc05f12557a56a6528aab6421a )
+)
+
+game (
+	name "Where in the World is Carmen Sandiego (1988)(Parker Brothers)(US)"
+	description "Where in the World is Carmen Sandiego (1988)(Parker Brothers)(US)"
+	rom ( name "Where in the World is Carmen Sandiego (1988)(Parker Brothers)(US).bin" size 131072 crc 428b1e7c md5 29dcfcf773ceb9ef29b524183ad89d8c )
+)
+
+game (
+	name "Wimbledon (1992)(Sega)"
+	description "Wimbledon (1992)(Sega)"
+	rom ( name "Wimbledon (1992)(Sega).bin" size 262144 crc 912d92af md5 a7f1049812a4cd1f180dcd644b10145f )
+)
+
+game (
+	name "Wimbledon II (1993)(Sega)"
+	description "Wimbledon II (1993)(Sega)"
+	rom ( name "Wimbledon II (1993)(Sega).bin" size 262144 crc 7f3afe58 md5 41fa7c376327e7fa851103c0407e8e53 )
+)
+
+game (
+	name "Wolfchild (1993)(Virgin)"
+	description "Wolfchild (1993)(Virgin)"
+	rom ( name "Wolfchild (1993)(Virgin).bin" size 262144 crc 1f8efa1d md5 08eb9bf02f5eb4e238f791f27d65449a )
+)
+
+game (
+	name "Wonder Boy III (1989)(Sega)"
+	description "Wonder Boy III (1989)(Sega)"
+	rom ( name "Wonder Boy III (1989)(Sega).bin" size 262144 crc 679e1676 md5 e7f86c049e4bd8b26844ff62bd067d57 )
+)
+
+game (
+	name "Wonder Boy III (1989)(Sega)[b]"
+	description "Wonder Boy III (1989)(Sega)[b]"
+	rom ( name "Wonder Boy III (1989)(Sega)[b].bin" size 524288 crc da7762af md5 9be946359b8b11ff0ed12723e3790b2f )
+)
+
+game (
+	name "Wonder Boy III (1989)(Sega)[h2]"
+	description "Wonder Boy III (1989)(Sega)[h2]"
+	rom ( name "Wonder Boy III (1989)(Sega)[h2].bin" size 262144 crc d3c52b09 md5 91d5c6535e442154c44e83b1b14d2f64 )
+)
+
+game (
+	name "Wonder Boy III (1989)(Sega)[h3]"
+	description "Wonder Boy III (1989)(Sega)[h3]"
+	rom ( name "Wonder Boy III (1989)(Sega)[h3].bin" size 262144 crc 6259ae57 md5 82747680e4a467847b0a1afcf7542bc2 )
+)
+
+game (
+	name "Wonder Boy III (1989)(Sega)[h]"
+	description "Wonder Boy III (1989)(Sega)[h]"
+	rom ( name "Wonder Boy III (1989)(Sega)[h].bin" size 262144 crc ca500a43 md5 91b706ecf557d1bc123f1f4a1c59c4de )
+)
+
+game (
+	name "Wonder Boy III (1989)(Sega)[tr fr]"
+	description "Wonder Boy III (1989)(Sega)[tr fr]"
+	rom ( name "Wonder Boy III (1989)(Sega)[tr fr].bin" size 262144 crc 79ec738b md5 3f780a4b30384578c27157dbf5c21713 )
+)
+
+game (
+	name "Wonder Boy III (1989)(Sega)[tr sv]"
+	description "Wonder Boy III (1989)(Sega)[tr sv]"
+	rom ( name "Wonder Boy III (1989)(Sega)[tr sv].bin" size 262144 crc 42012b7d md5 e91a4da4f53b214704b3a99c4982f58e )
+)
+
+game (
+	name "Wonder Boy in Monster Land (1988)(Sega)(beta)"
+	description "Wonder Boy in Monster Land (1988)(Sega)(beta)"
+	rom ( name "Wonder Boy in Monster Land (1988)(Sega)(beta).bin" size 262144 crc 8312c429 md5 16be61f4de705cdd636d1fb1662e24de )
+)
+
+game (
+	name "Wonder Boy in Monster Land Rev 1 (1988)(Sega)"
+	description "Wonder Boy in Monster Land Rev 1 (1988)(Sega)"
+	rom ( name "Wonder Boy in Monster Land Rev 1 (1988)(Sega).bin" size 262144 crc 8cbef0c1 md5 8f8aaac492de96f2cfddb9d1a57dd979 )
+)
+
+game (
+	name "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[b]"
+	description "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[b]"
+	rom ( name "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[b].bin" size 262208 crc e15ba28b md5 f64bb247e973a34fec076d2429ebd013 )
+)
+
+game (
+	name "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[h2]"
+	description "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[h2]"
+	rom ( name "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[h2].bin" size 262144 crc d164fde7 md5 72dbe1772943a6778b8925cac1327148 )
+)
+
+game (
+	name "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[h3]"
+	description "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[h3]"
+	rom ( name "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[h3].bin" size 262144 crc 6a16dce4 md5 245cc3e7e3e06df3b76eda300a5b7b38 )
+)
+
+game (
+	name "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[h]"
+	description "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[h]"
+	rom ( name "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[h].bin" size 262144 crc 7522cf0a md5 b5bf57e09c429c8bada7640bfbab7e7d )
+)
+
+game (
+	name "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[tr es]"
+	description "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[tr es]"
+	rom ( name "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[tr es].bin" size 262144 crc 9d98fe7f md5 5b01cda11c5c73589ec250e3728dbb4a )
+)
+
+game (
+	name "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[tr fr]"
+	description "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[tr fr]"
+	rom ( name "Wonder Boy in Monster Land Rev 1 (1988)(Sega)[tr fr].bin" size 262144 crc 43933407 md5 90f1d3f397e6cb08da55ac42fc57d164 )
+)
+
+game (
+	name "Wonder Boy in Monster World (1992)(Sega)(beta)"
+	description "Wonder Boy in Monster World (1992)(Sega)(beta)"
+	rom ( name "Wonder Boy in Monster World (1992)(Sega)(beta).bin" size 524288 crc 81bff9bb md5 311aa03dcab8edcf9891397ac3297b72 )
+)
+
+game (
+	name "Wonder Boy in Monster World (1992)(Sega)(beta)[b]"
+	description "Wonder Boy in Monster World (1992)(Sega)(beta)[b]"
+	rom ( name "Wonder Boy in Monster World (1992)(Sega)(beta)[b].bin" size 524288 crc fa8b5f3d md5 323db4ec38ba7ce98bfd4a69f6f98217 )
+)
+
+game (
+	name "Wonder Boy in Monster World (1993)(Sega)"
+	description "Wonder Boy in Monster World (1993)(Sega)"
+	rom ( name "Wonder Boy in Monster World (1993)(Sega).bin" size 524288 crc 7d7ce80b md5 5837764c172c8c43c8c7b21f2144cf27 )
+)
+
+game (
+	name "Wonder Boy in Monster World (1993)(Sega)[h2]"
+	description "Wonder Boy in Monster World (1993)(Sega)[h2]"
+	rom ( name "Wonder Boy in Monster World (1993)(Sega)[h2].bin" size 524288 crc 693c63d5 md5 2b2085fcb48d247d269d808c6b6e59da )
+)
+
+game (
+	name "Wonder Boy in Monster World (1993)(Sega)[h3]"
+	description "Wonder Boy in Monster World (1993)(Sega)[h3]"
+	rom ( name "Wonder Boy in Monster World (1993)(Sega)[h3].bin" size 524288 crc 8cc9b324 md5 eed9f807b50063137daa42c814a4d37d )
+)
+
+game (
+	name "Wonder Boy in Monster World (1993)(Sega)[h4]"
+	description "Wonder Boy in Monster World (1993)(Sega)[h4]"
+	rom ( name "Wonder Boy in Monster World (1993)(Sega)[h4].bin" size 524288 crc 86f60ef6 md5 c063c7ae63d64a06db9a342e5ffa15e9 )
+)
+
+game (
+	name "Wonder Boy in Monster World (1993)(Sega)[h5]"
+	description "Wonder Boy in Monster World (1993)(Sega)[h5]"
+	rom ( name "Wonder Boy in Monster World (1993)(Sega)[h5].bin" size 524288 crc 458390e7 md5 3710b0e87de583fddcf149281d769136 )
+)
+
+game (
+	name "Wonder Boy in Monster World (1993)(Sega)[h]"
+	description "Wonder Boy in Monster World (1993)(Sega)[h]"
+	rom ( name "Wonder Boy in Monster World (1993)(Sega)[h].bin" size 524288 crc 11637350 md5 1f5544512f769cff4737698badcf3318 )
+)
+
+game (
+	name "Wonder Boy in Monster World (1993)(Sega)[tr fr]"
+	description "Wonder Boy in Monster World (1993)(Sega)[tr fr]"
+	rom ( name "Wonder Boy in Monster World (1993)(Sega)[tr fr].bin" size 524288 crc 5c87b0ae md5 1c29f09759bf9d91ef62427ed011b212 )
+)
+
+game (
+	name "Wonder Boy Rev 0 (1987)(Sega)"
+	description "Wonder Boy Rev 0 (1987)(Sega)"
+	rom ( name "Wonder Boy Rev 0 (1987)(Sega).bin" size 131072 crc e2fcb6f3 md5 a4e48850bf8799cfac74b1d33f5900b5 )
+)
+
+game (
+	name "Wonder Boy Rev 1 (1986)(Sega)[b2]"
+	description "Wonder Boy Rev 1 (1986)(Sega)[b2]"
+	rom ( name "Wonder Boy Rev 1 (1986)(Sega)[b2].bin" size 262144 crc 1076c897 md5 0c60c7fd7a680a73ef46e0719630a742 )
+)
+
+game (
+	name "Wonder Boy Rev 1 (1986)(Sega)[b3]"
+	description "Wonder Boy Rev 1 (1986)(Sega)[b3]"
+	rom ( name "Wonder Boy Rev 1 (1986)(Sega)[b3].bin" size 137488 crc 715e4e4c md5 8e03db287f33178708ed192c6ffe66e9 )
+)
+
+game (
+	name "Wonder Boy Rev 1 (1986)(Sega)[b]"
+	description "Wonder Boy Rev 1 (1986)(Sega)[b]"
+	rom ( name "Wonder Boy Rev 1 (1986)(Sega)[b].bin" size 262144 crc ec7cf033 md5 f70b30b2dec481abb076e5c348d6b912 )
+)
+
+game (
+	name "Wonder Boy Rev 1 (1986)(Sega)[h2]"
+	description "Wonder Boy Rev 1 (1986)(Sega)[h2]"
+	rom ( name "Wonder Boy Rev 1 (1986)(Sega)[h2].bin" size 131072 crc 947db11a md5 8441047dabbc3544b7c450f6a6300a53 )
+)
+
+game (
+	name "Wonder Boy Rev 1 (1986)(Sega)[h]"
+	description "Wonder Boy Rev 1 (1986)(Sega)[h]"
+	rom ( name "Wonder Boy Rev 1 (1986)(Sega)[h].bin" size 131072 crc 1ee6e034 md5 ca36594c0e30e4e98534ed76f4802adb )
+)
+
+game (
+	name "Wonder Boy Rev 1 (1987)(Sega)"
+	description "Wonder Boy Rev 1 (1987)(Sega)"
+	rom ( name "Wonder Boy Rev 1 (1987)(Sega).bin" size 131072 crc 73705c02 md5 7e805aa51bfb5f206c950a32ebcdab7c )
+)
+
+game (
+	name "Woody Pop (1987)(Sega)(JP)"
+	description "Woody Pop (1987)(Sega)(JP)"
+	rom ( name "Woody Pop (1987)(Sega)(JP).bin" size 32768 crc 315917d4 md5 1b1b6051027806a98e9947b5ae5f0076 )
+)
+
+game (
+	name "World Class Leader Board (1991)(U.S. Gold)"
+	description "World Class Leader Board (1991)(U.S. Gold)"
+	rom ( name "World Class Leader Board (1991)(U.S. Gold).bin" size 262144 crc c9a449b7 md5 dd04608b2b64f11dd9dc4f7db7972650 )
+)
+
+game (
+	name "World Cup Italia '90 (1990)(Sega)"
+	description "World Cup Italia '90 (1990)(Sega)"
+	rom ( name "World Cup Italia '90 (1990)(Sega).bin" size 131072 crc 6e1ad6fd md5 a19d4a16be24106cd48b283b5bad5023 )
+)
+
+game (
+	name "World Cup Italia '90 (1990)(Sega)[b]"
+	description "World Cup Italia '90 (1990)(Sega)[b]"
+	rom ( name "World Cup Italia '90 (1990)(Sega)[b].bin" size 131584 crc 1ed55767 md5 fa2e0cc01c8c7c801fb894003a5753da )
+)
+
+game (
+	name "World Cup Italia '90 (1990)(Sega)[tr pt]"
+	description "World Cup Italia '90 (1990)(Sega)[tr pt]"
+	rom ( name "World Cup Italia '90 (1990)(Sega)[tr pt].bin" size 131072 crc 2377fa48 md5 44b3ecdf172407de48fe5d31e72f712a )
+)
+
+game (
+	name "World Cup USA 94 (1994)(U.S. Gold)"
+	description "World Cup USA 94 (1994)(U.S. Gold)"
+	rom ( name "World Cup USA 94 (1994)(U.S. Gold).bin" size 524288 crc a6bf8f9e md5 aa8ddf472a9b0c4b26f91ab13fbc66de )
+)
+
+game (
+	name "World Games (1986)(Epyx)"
+	description "World Games (1986)(Epyx)"
+	rom ( name "World Games (1986)(Epyx).bin" size 131072 crc a2a60bc8 md5 87a479d66e88464d45d87cad77c2b3fe )
+)
+
+game (
+	name "World Games (1986)(Epyx)(beta)"
+	description "World Games (1986)(Epyx)(beta)"
+	rom ( name "World Games (1986)(Epyx)(beta).bin" size 131072 crc 914d3fc4 md5 af5be770da3f73e01847c44ad97226d3 )
+)
+
+game (
+	name "World Grand Prix (1986)(Sega)"
+	description "World Grand Prix (1986)(Sega)"
+	rom ( name "World Grand Prix (1986)(Sega).bin" size 131072 crc 4aaad0d6 md5 72b55720de75072a2feceab9ca4367b0 )
+)
+
+game (
+	name "World Grand Prix (1986)(Sega)(US)"
+	description "World Grand Prix (1986)(Sega)(US)"
+	rom ( name "World Grand Prix (1986)(Sega)(US).bin" size 131072 crc 7b369892 md5 75550fca836414ce7286c294d03c1b04 )
+)
+
+game (
+	name "World Grand Prix (1986)(Sega)[b]"
+	description "World Grand Prix (1986)(Sega)[b]"
+	rom ( name "World Grand Prix (1986)(Sega)[b].bin" size 262144 crc ff6e23b0 md5 1438d8e9fdb16555737b98ec0009363d )
+)
+
+game (
+	name "World Soccer (1987)(Sega)"
+	description "World Soccer (1987)(Sega)"
+	rom ( name "World Soccer (1987)(Sega).bin" size 131072 crc 72112b75 md5 5f008423ae6a454bc70e94a8c9f33d1c )
+)
+
+game (
+	name "World Soccer (1987)(Sega)[b]"
+	description "World Soccer (1987)(Sega)[b]"
+	rom ( name "World Soccer (1987)(Sega)[b].bin" size 262144 crc bae431a4 md5 d4fdf5239344e8002dae2217e63365ce )
+)
+
+game (
+	name "WWF WrestleMania Steel Cage Challenge (1993)(Acclaim)"
+	description "WWF WrestleMania Steel Cage Challenge (1993)(Acclaim)"
+	rom ( name "WWF WrestleMania Steel Cage Challenge (1993)(Acclaim).bin" size 262144 crc 2db21448 md5 5db168808d3b4756c8c5f8b836a7b05a )
+)
+
+game (
+	name "X-Men - Mojo World (1996)(Sega)(BR)"
+	description "X-Men - Mojo World (1996)(Sega)(BR)"
+	rom ( name "X-Men - Mojo World (1996)(Sega)(BR).bin" size 524288 crc 3e1387f6 md5 758a1e837e51669700c0a2379e90d993 )
+)
+
+game (
+	name "Xenon 2 (1992)(Virgin)"
+	description "Xenon 2 (1992)(Virgin)"
+	rom ( name "Xenon 2 (1992)(Virgin).bin" size 262144 crc ec726c0d md5 27fba4b7db989c663dda11c255cf49f3 )
+)
+
+game (
+	name "Xenon 2 (1992)(Virgin)[b]"
+	description "Xenon 2 (1992)(Virgin)[b]"
+	rom ( name "Xenon 2 (1992)(Virgin)[b].bin" size 262144 crc f13e118d md5 c59388f474b2500983315536687d230f )
+)
+
+game (
+	name "Xenon 2 (199x)(Image Works)"
+	description "Xenon 2 (199x)(Image Works)"
+	rom ( name "Xenon 2 (199x)(Image Works).bin" size 262144 crc 5c205ee1 md5 1f1ce1d74c416f2b85cc3f24d316f9e3 )
+)
+
+game (
+	name "XVII Olympic Winter Olympics Games, The - Lillehammer 1994 (1993)(U.S. Gold)"
+	description "XVII Olympic Winter Olympics Games, The - Lillehammer 1994 (1993)(U.S. Gold)"
+	rom ( name "XVII Olympic Winter Olympics Games, The - Lillehammer 1994 (1993)(U.S. Gold).bin" size 524288 crc a20290b6 md5 6046d9ee439f3c76eb6713eea8ba984b )
+)
+
+game (
+	name "XVII Olympic Winter Olympics Games, The - Lillehammer 1994 (1993)(U.S. Gold)(BR)"
+	description "XVII Olympic Winter Olympics Games, The - Lillehammer 1994 (1993)(U.S. Gold)(BR)"
+	rom ( name "XVII Olympic Winter Olympics Games, The - Lillehammer 1994 (1993)(U.S. Gold)(BR).bin" size 524288 crc 2fec2b4a md5 d3bcf99a883e14a2f9df8dd92662710f )
+)
+
+game (
+	name "Ys - Ancient Ys Vanished Omen (1988)(Sega)"
+	description "Ys - Ancient Ys Vanished Omen (1988)(Sega)"
+	rom ( name "Ys - Ancient Ys Vanished Omen (1988)(Sega).bin" size 262144 crc b33e2827 md5 77d2ff054429f7970134e67800539a78 )
+)
+
+game (
+	name "Ys - Ancient Ys Vanished Omen (1988)(Sega)(JP)"
+	description "Ys - Ancient Ys Vanished Omen (1988)(Sega)(JP)"
+	rom ( name "Ys - Ancient Ys Vanished Omen (1988)(Sega)(JP).bin" size 262144 crc 32759751 md5 17364162da3ccee847850dd9b403765c )
+)
+
+game (
+	name "Ys - Ancient Ys Vanished Omen (1988)(Sega)[tr fr]"
+	description "Ys - Ancient Ys Vanished Omen (1988)(Sega)[tr fr]"
+	rom ( name "Ys - Ancient Ys Vanished Omen (1988)(Sega)[tr fr].bin" size 262144 crc afd29460 md5 5cbd34634399815622e472527585ecc2 )
+)
+
+game (
+	name "Zaxxon 3D (1987)(Sega)"
+	description "Zaxxon 3D (1987)(Sega)"
+	rom ( name "Zaxxon 3D (1987)(Sega).bin" size 262144 crc a3ef13cb md5 882dc10b0792be579a745c3f38010642 )
+)
+
+game (
+	name "Zaxxon 3D (1987)(Sega)(beta)"
+	description "Zaxxon 3D (1987)(Sega)(beta)"
+	rom ( name "Zaxxon 3D (1987)(Sega)(beta).bin" size 262144 crc bba74147 md5 177eaaa2cab1df16a6b9a372d7d4846a )
+)
+
+game (
+	name "Zillion Rev 0 (1987)(Sega)"
+	description "Zillion Rev 0 (1987)(Sega)"
+	rom ( name "Zillion Rev 0 (1987)(Sega).bin" size 131072 crc 60c19645 md5 8de18c864fc9379c27d7430c1f209eeb )
+)
+
+game (
+	name "Zillion Rev 1 (1987)(Sega)(US)"
+	description "Zillion Rev 1 (1987)(Sega)(US)"
+	rom ( name "Zillion Rev 1 (1987)(Sega)(US).bin" size 131072 crc 5718762c md5 d4bf9e7bcf9a48da53785d2ae7bc4270 )
+)
+
+game (
+	name "Zillion Rev 1 (1987)(Sega)(US)[b2]"
+	description "Zillion Rev 1 (1987)(Sega)(US)[b2]"
+	rom ( name "Zillion Rev 1 (1987)(Sega)(US)[b2].bin" size 262144 crc 206bcf81 md5 62c5a92f1d9eb59c48e9158cdf41a20b )
+)
+
+game (
+	name "Zillion Rev 1 (1987)(Sega)(US)[b3]"
+	description "Zillion Rev 1 (1987)(Sega)(US)[b3]"
+	rom ( name "Zillion Rev 1 (1987)(Sega)(US)[b3].bin" size 262144 crc acbebb10 md5 d493d7a0f3037754b9be4d5b02d8faba )
+)
+
+game (
+	name "Zillion Rev 1 (1987)(Sega)(US)[b]"
+	description "Zillion Rev 1 (1987)(Sega)(US)[b]"
+	rom ( name "Zillion Rev 1 (1987)(Sega)(US)[b].bin" size 262144 crc f21a8f56 md5 449506c58ed4ec3fa286187f8a044cc3 )
+)
+
+game (
+	name "Zillion Rev 1 (1987)(Sega)(US)[tr fr]"
+	description "Zillion Rev 1 (1987)(Sega)(US)[tr fr]"
+	rom ( name "Zillion Rev 1 (1987)(Sega)(US)[tr fr].bin" size 131072 crc e51f3d1b md5 b24e23f2786528add8d17a0645caea77 )
+)
+
+game (
+	name "Zillion Rev 1 (1987)(Sega)(US)[tr pt]"
+	description "Zillion Rev 1 (1987)(Sega)(US)[tr pt]"
+	rom ( name "Zillion Rev 1 (1987)(Sega)(US)[tr pt].bin" size 131072 crc dabc7c0e md5 b495515ee5c85dab1eda9fed0711d8d6 )
+)
+
+game (
+	name "Zillion Rev 2 (1987)(Sega)"
+	description "Zillion Rev 2 (1987)(Sega)"
+	rom ( name "Zillion Rev 2 (1987)(Sega).bin" size 131072 crc 7ba54510 md5 de62e3fd5411f78dd9d0958eec85bcce )
+)
+
+game (
+	name "Zool (1993)(Sega)"
+	description "Zool (1993)(Sega)"
+	rom ( name "Zool (1993)(Sega).bin" size 262144 crc 9d9d0a5f md5 42fb44c9a2c82b8c4aef8191c1b5676f )
+)
+

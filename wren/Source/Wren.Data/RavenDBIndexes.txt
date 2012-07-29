@@ -1,0 +1,17 @@
+﻿UsersByName:
+	Map:
+		from doc in docs
+        where doc.ObjectType=="User"
+        select new { doc.LoweredUsername }
+
+AchievementDefinitionsByDate:
+	Map:
+		from doc in docs
+		where doc.ObjectType=="AchievementDefinition"
+		select new { doc.TimeStamp }
+
+AchievementStateByUserAndDate:
+	Map:
+		from doc in docs
+		where doc.ObjectType=="AchievementState"
+		select new { doc.UserId, doc.ServerDate }

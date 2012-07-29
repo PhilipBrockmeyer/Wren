@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{CA3A71E4-5870-4374-A13F-7622CC4224FB}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Wren.Emulation.MasterSystem</RootNamespace>
+    <AssemblyName>Wren.Emulation.MasterSyste</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Debug\Wren.Emulation.MasterSyste.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisLogFile>bin\Release\Wren.Emulation.MasterSyste.dll.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;c:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddressBlock.cs" />
+    <Compile Include="AddressManager.cs" />
+    <Compile Include="CacheManager.cs" />
+    <Compile Include="Cpu\ArithmeticAndLogic\AdditionFlagsCalculator.cs" />
+    <Compile Include="Cpu\ArithmeticAndLogic\AdditionWithCarryFlagsCalculator.cs" />
+    <Compile Include="Cpu\ArithmeticAndLogic\DecrementFlagsCalculator.cs" />
+    <Compile Include="Cpu\ArithmeticAndLogic\FlagCalculator.cs" />
+    <Compile Include="Cpu\ArithmeticAndLogic\IncrementFlagsCalculator.cs" />
+    <Compile Include="Cpu\ArithmeticAndLogic\SignZeroParityFlagsCalculator.cs" />
+    <Compile Include="Cpu\ArithmeticAndLogic\SubtractionFlagsCalculator.cs" />
+    <Compile Include="ArraySystemBus.cs" />
+    <Compile Include="Cpu\Assembler\CharacterExtensions.cs" />
+    <Compile Include="Cpu\Assembler\Compiler.cs" />
+    <Compile Include="Cpu\Assembler\ExpressionRegistryHelper.cs" />
+    <Compile Include="Cpu\Assembler\Lexar.cs" />
+    <Compile Include="Cpu\Assembler\ParameterNode.cs" />
+    <Compile Include="Cpu\Assembler\Parser.cs" />
+    <Compile Include="Cpu\Assembler\ParseTree.cs" />
+    <Compile Include="Cpu\Assembler\StatementNode.cs" />
+    <Compile Include="Cpu\Assembler\Symbol.cs" />
+    <Compile Include="Cpu\Assembler\SymbolTable.cs" />
+    <Compile Include="Cpu\Assembler\Token.cs" />
+    <Compile Include="Cpu\Assembler\Tokens.cs" />
+    <Compile Include="Cpu\Assembler\UnexpectedTokenException.cs" />
+    <Compile Include="Cartridge.cs" />
+    <Compile Include="BreakpointHandler.cs" />
+    <Compile Include="Cpu\CpuAssemblyBuilder.cs" />
+    <Compile Include="Cpu\CBInstructionSpaceBuilder.cs" />
+    <Compile Include="Cpu\Disassembler\Disassembler.cs" />
+    <Compile Include="Exceptions\InstructionExecutionException.cs" />
+    <Compile Include="Exceptions\ReadOnlyException.cs" />
+    <Compile Include="Exceptions\UnknownInstructionException.cs" />
+    <Compile Include="Cpu\ExpressionLibraries\IInteruptExpressionLibrary.cs" />
+    <Compile Include="Cpu\ExpressionLibraries\InteruptExpressionLibrary.cs" />
+    <Compile Include="Cpu\ExpressionLibraries\IPrimeRegistersExpressionLibrary.cs" />
+    <Compile Include="Cpu\ExpressionLibraries\IProgramControlExpressionLibrary.cs" />
+    <Compile Include="Cpu\ExpressionLibraries\PrimeRegisterExpressionLibrary.cs" />
+    <Compile Include="Cpu\ArithmeticAndLogic\SubtractionWithCarryFlagsCalculator.cs" />
+    <Compile Include="Cpu\FlagTable.cs" />
+    <Compile Include="Cpu\FlagTables.cs" />
+    <Compile Include="GamepadPorts.cs" />
+    <Compile Include="IAddressManager.cs" />
+    <Compile Include="Cpu\IInstructionAdvice.cs" />
+    <Compile Include="Cpu\IInstructionScanner.cs" />
+    <Compile Include="Cpu\IInstructionSpaceBuilder.cs" />
+    <Compile Include="Cpu\IInstructionExpressionBuilder.cs" />
+    <Compile Include="IInteruptManager.cs" />
+    <Compile Include="Cpu\InstructionAdvice\InstructionCalls.cs" />
+    <Compile Include="Cpu\InstructionAdvice\CallStack.cs" />
+    <Compile Include="Cpu\InstructionAdvice\DisplayInstructionInDebugConsole.cs" />
+    <Compile Include="Cpu\InstructionAdvice\FilteredInstructionAdvice.cs" />
+    <Compile Include="Cpu\InstructionAdvice\InstructionBroadcaster.cs" />
+    <Compile Include="Cpu\InstructionAdvice\RecentHistory.cs" />
+    <Compile Include="Cpu\InstructionExpressionBuilder.cs" />
+    <Compile Include="Cpu\CpuContext.cs" />
+    <Compile Include="Cpu\CpuData.cs" />
+    <Compile Include="Exceptions\InvalidFlagCalculatorException.cs" />
+    <Compile Include="Exceptions\InvalidInstructionDependencyException.cs" />
+    <Compile Include="Exceptions\LibraryNotRegisteredException.cs" />
+    <Compile Include="Exceptions\NullExpressionException.cs" />
+    <Compile Include="Cpu\ExpressionBuilder.cs" />
+    <Compile Include="Cpu\ExpressionLibraries\ProgramControlExpressionLibrary.cs" />
+    <Compile Include="Cpu\ExpressionLibraries\DataAccessExpressionLibrary.cs" />
+    <Compile Include="Cpu\ExpressionLibraries\FlagLookupValuesExpressionLibrary.cs" />
+    <Compile Include="Cpu\ExpressionLibraries\IDataAccessExpressionLibrary.cs" />
+    <Compile Include="Cpu\ExpressionLibraries\IFlagLookupValuesExpressionLibrary.cs" />
+    <Compile Include="Cpu\ExpressionLibraries\ITemporaryExpressionLibrary.cs" />
+    <Compile Include="Cpu\ExpressionLibraries\TemporaryExpressionLibrary.cs" />
+    <Compile Include="Cpu\ExpressionLibraryRegistry.cs" />
+    <Compile Include="Cpu\Flags.cs" />
+    <Compile Include="Cpu\FlagTableLoader.cs" />
+    <Compile Include="Cpu\ICpu.cs" />
+    <Compile Include="Cpu\IExpressionLibrary.cs" />
+    <Compile Include="Cpu\IExpressionLibraryRegistry.cs" />
+    <Compile Include="Cpu\IFlagCalculator.cs" />
+    <Compile Include="Cpu\InstructionAttribute.cs" />
+    <Compile Include="Cpu\InstructionInfo.cs" />
+    <Compile Include="Cpu\InstructionParameterMode.cs" />
+    <Compile Include="Cpu\InstructionScanner.cs" />
+    <Compile Include="Cpu\DefaultInstructionSpaceBuilder.cs" />
+    <Compile Include="Cpu\Instructions\AddInstruction.cs" />
+    <Compile Include="Cpu\ICpuContext.cs" />
+    <Compile Include="Cpu\Instructions\AddWithCarryInstruction.cs" />
+    <Compile Include="Cpu\Instructions\AndInstruction.cs" />
+    <Compile Include="Cpu\Instructions\BlockTransferInstructions.cs" />
+    <Compile Include="Cpu\Instructions\CallInstruction.cs" />
+    <Compile Include="Cpu\Instructions\CompareInstruction.cs" />
+    <Compile Include="Cpu\Instructions\DecimalAdjustAccumulatorInstruction.cs" />
+    <Compile Include="Cpu\Instructions\DecrementInstruction.cs" />
+    <Compile Include="Cpu\Instructions\ExchangeInstruction.cs" />
+    <Compile Include="Cpu\Instructions\IncrementInstruction.cs" />
+    <Compile Include="Cpu\InstructionSpace.cs" />
+    <Compile Include="Cpu\Instructions\InteruptInstructions.cs" />
+    <Compile Include="Cpu\Instructions\JumpInstruction.cs" />
+    <Compile Include="Cpu\Instructions\LoadInstruction.cs" />
+    <Compile Include="Cpu\Instructions\MiscInstructions.cs" />
+    <Compile Include="Cpu\Instructions\NoOperationInstruction.cs" />
+    <Compile Include="Cpu\Instructions\OrInstruction.cs" />
+    <Compile Include="Cpu\Instructions\PopInstruction.cs" />
+    <Compile Include="Cpu\Instructions\PortInstructions.cs" />
+    <Compile Include="Cpu\Instructions\PushInstruction.cs" />
+    <Compile Include="Cpu\Instructions\ReadBitInstruction.cs" />
+    <Compile Include="Cpu\Instructions\ResetBitInstruction.cs" />
+    <Compile Include="Cpu\Instructions\ReturnInstruction.cs" />
+    <Compile Include="Cpu\Instructions\RotateAInstruction.cs" />
+    <Compile Include="Cpu\Instructions\RotateInstruction.cs" />
+    <Compile Include="Cpu\Instructions\SearchBlockInstruction.cs" />
+    <Compile Include="Cpu\Instructions\SetBitInstruction.cs" />
+    <Compile Include="Cpu\Instructions\ShiftInstruction.cs" />
+    <Compile Include="Cpu\Instructions\SubtractInstruction.cs" />
+    <Compile Include="Cpu\Instructions\SubtractWithCarryInstruction.cs" />
+    <Compile Include="Cpu\Instructions\XorInstruction.cs" />
+    <Compile Include="InteruptManager.cs" />
+    <Compile Include="Interupts.cs" />
+    <Compile Include="IPortManager.cs" />
+    <Compile Include="ISystemBus.cs" />
+    <Compile Include="ISystemComponent.cs" />
+    <Compile Include="PortManager.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\FieldNames.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FieldNames.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ComponentManager.cs" />
+    <Compile Include="Ram.cs" />
+    <Compile Include="ReferenceImplementation.cs" />
+    <Compile Include="SmsEmulator.cs" />
+    <Compile Include="SN76489.cs" />
+    <Compile Include="SystemBus.cs" />
+    <Compile Include="UnknownPorts.cs" />
+    <Compile Include="VideoDisplayProcessor.cs" />
+    <Compile Include="VideoDisplaySettings.cs" />
+    <Compile Include="YM2413.cs" />
+    <Compile Include="Z80Cpu.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\FieldNames.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>FieldNames.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Wren.CoreModule\Wren.Module.Core.csproj">
+      <Project>{6EF34768-D4F4-4DD9-B3DA-CEB4B77225C9}</Project>
+      <Name>Wren.Module.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Wren.Core\Wren.Core.csproj">
+      <Project>{8D5DDFF9-1931-4DEC-9B3A-CA1A2DBC707E}</Project>
+      <Name>Wren.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

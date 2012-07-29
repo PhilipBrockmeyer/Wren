@@ -1,0 +1,73 @@
+﻿<UserControl x:Class="Wren.Views.SmsInputView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="600">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="0.4*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="0.4*" />
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Player 1" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" Foreground="Goldenrod" FontWeight="Bold" FontSize="18"/>
+        <TextBlock Text="Player 2" Grid.Row="0" Grid.Column="3" VerticalAlignment="Center" Foreground="Goldenrod" FontWeight="Bold" FontSize="18"/>
+
+        <TextBlock Text="Up:" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White" FontSize="16"/>
+        <TextBlock Text="Down:" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White" FontSize="16"/>
+        <TextBlock Text="Left:" Grid.Row="3" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White" FontSize="16"/>
+        <TextBlock Text="Right:" Grid.Row="4" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White" FontSize="16"/>
+        <TextBlock Text="Button 1:" Grid.Row="5" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White" FontSize="16"/>
+        <TextBlock Text="Button 2:" Grid.Row="6" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White" FontSize="16"/>
+
+        <TextBox IsReadOnly="True" Text="{Binding Path=PlayerOneUp}" Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" Margin="5" PreviewKeyDown="AddKey_P1_Up" x:Name="p1up"/>
+        <TextBox IsReadOnly="True" Text="{Binding Path=PlayerOneDown}" Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" Margin="5" PreviewKeyDown="AddKey_P1_Down" x:Name="p1down"/>
+        <TextBox IsReadOnly="True" Text="{Binding Path=PlayerOneLeft}" Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" Margin="5" PreviewKeyDown="AddKey_P1_Left" x:Name="p1left"/>
+        <TextBox IsReadOnly="True" Text="{Binding Path=PlayerOneRight}" Grid.Row="4" Grid.Column="1" VerticalAlignment="Center" Margin="5" PreviewKeyDown="AddKey_P1_Right" x:Name="p1right"/>
+        <TextBox IsReadOnly="True" Text="{Binding Path=PlayerOneA}" Grid.Row="5" Grid.Column="1" VerticalAlignment="Center" Margin="5" PreviewKeyDown="AddKey_P1_A" x:Name="p1a"/>
+        <TextBox IsReadOnly="True" Text="{Binding Path=PlayerOneB}" Grid.Row="6" Grid.Column="1" VerticalAlignment="Center" Margin="5" PreviewKeyDown="AddKey_P1_B" x:Name="p1b"/>
+
+        <Button Content="X" Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" Width="22" Click="Clear_P1_Up" />
+        <Button Content="X" Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" Width="22" Click="Clear_P1_Down"/>
+        <Button Content="X" Grid.Row="3" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" Width="22" Click="Clear_P1_Left"/>
+        <Button Content="X" Grid.Row="4" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" Width="22" Click="Clear_P1_Right"/>
+        <Button Content="X" Grid.Row="5" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" Width="22" Click="Clear_P1_A"/>
+        <Button Content="X" Grid.Row="6" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" Width="22" Click="Clear_P1_B"/>       
+        
+        <TextBlock Text="Up:" Grid.Row="1" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White" FontSize="16"/>
+        <TextBlock Text="Down:" Grid.Row="2" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White" FontSize="16"/>
+        <TextBlock Text="Left:" Grid.Row="3" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White" FontSize="16"/>
+        <TextBlock Text="Right:" Grid.Row="4" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White" FontSize="16"/>
+        <TextBlock Text="Button 1:" Grid.Row="5" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White" FontSize="16"/>
+        <TextBlock Text="Button 2:" Grid.Row="6" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White" FontSize="16"/>
+
+        <TextBox IsReadOnly="True" Text="{Binding Path=PlayerTwoUp}" Grid.Row="1" Grid.Column="4" VerticalAlignment="Center" Margin="5" PreviewKeyDown="AddKey_P2_Up" x:Name="p2up"/>
+        <TextBox IsReadOnly="True" Text="{Binding Path=PlayerTwoDown}" Grid.Row="2" Grid.Column="4" VerticalAlignment="Center" Margin="5" PreviewKeyDown="AddKey_P2_Down" x:Name="p2down"/>
+        <TextBox IsReadOnly="True" Text="{Binding Path=PlayerTwoLeft}" Grid.Row="3" Grid.Column="4" VerticalAlignment="Center" Margin="5" PreviewKeyDown="AddKey_P2_Left" x:Name="p2left"/>
+        <TextBox IsReadOnly="True" Text="{Binding Path=PlayerTwoRight}" Grid.Row="4" Grid.Column="4" VerticalAlignment="Center" Margin="5" PreviewKeyDown="AddKey_P2_Right" x:Name="p2right"/>
+        <TextBox IsReadOnly="True" Text="{Binding Path=PlayerTwoA}" Grid.Row="5" Grid.Column="4" VerticalAlignment="Center" Margin="5" PreviewKeyDown="AddKey_P2_A" x:Name="p2a"/>
+        <TextBox IsReadOnly="True" Text="{Binding Path=PlayerTwoB}" Grid.Row="6" Grid.Column="4" VerticalAlignment="Center" Margin="5" PreviewKeyDown="AddKey_P2_B" x:Name="p2b"/>
+
+        <Button Content="X" Grid.Row="1" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center" Width="22" Click="Clear_P2_Up"/>
+        <Button Content="X" Grid.Row="2" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center" Width="22" Click="Clear_P2_Down"/>
+        <Button Content="X" Grid.Row="3" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center" Width="22" Click="Clear_P2_Left"/>
+        <Button Content="X" Grid.Row="4" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center" Width="22" Click="Clear_P2_Right"/>
+        <Button Content="X" Grid.Row="5" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center" Width="22" Click="Clear_P2_A"/>
+        <Button Content="X" Grid.Row="6" Grid.Column="5" VerticalAlignment="Center" HorizontalAlignment="Center" Width="22" Click="Clear_P2_B"/>
+    </Grid>
+</UserControl>
