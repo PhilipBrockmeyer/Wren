@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wren.Module.MasterSystem", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wren.Transport", "Wren.Transport\Wren.Transport.csproj", "{69B31657-EB68-432A-98DB-CC09FE5800B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wren.Web", "Wren.Web\Wren.Web.csproj", "{0947993B-11E3-410F-9A24-B57DF611F085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wren.Data", "Wren.Data\Wren.Data.csproj", "{21698A8F-CD9C-48E9-8D73-45644F4138C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -109,6 +113,20 @@ Global
 		{69B31657-EB68-432A-98DB-CC09FE5800B8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{69B31657-EB68-432A-98DB-CC09FE5800B8}.Release|x86.ActiveCfg = Release|x86
 		{69B31657-EB68-432A-98DB-CC09FE5800B8}.Release|x86.Build.0 = Release|x86
+		{0947993B-11E3-410F-9A24-B57DF611F085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0947993B-11E3-410F-9A24-B57DF611F085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0947993B-11E3-410F-9A24-B57DF611F085}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0947993B-11E3-410F-9A24-B57DF611F085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0947993B-11E3-410F-9A24-B57DF611F085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0947993B-11E3-410F-9A24-B57DF611F085}.Release|x86.ActiveCfg = Release|Any CPU
+		{21698A8F-CD9C-48E9-8D73-45644F4138C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21698A8F-CD9C-48E9-8D73-45644F4138C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21698A8F-CD9C-48E9-8D73-45644F4138C8}.Debug|x86.ActiveCfg = Debug|x86
+		{21698A8F-CD9C-48E9-8D73-45644F4138C8}.Debug|x86.Build.0 = Debug|x86
+		{21698A8F-CD9C-48E9-8D73-45644F4138C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21698A8F-CD9C-48E9-8D73-45644F4138C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21698A8F-CD9C-48E9-8D73-45644F4138C8}.Release|x86.ActiveCfg = Release|x86
+		{21698A8F-CD9C-48E9-8D73-45644F4138C8}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

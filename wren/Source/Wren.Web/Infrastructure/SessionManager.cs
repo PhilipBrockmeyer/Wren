@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using Raven.Client;
 using Wren.Services.Core;
 using NHibernate;
 

@@ -3,3 +3,8 @@ C:\Dev\Wren\Source\Wren.Transport\bin\x86\Debug\Wren.Transport.pdb
 C:\Dev\Wren\Source\Wren.Transport\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Dev\Wren\Source\Wren.Transport\obj\x86\Debug\Wren.Transport.dll
 C:\Dev\Wren\Source\Wren.Transport\obj\x86\Debug\Wren.Transport.pdb
+C:\src\wren\Source\Wren.Transport\bin\x86\Debug\Wren.Transport.dll
+C:\src\wren\Source\Wren.Transport\bin\x86\Debug\Wren.Transport.pdb
+C:\src\wren\Source\Wren.Transport\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\src\wren\Source\Wren.Transport\obj\x86\Debug\Wren.Transport.dll
+C:\src\wren\Source\Wren.Transport\obj\x86\Debug\Wren.Transport.pdb

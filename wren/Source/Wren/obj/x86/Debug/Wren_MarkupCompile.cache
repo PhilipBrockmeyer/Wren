@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Dev\Wren\Source\Wren\obj\x86\Debug\
+C:\src\wren\Source\Wren\obj\x86\Debug\
 Wren
 none
 false
 DEBUG;TRACE
-C:\Dev\Wren\Source\Wren\App.xaml
+C:\src\wren\Source\Wren\App.xaml
 8-494866311
 
 35-26889240
-38-289565625
+38339938200
 EmulatorView.xaml;MemoryFilter.xaml;Views\LoadingView.xaml;Views\LogOnView.xaml;Views\RomPathsView.xaml;Views\SettingsView.xaml;Views\SmsInputView.xaml;Window1.xaml;
 images\splash.png
 False
